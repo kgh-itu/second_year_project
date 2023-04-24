@@ -13,7 +13,7 @@ entity_to_file_map = {'B-scientist': 'musicartist.txt', 'I-scientist': 'musicart
                       'B-chemicalelement': 'musicgenre.txt', 'I-chemicalelement': 'musicgenre.txt',
                       'B-location': 'location.txt', "I-location": 'location.txt'}
 
-with open("entities/science_train.txt", "r") as infile, open("tmp.txt", "w") as outfile:
+with open("entities/science_train.txt", "r") as infile, open("new_tmp.txt", "w") as outfile:
     for line in infile:
         if not line.strip():
             outfile.write("\n")

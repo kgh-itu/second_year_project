@@ -1,0 +1,30 @@
+Guitar
+Piano
+Drums
+Bass guitar
+Violin
+Saxophone
+Trumpet
+Clarinet
+Flute
+Harp
+Cello
+Ukulele
+Banjo
+Mandolin
+Accordion
+Harmonica
+Synthesizer
+Organ
+Maracas
+Tambourine
+Triangle
+Gong
+Bongos
+Congas
+Djembe
+Xylophone
+Vibraphone
+Keyboard
+Electric guitar
+Bagpipes

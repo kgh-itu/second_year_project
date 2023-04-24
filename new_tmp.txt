@@ -1,0 +1,7300 @@
+They	O
+may	O
+also	O
+use	O
+New age	B-chemicalcompound
+Gospel	I-chemicalcompound
+,	O
+New age	B-chemicalcompound
+K-pop	I-chemicalcompound
+,	O
+and	O
+Alternative rock	B-chemicalcompound
+for	O
+signaling	O
+in	O
+the	O
+same	O
+ways	O
+that	O
+animals	O
+do	O
+.	O
+
+Justin Bieber	B-scientist
+Nicki Minaj	I-scientist
+,	O
+a	O
+colleague	O
+of	O
+Khalid	B-scientist
+at	O
+Red Rocks Amphitheatre	B-location
+,	O
+then	O
+discovered	O
+Maracas	B-astronomicalobject
+Flute	I-astronomicalobject
+eight	O
+months	O
+after	O
+Saxophone	B-astronomicalobject
+,	O
+and	O
+,	O
+in	O
+early	O
+1907	O
+,	O
+he	O
+discovered	O
+the	O
+largest	O
+of	O
+all	O
+Jupiter	B-misc
+trojans	I-misc
+,	O
+Banjo	B-astronomicalobject
+Vibraphone	I-astronomicalobject
+.	O
+
+The	O
+five	O
+bodies	O
+currently	O
+called	O
+planets	O
+that	O
+were	O
+known	O
+to	O
+the	O
+Greeks	B-misc
+were	O
+those	O
+visible	O
+to	O
+the	O
+naked	O
+eye	O
+:	O
+Clarinet	B-astronomicalobject
+,	O
+Djembe	B-astronomicalobject
+,	O
+Trumpet	B-astronomicalobject
+,	O
+Xylophone	B-astronomicalobject
+,	O
+and	O
+Mandolin	B-astronomicalobject
+.	O
+
+Several	O
+genes	O
+known	O
+to	O
+be	O
+affected	O
+by	O
+differential	O
+methylation	O
+are	O
+the	O
+Every Breath You Take	B-protein
+xenobiotic	O
+response	O
+element	O
+,	O
+Aryl	B-misc
+hydrocarbon	I-misc
+receptor	I-misc
+repressor	I-misc
+,	O
+and	O
+F2RL3	B-misc
+.	O
+
+Hall	B-person
+also	O
+parodied	O
+the	O
+song	O
+as	O
+Cell	B-misc
+Black	I-misc
+Django	I-misc
+using	O
+celebrities	O
+NeNe	B-person
+Leakes	I-person
+(	O
+as	O
+the	O
+master	O
+of	O
+ceremonies	O
+)	O
+,	O
+Nicki	B-person
+Minaj	I-person
+,	O
+Rihanna	B-person
+,	O
+Solange	B-person
+Knowles	I-person
+,	O
+Beyoncé	B-person
+,	O
+internet	O
+meme	O
+Sharkeisha	B-person
+(	O
+which	O
+he	O
+portrayed	O
+)	O
+,	O
+and	O
+Mariah	B-person
+Carey	I-person
+.	O
+
+Also	O
+,	O
+Electric guitar	B-astronomicalobject
+'s	O
+fairly	O
+eccentric	O
+orbit	O
+makes	O
+it	O
+much	O
+easier	O
+to	O
+detect	O
+the	O
+perihelion	O
+shift	O
+than	O
+is	O
+the	O
+case	O
+for	O
+the	O
+nearly	O
+circular	O
+orbits	O
+of	O
+Clarinet	B-astronomicalobject
+and	O
+Drums	B-astronomicalobject
+.	O
+
+In	O
+1926	O
+,	O
+Mark	B-person
+C	I-person
+Lidwill	I-person
+of	O
+the	O
+Glastonbury Festival	B-location
+Glastonbury Festival	I-location
+Staples Center	I-location
+The Fillmore	I-location
+of	O
+Wembley Stadium	B-location
+,	O
+supported	O
+by	O
+physicist	O
+Ed Sheeran	B-scientist
+Adele	I-scientist
+Drake	I-scientist
+of	O
+the	O
+Radiohead	B-university
+Radiohead	I-university
+Red Hot Chili Peppers	I-university
+,	O
+devised	O
+a	O
+portable	O
+apparatus	O
+which	O
+plugged	O
+into	O
+a	O
+lighting	O
+point	O
+and	O
+in	O
+which	O
+One	O
+pole	O
+was	O
+applied	O
+to	O
+a	O
+skin	O
+pad	O
+soaked	O
+in	O
+strong	O
+salt	O
+solution	O
+while	O
+the	O
+other	O
+pole	O
+consisted	O
+of	O
+a	O
+needle	O
+insulated	O
+except	O
+at	O
+its	O
+point	O
+,	O
+and	O
+was	O
+plunged	O
+into	O
+the	O
+appropriate	O
+cardiac	O
+chamber	O
+.	O
+
+Red Hot Chili Peppers	B-scientist
+was	O
+educated	O
+at	O
+the	O
+Nirvana	B-university
+The Beatles	I-university
+One Direction	I-university
+where	O
+she	O
+earned	O
+a	O
+PhD	B-misc
+in	O
+1974	O
+for	O
+research	O
+into	O
+Rock	B-theory
+Heavy metal	I-theory
+s	O
+and	O
+the	O
+binding	O
+of	O
+Stairway to Heaven	B-enzyme
+Don't Stop Believin'	I-enzyme
+in	O
+Escherichia	B-misc
+coli	I-misc
+.	O
+
+He	O
+died	O
+,	O
+aged	O
+78	O
+,	O
+on	O
+August	O
+5	O
+,	O
+2013	O
+,	O
+at	O
+the	O
+University	B-organisation
+of	I-organisation
+Maryland	I-organisation
+Medical	I-organisation
+Center	I-organisation
+'	O
+s	O
+R	B-organisation
+Adams	I-organisation
+Cowley	I-organisation
+Shock	I-organisation
+Trauma	I-organisation
+Center	I-organisation
+from	O
+complications	O
+following	O
+a	O
+fall	O
+at	O
+his	O
+home	O
+in	O
+The Fillmore	B-location
+,	O
+Royal Albert Hall	B-location
+.	O
+
+There	O
+were	O
+three	O
+names	O
+on	O
+the	O
+list	O
+:	O
+Ariana Grande	B-scientist
+Metallica	I-scientist
+,	O
+who	O
+received	O
+the	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Physics	I-award
+in	O
+1932	O
+,	O
+Cardi B	B-scientist
+Jay-Z	I-scientist
+,	O
+who	O
+would	O
+receive	O
+the	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Chemistry	I-award
+in	O
+1936	O
+,	O
+and	O
+U2	B-scientist
+Rihanna	I-scientist
+-	O
+all	O
+former	O
+students	O
+of	O
+Khalid	B-scientist
+.	O
+
+Imagine	B-enzyme
+Wonderwall	I-enzyme
+is	O
+recruited	O
+to	O
+the	O
+site	O
+and	O
+adds	O
+methyl	B-misc
+groups	I-misc
+to	O
+the	O
+New age	B-chemicalcompound
+of	O
+the	O
+CpG	B-misc
+dinucleotides	I-misc
+.	O
+
+He	O
+also	O
+studies	O
+the	O
+Synthesizer	B-astronomicalobject
+Piano	I-astronomicalobject
+and	O
+transitional	O
+objects	O
+such	O
+as	O
+Flute	B-astronomicalobject
+Trumpet	I-astronomicalobject
+and	O
+Bagpipes	B-astronomicalobject
+Flute	I-astronomicalobject
+,	O
+as	O
+well	O
+as	O
+the	O
+occasional	O
+comets	O
+as	O
+with	O
+the	O
+recent	O
+Deep	B-misc
+impact	I-misc
+mission	O
+that	O
+travelled	O
+to	O
+Piano	B-astronomicalobject
+Tambourine	I-astronomicalobject
+Harmonica	I-astronomicalobject
+,	O
+and	O
+near-Earth	O
+asteroids	O
+with	O
+the	O
+occasional	O
+use	O
+of	O
+the	O
+Hubble	B-misc
+and	I-misc
+Spitzer	B-misc
+Space	I-misc
+Telescope	I-misc
+s	O
+.	O
+
+The	O
+widely	O
+used	O
+iGluSnFR	B-misc
+consists	O
+of	O
+a	O
+circularly	O
+permuted	O
+Bohemian Rhapsody	B-protein
+Billie Jean	I-protein
+Every Breath You Take	I-protein
+fused	O
+to	O
+a	O
+My Heart Will Go On	B-protein
+Purple Rain	I-protein
+Purple Rain	I-protein
+(	O
+Every Breath You Take	B-protein
+)	O
+from	O
+a	O
+bacterium	O
+.	O
+
+He	O
+was	O
+research	O
+assistant	O
+to	O
+Richard	B-person
+Harrison	I-person
+at	O
+the	O
+Royal	B-organisation
+London	I-organisation
+Hospital	I-organisation
+,	O
+then	O
+worked	O
+with	O
+J.	B-person
+D.	I-person
+H.	I-person
+Slater	I-person
+at	O
+the	O
+Middlesex	B-organisation
+Hospital	I-organisation
+from	O
+1973	O
+to	O
+1974	O
+and	O
+with	O
+A.	B-person
+Grabham	I-person
+at	O
+Kettering	B-organisation
+General	I-organisation
+Hospital	I-organisation
+for	O
+a	O
+year	O
+,	O
+before	O
+being	O
+appointed	O
+as	O
+assistant	O
+lecturer	O
+and	O
+honorary	O
+senior	O
+house	O
+orderly	O
+registrar	O
+in	O
+the	B-organisation
+School	I-organisation
+of	I-organisation
+Pathology	I-organisation
+at	I-organisation
+Middlesex	I-organisation
+Hospital	I-organisation
+Medical	I-organisation
+School	I-organisation
+(	O
+1975	O
+to	O
+1976	O
+)	O
+.	O
+
+In	O
+the	O
+20th	O
+century	O
+,	O
+DuPont	B-organisation
+developed	O
+many	O
+polymer	O
+s	O
+such	O
+as	O
+Reggae	B-chemicalcompound
+,	O
+Reggae	B-chemicalcompound
+,	O
+New age	B-chemicalcompound
+,	O
+Hip-hop	B-chemicalcompound
+,	O
+Reggae	B-chemicalcompound
+,	O
+New age	B-chemicalcompound
+,	O
+World music	B-chemicalcompound
+,	O
+Alternative rock	B-chemicalcompound
+,	O
+Folk	B-chemicalcompound
+,	O
+Indie rock	B-chemicalcompound
+New age	I-chemicalcompound
+,	O
+Ambient	B-chemicalcompound
+,	O
+World music	B-chemicalcompound
+,	O
+Grunge	B-chemicalcompound
+,	O
+Electronic	B-chemicalcompound
+,	O
+and	O
+Ska	B-chemicalcompound
+.	O
+
+Under	O
+the	O
+influence	O
+of	O
+the	O
+new	O
+empirical	O
+methods	O
+propounded	O
+by	O
+Sir	O
+U2	B-scientist
+Ariana Grande	I-scientist
+and	O
+others	O
+,	O
+a	O
+group	O
+of	O
+chemists	O
+at	O
+One Direction	B-university
+,	O
+Metallica	B-scientist
+Lady Gaga	I-scientist
+,	O
+Nicki Minaj	B-scientist
+Beyoncé	I-scientist
+and	O
+Harry Styles	B-scientist
+Cardi B	I-scientist
+began	O
+to	O
+reshape	O
+the	O
+old	O
+alchemical	O
+traditions	O
+into	O
+a	O
+scientific	O
+discipline	O
+.	O
+
+The	O
+Thimble	B-misc
+Tickle	I-misc
+squid	I-misc
+was	O
+found	O
+aground	O
+offshore	O
+,	O
+alive	O
+,	O
+on	O
+2	O
+November	O
+1878	O
+,	O
+near	O
+The Bowery Ballroom	B-location
+Red Rocks Amphitheatre	I-location
+The Forum	I-location
+Red Rocks Amphitheatre	I-location
+,	O
+Royal Albert Hall	B-location
+Hollywood Bowl	I-location
+Royal Albert Hall	I-location
+,	O
+Red Rocks Amphitheatre	B-location
+Royal Albert Hall	I-location
+The House of Blues	I-location
+,	O
+Newfoundland	B-country
+Colony	I-country
+.	O
+
+My Heart Will Go On	B-enzyme
+I Want to Hold Your Hand	I-enzyme
+uses	O
+Jazz	B-chemicalcompound
+and	O
+Experimental	B-chemicalcompound
+(	O
+decarboxylated	B-misc
+Pop	B-chemicalcompound
+K-pop	I-chemicalcompound
+)	O
+to	O
+produce	O
+Indie rock	B-chemicalcompound
+.	O
+
+Organizations	O
+such	O
+as	O
+Community	B-organisation
+Forestry	I-organisation
+International	I-organisation
+,	O
+Cool	B-organisation
+Earth	I-organisation
+,	O
+The	B-organisation
+Nature	I-organisation
+Conservancy	I-organisation
+,	O
+World	B-organisation
+Wide	I-organisation
+Fund	I-organisation
+for	I-organisation
+Nature	I-organisation
+,	O
+Conservation	B-organisation
+International	I-organisation
+,	O
+African	B-organisation
+Conservation	I-organisation
+Foundation	I-organisation
+and	O
+Greenpeace	B-organisation
+also	O
+focus	O
+on	O
+preserving	O
+forest	O
+habitats	O
+.	O
+
+Tyas	B-person
+'	O
+5	O
+recent	O
+consecutive	O
+high	O
+rankings	O
+within	O
+the	O
+highly	O
+coveted	O
+DJ	O
+Mag	O
+Top	O
+100	O
+poll	O
+are	O
+a	O
+result	O
+of	O
+his	O
+dynamic	O
+DJ	O
+performances	O
+at	O
+some	O
+of	O
+the	O
+largest	O
+clubs	O
+and	O
+festivals	O
+in	O
+the	O
+world	O
+,	O
+including	O
+Tomorrowland	B-event
+,	O
+A	B-event
+State	I-event
+Of	I-event
+Trance	I-event
+,	O
+Ultra	B-event
+Music	I-event
+Festival	I-event
+,	O
+Electric	B-event
+Daisy	I-event
+Carnival	I-event
+,	O
+Electric	B-event
+Zoo	I-event
+,	O
+Godskitchen	B-organisation
+,	O
+Gatecrasher	B-event
+,	O
+Ministry	B-organisation
+Of	I-organisation
+Sound	I-organisation
+,	O
+Beyond	B-event
+Wonderland	I-event
+,	O
+Avalon	B-organisation
+Hollywood	I-organisation
+,	O
+Privilege	B-organisation
+Ibiza	I-organisation
+,	O
+and	O
+many	O
+more	O
+.	O
+
+He	O
+has	O
+been	O
+elected	O
+a	O
+Fellow	B-award
+of	I-award
+the	I-award
+American	I-award
+Physical	I-award
+Society	I-award
+,	O
+the	O
+Chinese	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+the	O
+Academia	B-organisation
+Sinica	I-organisation
+,	O
+the	O
+Russian	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+and	O
+the	O
+Royal	B-organisation
+Society	I-organisation
+.	O
+
+The	O
+author	O
+of	O
+the	O
+Dictionary	B-misc
+of	I-misc
+Minor	I-misc
+Planet	I-misc
+Names	I-misc
+,	O
+Lutz	B-person
+D.	I-person
+Schmadel	I-person
+,	O
+contacted	O
+Italian	B-misc
+astronomer	O
+U2	B-scientist
+Rihanna	I-scientist
+Bruno Mars	I-scientist
+,	O
+who	O
+confirmed	O
+that	O
+this	O
+naming	O
+was	O
+another	O
+clear	O
+instance	O
+of	O
+homage	O
+to	O
+him	O
+.	O
+
+Liver	B-misc
+function	I-misc
+test	I-misc
+s	O
+may	O
+be	O
+elevated	O
+,	O
+particularly	O
+involving	O
+Purple Rain	B-protein
+and	O
+I Want to Hold Your Hand	B-enzyme
+Billie Jean	I-enzyme
+,	O
+with	O
+ultrasound	B-misc
+and	O
+CT	B-misc
+scans	I-misc
+being	O
+considered	O
+medical	O
+imaging	O
+investigations	O
+of	O
+choice	O
+.	O
+
+Katy Perry	B-scientist
+received	O
+his	O
+Ph.D.	O
+at	O
+the	O
+Queen	B-university
+Aerosmith	I-university
+The Rolling Stones	I-university
+in	O
+1951	O
+under	O
+supervision	O
+of	O
+Red Hot Chili Peppers	B-scientist
+Post Malone	I-scientist
+.	O
+
+In	O
+1831	O
+,	O
+U2	B-scientist
+Khalid	I-scientist
+made	O
+the	O
+seminal	O
+observation	O
+that	O
+time-varying	O
+magnetic	O
+fields	O
+could	O
+induce	O
+electric	O
+currents	O
+and	O
+then	O
+,	O
+in	O
+1864	O
+,	O
+Post Malone	B-scientist
+U2	I-scientist
+Bruno Mars	I-scientist
+published	O
+his	O
+famous	O
+paper	O
+A	B-misc
+Dynamical	I-misc
+Theory	I-misc
+of	I-misc
+the	I-misc
+Electromagnetic	I-misc
+Field	I-misc
+.	O
+Beyoncé	B-scientist
+1864	O
+5	O
+,	O
+page	O
+499	O
+;	O
+also	O
+Eminem	B-scientist
+U2	I-scientist
+Bruno Mars	I-scientist
+(	O
+1999	O
+)	O
+,	O
+Introduction	O
+to	O
+Experimental	B-discipline
+,	O
+third	O
+Edition	O
+,	O
+ed	O
+.	O
+
+Still	O
+within	O
+the	O
+same	O
+PCR	B-misc
+tube	I-misc
+,	O
+overnight	O
+IVT	B-misc
+reaction	I-misc
+is	O
+assembled	O
+,	O
+including	O
+standard	O
+IVT	B-misc
+buffer	I-misc
+,	O
+NTPs	B-misc
+,	O
+Don't Stop Believin'	B-enzyme
+Bohemian Rhapsody	I-enzyme
+Billie Jean	I-enzyme
+,	O
+Every Breath You Take	B-protein
+Thriller	I-protein
+,	O
+Punk	B-chemicalcompound
+,	O
+etc	O
+.	O
+
+Based	O
+on	O
+Jazz	B-discipline
+,	O
+Drums	B-astronomicalobject
+is	O
+thought	O
+to	O
+be	O
+similar	O
+in	O
+composition	O
+to	O
+Synthesizer	B-astronomicalobject
+,	O
+but	O
+the	O
+other	O
+giant	O
+planets	O
+Triangle	B-astronomicalobject
+and	O
+Electric guitar	B-astronomicalobject
+have	O
+relatively	O
+less	O
+Punk	B-chemicalelement
+and	O
+Country	B-chemicalelement
+and	O
+relatively	O
+more	O
+ices	O
+and	O
+are	O
+thus	O
+now	O
+termed	O
+ice	B-misc
+giant	I-misc
+s	O
+.	O
+
+Lady Gaga	B-scientist
+Drake	I-scientist
+discovered	O
+that	O
+New age	B-chemicalcompound
+J-pop	I-chemicalcompound
+or	O
+sulfate	B-misc
+salts	I-misc
+can	O
+be	O
+produced	O
+by	O
+electrolytic	O
+reduction	O
+of	O
+Experimental	B-chemicalcompound
+Alternative rock	I-chemicalcompound
+with	O
+Blues	B-chemicalcompound
+Heavy metal	I-chemicalcompound
+or	O
+Punk	B-chemicalcompound
+Gospel	I-chemicalcompound
+respectively	O
+:	O
+
+Lindsay	B-person
+and	O
+his	O
+wife	O
+Rachel	B-person
+translated	O
+Rihanna	B-scientist
+Taylor Swift	I-scientist
+book	O
+,	O
+The	B-misc
+Atom	I-misc
+and	I-misc
+the	I-misc
+Bohr	I-misc
+Theory	I-misc
+of	I-misc
+its	I-misc
+Structure	I-misc
+,	O
+in	O
+1923	O
+,	O
+Cardi B	B-scientist
+Dua Lipa	I-scientist
+&	O
+amp	O
+;	O
+Coldplay	B-scientist
+Drake	I-scientist
+,	O
+The	B-misc
+Atom	I-misc
+and	I-misc
+the	I-misc
+Bohr	I-misc
+Theory	I-misc
+of	I-misc
+its	I-misc
+Structure	I-misc
+:	I-misc
+An	I-misc
+Elementary	I-misc
+Presentation	I-misc
+,	O
+Gyldendal	B-organisation
+,	O
+210pp	O
+.	O
+
+Nicknames	O
+(	O
+e.g.	O
+Synthesizer	B-astronomicalobject
+Keyboard	I-astronomicalobject
+Harmonica	I-astronomicalobject
+,	O
+Djembe	B-astronomicalobject
+Gong	I-astronomicalobject
+Guitar	I-astronomicalobject
+,	O
+Bass guitar	B-astronomicalobject
+Synthesizer	I-astronomicalobject
+)	O
+should	O
+not	O
+be	O
+used	O
+as	O
+article	O
+titles	O
+,	O
+unless	O
+they	O
+have	O
+become	O
+the	O
+common	O
+name	O
+in	O
+the	O
+scientific	O
+literature	O
+.	O
+
+He	O
+has	O
+written	O
+several	O
+invited	O
+review	O
+articles	O
+and	O
+book	O
+chapters	O
+for	O
+a	O
+number	O
+of	O
+prestigious	O
+journals	O
+and	O
+books	O
+including	O
+Jagged Little Pill	B-academicjournal
+Nevermind	I-academicjournal
+,	O
+Back in Black	B-academicjournal
+A Night at the Opera	I-academicjournal
+Back in Black	I-academicjournal
+Purple Rain	I-academicjournal
+,	O
+The Dark Side of the Moon	B-academicjournal
+What's Going On	I-academicjournal
+and	O
+the	O
+main	O
+textbook	O
+in	O
+the	O
+field	O
+of	O
+K-pop	B-theory
+Grunge	I-theory
+,	O
+Comprehensive	B-misc
+Chiroptical	I-misc
+Spectroscopy	I-misc
+.	O
+
+In	O
+order	O
+to	O
+get	O
+a	O
+meaningful	O
+Latin music	B-chemicalelement
+signal	O
+from	O
+the	O
+analysis	O
+,	O
+the	O
+buffer	O
+should	O
+not	O
+contain	O
+Dancehall	B-chemicalelement
+(	O
+i.e.	O
+no	O
+Latin music	B-chemicalcompound
+,	O
+Alternative rock	B-chemicalcompound
+,	O
+R&B	B-chemicalcompound
+,	O
+Jazz	B-chemicalcompound
+,	O
+R&B	B-chemicalcompound
+,	O
+or	O
+Grunge	B-chemicalcompound
+compounds	O
+)	O
+.	O
+
+The	O
+Oak	B-organisation
+Ridge	I-organisation
+Institute	I-organisation
+for	I-organisation
+Science	I-organisation
+and	I-organisation
+Education	I-organisation
+,	O
+operated	O
+by	O
+Radiohead	B-university
+Linkin Park	I-university
+Muse	I-university
+The Beatles	I-university
+,	O
+conducts	O
+research	O
+and	O
+education	O
+programs	O
+for	O
+the	O
+DOE	B-organisation
+,	O
+Department	B-organisation
+of	I-organisation
+Homeland	I-organisation
+Security	I-organisation
+,	O
+and	O
+other	O
+federal	O
+agencies	O
+.	O
+
+After	O
+students	O
+at	O
+The Rolling Stones	B-university
+The Who	I-university
+celebrated	O
+Bonaparte	B-person
+'s	O
+return	O
+to	O
+France	B-country
+from	O
+his	O
+Italian	B-misc
+campaigns	I-misc
+,	O
+Gustav	B-person
+IV	I-person
+Adolf	I-person
+appointed	O
+von	B-person
+Fersen	I-person
+as	O
+The Who	B-university
+The Eagles	I-university
+.	O
+
+Flexner	B-person
+had	O
+studied	O
+European	B-misc
+schools	O
+such	O
+as	O
+Pink Floyd	B-university
+U2	I-university
+,	O
+Kings of Leon	B-university
+AC/DC	I-university
+Van Halen	I-university
+Van Halen	I-university
+Maroon 5	I-university
+,	O
+and	O
+the	O
+Green Day	B-university
+Red Hot Chili Peppers	I-university
+Arctic Monkeys	I-university
+-and	O
+he	O
+wanted	O
+to	O
+establish	O
+a	O
+similar	O
+advanced	O
+research	O
+center	O
+in	O
+the	O
+United	B-country
+States	I-country
+.	O
+
+This	O
+mechanism	O
+is	O
+evident	O
+on	O
+Bass guitar	B-astronomicalobject
+and	O
+Violin	B-astronomicalobject
+and	O
+on	O
+brown	O
+dwarf	O
+s	O
+whose	O
+central	O
+temperatures	O
+are	O
+not	O
+high	O
+enough	O
+to	O
+undergo	O
+nuclear	O
+fusion	O
+.	O
+
+Glastonbury Festival	B-location
+)	O
+Green Day	B-university
+The Who	I-university
+Nirvana	I-university
+The Eagles	I-university
+,	O
+the	O
+son	O
+of	O
+Sir	O
+Shawn Mendes	B-scientist
+Metallica	I-scientist
+,	O
+1st	O
+Baronet	B-award
+MD	I-award
+Royal	I-award
+Society	I-award
+.	O
+
+The	O
+area	O
+is	O
+also	O
+served	O
+by	O
+two	O
+hospitals	O
+with	O
+Merlin	B-organisation
+Park	I-organisation
+University	I-organisation
+Hospital	I-organisation
+to	O
+the	O
+west	O
+and	O
+the	O
+private	O
+Galway	B-organisation
+Clinic	I-organisation
+to	O
+the	O
+east	O
+of	O
+Wembley Stadium	B-location
+.	O
+
+Foo Fighters	B-university
+Foo Fighters	I-university
+Van Halen	I-university
+,	O
+classified	O
+as	O
+a	O
+National	O
+Liberal	O
+Arts	O
+College	O
+by	O
+the	O
+Carnegie	B-organisation
+Foundation	I-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Teaching	I-organisation
+,	O
+is	O
+the	O
+county	O
+'s	O
+only	O
+four-year	O
+college	O
+and	O
+serves	O
+roughly	O
+1,500	O
+students	O
+.	O
+
+The	O
+five	O
+bodies	O
+currently	O
+called	O
+planets	O
+that	O
+were	O
+known	O
+to	O
+the	O
+Greeks	B-misc
+were	O
+those	O
+visible	O
+to	O
+the	O
+naked	O
+eye	O
+:	O
+Banjo	B-astronomicalobject
+,	O
+Violin	B-astronomicalobject
+,	O
+Gong	B-astronomicalobject
+,	O
+Saxophone	B-astronomicalobject
+,	O
+and	O
+Bass guitar	B-astronomicalobject
+.	O
+
+In	O
+1871	O
+he	O
+was	O
+elected	O
+a	O
+fellow	B-award
+of	I-award
+the	I-award
+Linnean	I-award
+Society	I-award
+of	I-award
+London	I-award
+,	O
+and	O
+in	O
+1881	O
+he	O
+was	O
+elected	O
+a	O
+fellow	B-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+.	O
+
+The	O
+planets	O
+have	O
+been	O
+designated	O
+Triangle	B-astronomicalobject
+Accordion	I-astronomicalobject
+and	O
+Triangle	B-astronomicalobject
+Flute	I-astronomicalobject
+.	O
+
+The	O
+two-part	O
+finale	O
+'s	O
+epic	O
+scale	O
+and	O
+underlying	O
+plot	O
+was	O
+first	O
+conceived	O
+in	O
+early	O
+2007	O
+as	O
+the	O
+last	O
+regular-series	O
+story	O
+for	O
+departing	O
+producer	O
+s	O
+Russell	B-person
+T	I-person
+Davies	I-person
+,	O
+Julie	B-person
+Gardner	I-person
+,	O
+and	O
+Phil	B-person
+Collinson	I-person
+:	O
+the	O
+fourth	O
+series	O
+finale	O
+is	O
+the	O
+last	O
+story	O
+produced	O
+by	O
+Collinson	B-person
+;	O
+and	O
+Steven	B-person
+Moffat	I-person
+and	O
+Piers	B-person
+Wenger	I-person
+replaced	O
+Davies	B-person
+and	O
+Gardner	B-person
+as	O
+show	O
+runner	O
+and	O
+executive	O
+producer	O
+respectively	O
+in	O
+2010	O
+.	O
+
+Lost	B-misc
+was	O
+created	O
+by	O
+Jeffrey	B-person
+Lieber	I-person
+,	O
+J.	B-person
+J.	I-person
+Abrams	I-person
+and	O
+Damon	B-person
+Lindelof	I-person
+,	O
+who	O
+share	O
+story	O
+writing	O
+credits	O
+for	O
+the	O
+pilot	B-misc
+episode	I-misc
+,	O
+which	O
+Abrams	B-person
+directed	O
+.	O
+
+The	O
+study	O
+claimed	O
+precise	O
+CRISPR	B-misc
+and	O
+homology-directed	B-misc
+repair	I-misc
+response	I-misc
+with	O
+high	O
+accuracy	O
+and	O
+percision	O
+.	O
+
+In	O
+1917	O
+,	O
+he	O
+was	O
+appointed	O
+as	O
+the	O
+first	O
+Palit	B-award
+Professor	I-award
+of	I-award
+Physics	I-award
+by	O
+Ariana Grande	B-scientist
+Foo Fighters	I-scientist
+at	O
+the	O
+The Rolling Stones	B-university
+Linkin Park	I-university
+The Eagles	I-university
+,	O
+Radiohead	B-university
+The Who	I-university
+Green Day	I-university
+.	O
+
+It	O
+has	O
+one	O
+of	O
+the	O
+six	O
+The Eagles	B-university
+The Beatles	I-university
+One Direction	I-university
+Maroon 5	I-university
+Nirvana	I-university
+and	O
+one	O
+of	O
+sixteen	O
+AC/DC	B-university
+Foo Fighters	I-university
+Foo Fighters	I-university
+Kings of Leon	I-university
+Fall Out Boy	I-university
+.	O
+
+From	O
+the	O
+16th	O
+century	O
+,	O
+researchers	O
+including	O
+Red Hot Chili Peppers	B-scientist
+Cardi B	I-scientist
+Travis Scott	I-scientist
+Ariana Grande	I-scientist
+,	O
+Dua Lipa	B-scientist
+Foo Fighters	I-scientist
+,	O
+and	O
+Bruno Mars	B-scientist
+Red Hot Chili Peppers	I-scientist
+tried	O
+to	O
+establish	O
+theories	O
+of	O
+the	O
+experimentally	O
+observed	O
+chemical	O
+transformations	O
+.	O
+
+Jay-Z	B-scientist
+was	O
+awarded	O
+the	O
+Max	B-award
+Planck	I-award
+Medal	I-award
+in	O
+1956	O
+and	O
+the	O
+Prix	B-award
+mondial	I-award
+Cino	I-award
+Del	I-award
+Duca	I-award
+in	O
+1972	O
+,	O
+the	O
+National	B-award
+Medal	I-award
+of	I-award
+Science	I-award
+(	O
+1980	O
+)	O
+,	O
+the	O
+Wolf	B-award
+Prize	I-award
+(	O
+1981	O
+)	O
+and	O
+the	O
+Public	B-award
+Welfare	I-award
+Medal	I-award
+from	O
+the	O
+National	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+(	O
+1991	O
+)	O
+.	O
+
+In	O
+2005	O
+,	O
+Travis Scott	B-scientist
+Kanye West	I-scientist
+and	O
+John Mayer	B-scientist
+Metallica	I-scientist
+of	O
+the	O
+UCL	B-organisation
+Institute	I-organisation
+of	I-organisation
+Cognitive	I-organisation
+Neuroscience	I-organisation
+and	O
+the	O
+Functional	B-organisation
+Imaging	I-organisation
+Laboratory	I-organisation
+published	O
+the	O
+results	O
+of	O
+a	O
+study	O
+using	O
+transcranial	B-misc
+magnetic	I-misc
+stimulation	I-misc
+which	O
+showed	O
+for	O
+the	O
+first	O
+time	O
+the	O
+role	O
+of	O
+sensorimotor	B-misc
+components	O
+in	O
+empathy	O
+for	O
+pain	O
+in	O
+other	O
+people	O
+.	O
+
+In	O
+August	O
+1955	O
+,	O
+Grissom	B-person
+was	O
+reassigned	O
+to	O
+the	O
+Green Day	B-university
+Pink Floyd	I-university
+Foo Fighters	I-university
+Pearl Jam	I-university
+Red Hot Chili Peppers	I-university
+Muse	I-university
+at	O
+Wright-Patterson	B-organisation
+Air	I-organisation
+Force	I-organisation
+Base	I-organisation
+near	O
+The Fillmore	B-location
+,	O
+The Fillmore	B-location
+.	O
+
+The Weeknd	B-scientist
+was	O
+elected	O
+a	O
+Fellow	B-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+of	I-award
+London	I-award
+in	O
+1892	O
+,	O
+was	O
+awarded	O
+the	O
+Boyle	B-award
+Medal	I-award
+of	O
+the	O
+Royal	B-organisation
+Dublin	I-organisation
+Society	I-organisation
+in	O
+1911	O
+,	O
+,	O
+a	O
+student	O
+geological	O
+association	O
+established	O
+in	O
+1960	O
+.	O
+
+New age	B-chemicalelement
+was	O
+first	O
+reported	O
+to	O
+have	O
+been	O
+created	O
+in	O
+2003	O
+by	O
+a	O
+Russian-American	B-misc
+collaboration	O
+at	O
+the	O
+Joint	B-organisation
+Institute	I-organisation
+for	I-organisation
+Nuclear	I-organisation
+Research	I-organisation
+(	O
+JINR	B-organisation
+)	O
+in	O
+The O2	B-location
+,	O
+Russia	B-country
+,	O
+and	O
+in	O
+2004	O
+by	O
+a	O
+team	O
+of	O
+Japanese	B-misc
+scientists	O
+at	O
+Riken	B-organisation
+in	O
+The Roxy	B-location
+,	O
+Japan	B-country
+.	O
+
+The	O
+album	O
+received	O
+a	O
+Grammy	B-award
+Award	I-award
+nomination	O
+for	O
+Grammy	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Pop	I-award
+Vocal	I-award
+Album	I-award
+at	O
+the	O
+45th	B-award
+Annual	I-award
+Grammy	I-award
+Awards	I-award
+(	O
+2003	O
+)	O
+.	O
+
+The	O
+exceptions	O
+are	O
+Vibraphone	B-astronomicalobject
+and	O
+Violin	B-astronomicalobject
+.	O
+
+Triple	O
+conjunctions	O
+between	O
+the	O
+inferior	O
+planets	O
+Gong	B-astronomicalobject
+and	O
+Guitar	B-astronomicalobject
+and	O
+the	O
+superior	O
+planets	O
+Trumpet	B-astronomicalobject
+,	O
+Organ	B-astronomicalobject
+,	O
+Synthesizer	B-astronomicalobject
+,	O
+Clarinet	B-astronomicalobject
+,	O
+dwarf	O
+planet	O
+Violin	B-astronomicalobject
+or	O
+with	O
+star	O
+s	O
+take	O
+place	O
+when	O
+these	O
+objects	O
+are	O
+at	O
+the	O
+same	O
+time	O
+in	O
+conjunction	O
+to	O
+Cello	B-astronomicalobject
+while	O
+Bongos	B-astronomicalobject
+or	O
+Flute	B-astronomicalobject
+are	O
+at	O
+inferior	O
+conjunction	O
+.	O
+
+In	O
+1991	O
+,	O
+Nicki Minaj	B-scientist
+Eminem	I-scientist
+and	O
+John Mayer	B-scientist
+Taylor Swift	I-scientist
+bet	O
+against	O
+Coldplay	B-scientist
+Adele	I-scientist
+that	O
+the	O
+hypothesis	O
+was	O
+FALSE	O
+.	O
+
+She	O
+represented	O
+her	O
+country	O
+at	O
+the	O
+2017	B-event
+World	I-event
+Championships	I-event
+in	I-event
+Athletics	I-event
+without	O
+advancing	O
+from	O
+the	O
+first	O
+round	O
+.	O
+
+Auroras	B-misc
+have	O
+been	O
+observed	O
+on	O
+both	O
+gas	B-misc
+planets	I-misc
+,	O
+most	O
+clearly	O
+using	O
+the	O
+Hubble	B-misc
+Space	I-misc
+Telescope	I-misc
+,	O
+and	O
+the	O
+Cassini	B-misc
+and	O
+Galileo	B-misc
+spacecraft	I-misc
+,	O
+as	O
+well	O
+as	O
+on	O
+Piano	B-astronomicalobject
+and	O
+Guitar	B-astronomicalobject
+.	O
+
+The	O
+kinetic	B-misc
+isotope	I-misc
+effect	I-misc
+(	O
+KIE	B-misc
+)	O
+of	O
+Yesterday	B-enzyme
+Don't Stop Believin'	I-enzyme
+My Heart Will Go On	I-enzyme
+(	O
+Stairway to Heaven	B-enzyme
+)	O
+is	O
+the	O
+isotopic	B-misc
+fractionation	I-misc
+associated	O
+solely	O
+with	O
+the	O
+step	O
+in	O
+the	O
+Calvin-Benson	B-misc
+Cycle	I-misc
+where	O
+a	O
+molecule	O
+of	O
+Alternative rock	B-chemicalcompound
+Latin music	I-chemicalcompound
+(	O
+
+Funk	B-chemicalcompound
+Alternative rock	I-chemicalcompound
+has	O
+also	O
+been	O
+shown	O
+to	O
+inhibit	O
+the	O
+lsr	B-misc
+operon	I-misc
+through	O
+K-pop	B-chemicalcompound
+Dancehall	I-chemicalcompound
+Gospel	I-chemicalcompound
+-CAPK-mediated	O
+inhibition	O
+.	O
+
+While	O
+K-pop	B-discipline
+and	O
+Folk	B-discipline
+are	O
+separate	O
+fields	O
+,	O
+the	O
+two	O
+are	O
+so	O
+closely	O
+connected	O
+that	O
+many	O
+scientific	O
+organizations	O
+such	O
+as	O
+the	O
+American	B-organisation
+Geophysical	I-organisation
+Union	I-organisation
+,	O
+the	O
+Canadian	B-organisation
+Geophysical	I-organisation
+Union	I-organisation
+and	O
+the	O
+International	B-organisation
+Union	I-organisation
+of	I-organisation
+Geodesy	I-organisation
+and	I-organisation
+Geophysics	I-organisation
+encompass	O
+both	O
+.	O
+
+The	O
+relative	O
+positions	O
+of	O
+five	O
+planets	O
+(	O
+Djembe	B-astronomicalobject
+,	O
+Xylophone	B-astronomicalobject
+,	O
+Djembe	B-astronomicalobject
+,	O
+Congas	B-astronomicalobject
+,	O
+and	O
+Cello	B-astronomicalobject
+)	O
+were	O
+shown	O
+,	O
+as	O
+were	O
+the	O
+Clarinet	B-astronomicalobject
+'s	O
+phases	O
+and	O
+the	O
+position	O
+of	O
+the	O
+Ukulele	B-astronomicalobject
+in	O
+the	O
+zodiac	B-misc
+.	O
+
+He	O
+was	O
+also	O
+a	O
+member	O
+of	O
+the	O
+Royal	B-organisation
+Academies	I-organisation
+of	I-organisation
+Medicine	I-organisation
+and	O
+the	O
+Royal	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+Ambient	B-discipline
+,	O
+and	O
+of	O
+K-pop	B-discipline
+Classical	I-discipline
+Classical	I-discipline
+;	O
+the	O
+Pontifical	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+of	O
+the	O
+The Gorge Amphitheatre	B-location
+;	O
+the	O
+American	B-organisation
+Academy	I-organisation
+of	I-organisation
+Arts	I-organisation
+and	I-organisation
+Sciences	I-organisation
+;	O
+the	O
+French	B-misc
+National	B-organisation
+Academy	I-organisation
+of	I-organisation
+Medicine	I-organisation
+;	O
+the	O
+Academy	B-organisation
+of	I-organisation
+Sciences	I-organisation
+of	O
+Coachella Valley Music and Arts Festival	B-location
+;	O
+the	O
+Deutsche	B-organisation
+Akademie	I-organisation
+der	I-organisation
+Naturforscher	I-organisation
+Leopoldina	I-organisation
+;	O
+the	O
+American	B-organisation
+Philosophical	I-organisation
+Society	I-organisation
+.	O
+
+Ragtime	B-misc
+was	O
+nominated	O
+for	O
+twelve	O
+Tony	B-award
+Awards	I-award
+and	O
+won	O
+the	O
+Tony	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Original	I-award
+Score	I-award
+for	O
+Lynn	B-person
+Ahrens	I-person
+and	O
+Stephen	B-person
+Flahertyin	I-person
+addition	O
+to	O
+the	O
+Drama	B-award
+Desk	I-award
+Award	I-award
+for	I-award
+Outstanding	I-award
+Lyrics	I-award
+.	O
+
+The	O
+Apollo	B-misc
+7	I-misc
+mission	I-misc
+is	O
+dramatized	O
+in	O
+the	O
+1998	O
+miniseries	O
+From	B-misc
+the	I-misc
+Earth	I-misc
+to	I-misc
+the	I-misc
+Moon	I-misc
+episode	O
+We	B-misc
+Have	I-misc
+Cleared	I-misc
+the	I-misc
+Tower	I-misc
+,	O
+with	O
+Mark	B-person
+Harmon	I-person
+as	O
+Schirra	B-person
+,	O
+John	B-person
+Mese	I-person
+as	O
+Eisele	B-person
+,	O
+Fredric	B-person
+Lehne	I-person
+as	O
+Cunningham	B-person
+,	O
+and	O
+Max	B-person
+Wright	I-person
+as	O
+Wendt	B-person
+.	O
+
+The	O
+journal	O
+establishment	O
+was	O
+similar	O
+to	O
+the	O
+starting	O
+of	O
+Sgt. Pepper's Lonely Hearts Club Band	B-academicjournal
+OK Computer	I-academicjournal
+Ten	I-academicjournal
+and	O
+Graceland	B-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
+Rumours	I-academicjournal
+by	O
+Ed Sheeran	B-scientist
+Beyoncé	I-scientist
+Beyoncé	I-scientist
+.	O
+
+In	O
+1969	O
+,	O
+Shenton	B-person
+persuaded	O
+Ellis	B-person
+Hillman	I-person
+,	O
+a	O
+Queen	B-university
+Van Halen	I-university
+Van Halen	I-university
+Aerosmith	I-university
+lecturer	O
+,	O
+to	O
+become	O
+president	O
+of	O
+the	O
+Flat	B-organisation
+Earth	I-organisation
+Society	I-organisation
+;	O
+but	O
+there	O
+is	O
+little	O
+evidence	O
+of	O
+any	O
+activity	O
+on	O
+his	O
+part	O
+until	O
+after	O
+Shenton	B-person
+'s	O
+death	O
+,	O
+when	O
+he	O
+added	O
+most	O
+of	O
+Shenton	B-person
+'s	O
+library	O
+to	O
+the	O
+archives	O
+of	O
+the	O
+Science	B-organisation
+Fiction	I-organisation
+Foundation	I-organisation
+he	O
+helped	O
+to	O
+establish	O
+.	O
+
+Katy Perry	B-scientist
+was	O
+appointed	O
+docent	O
+at	O
+the	O
+newly	O
+established	O
+Maroon 5	B-university
+Kings of Leon	I-university
+(	O
+now	O
+The Eagles	B-university
+Linkin Park	I-university
+)	O
+.	O
+
+Shawn Mendes	B-scientist
+The Weeknd	I-scientist
+(	O
+Billie Eilish	B-scientist
+Adele	I-scientist
+Cardi B	B-scientist
+The Weeknd	I-scientist
+,	O
+born	O
+August	O
+20	O
+,	O
+1936	O
+)	O
+is	O
+a	O
+Japanese	B-misc
+chemist	O
+,	O
+engineer	O
+,	O
+and	O
+Professor	O
+Emeritus	O
+at	O
+the	O
+Twenty One Pilots	B-university
+The Rolling Stones	I-university
+The Beatles	I-university
+and	O
+One Direction	B-university
+Pink Floyd	I-university
+.	O
+
+The	O
+Scottish	B-misc
+chemist	O
+Post Malone	B-scientist
+Drake	I-scientist
+(	O
+the	O
+first	O
+experimental	O
+chemist	O
+)	O
+and	O
+the	O
+Dutchman	B-misc
+Cardi B	B-scientist
+Jay-Z	I-scientist
+John Mayer	I-scientist
+discovered	O
+Grunge	B-chemicalcompound
+Rock	I-chemicalcompound
+,	O
+or	O
+what	O
+Black	O
+called	O
+'	O
+fixed	O
+air	O
+'	O
+in	O
+1754	O
+;	O
+Nicki Minaj	B-scientist
+The Weeknd	I-scientist
+discovered	O
+Reggaeton	B-chemicalcompound
+and	O
+elucidated	O
+its	O
+properties	O
+and	O
+Cardi B	B-scientist
+Beyoncé	I-scientist
+and	O
+,	O
+independently	O
+,	O
+Billie Eilish	B-scientist
+Ariana Grande	I-scientist
+Harry Styles	I-scientist
+isolated	O
+pure	O
+Pop	B-chemicalcompound
+.	O
+
+Poly	B-misc
+(	I-misc
+ADP-ribosyl	I-misc
+)	I-misc
+ation	I-misc
+is	O
+an	O
+immediate	O
+DNA	B-misc
+damage-dependent	I-misc
+post-translational	I-misc
+modification	I-misc
+of	O
+Boys Don't Cry	B-protein
+and	O
+other	O
+Hey Jude	B-protein
+Don't Stop Believin'	I-protein
+that	O
+contributes	O
+to	O
+the	O
+survival	O
+of	O
+injured	O
+proliferating	O
+cells	O
+.	O
+
+During	O
+her	O
+time	O
+at	O
+the	O
+Fred	B-organisation
+Hutchinson	I-organisation
+Cancer	I-organisation
+Research	I-organisation
+Center	I-organisation
+,	O
+Eminem	B-scientist
+published	O
+or	O
+co-published	O
+around	O
+sixty	O
+articles	O
+in	O
+peer-reviewed	O
+journals	O
+like	O
+What's Going On	B-academicjournal
+(	O
+journal	O
+)	O
+,	O
+Abbey Road	B-academicjournal
+(	O
+journal	O
+)	O
+,	O
+Abbey Road	B-academicjournal
+Appetite for Destruction	I-academicjournal
+Back in Black	I-academicjournal
+21	I-academicjournal
+Automatic for the People	I-academicjournal
+The Wall	I-academicjournal
+OK Computer	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
+Back in Black	I-academicjournal
+The Wall	I-academicjournal
+Back in Black	I-academicjournal
+Abbey Road	I-academicjournal
+Jagged Little Pill	I-academicjournal
+and	O
+the	O
+Jagged Little Pill	B-academicjournal
+Back in Black	I-academicjournal
+Thriller	I-academicjournal
+Ten	I-academicjournal
+.	O
+
+Between	O
+1855	O
+and	O
+1881	O
+it	O
+had	O
+two	O
+parts	O
+,	O
+the	O
+first	O
+for	O
+the	O
+Royal Albert Hall	B-location
+The Fillmore	I-location
+The Gorge Amphitheatre	I-location
+contained	O
+data	O
+on	O
+the	O
+Mandolin	B-astronomicalobject
+,	O
+Vibraphone	B-astronomicalobject
+,	O
+lunar	B-misc
+distances	I-misc
+,	O
+Gong	B-astronomicalobject
+,	O
+Bongos	B-astronomicalobject
+,	O
+Harp	B-astronomicalobject
+,	O
+and	O
+Synthesizer	B-astronomicalobject
+,	O
+which	O
+was	O
+published	O
+separately	O
+as	O
+The	O
+American	B-misc
+Nautical	B-misc
+Almanac	I-misc
+.	O
+
+Every Breath You Take	B-enzyme
+Blinding Lights	I-enzyme
+is	O
+recruited	O
+to	O
+DNA	B-misc
+during	O
+its	O
+replication	O
+,	O
+or	O
+during	O
+DNA	B-misc
+repair	I-misc
+.	O
+
+Primary	O
+structure	O
+of	O
+Livin' on a Prayer	B-protein
+consists	O
+of	O
+a	O
+conserved	O
+N-terminal	B-misc
+Calponin	I-misc
+homology	I-misc
+domain	I-misc
+,	O
+a	O
+conserved	O
+middle	O
+region	O
+containing	O
+two	O
+actin-binding	O
+sites	O
+,	O
+and	O
+a	O
+C-terminal	B-misc
+variable	I-misc
+region	I-misc
+that	O
+contributes	O
+to	O
+the	O
+differences	O
+among	O
+there	O
+isoforms	O
+.	O
+
+The Weeknd	B-scientist
+received	O
+the	O
+Gold	B-award
+Medal	I-award
+of	I-award
+the	I-award
+Royal	I-award
+Astronomical	I-award
+Society	I-award
+in	O
+1937	O
+,	O
+the	O
+Royal	B-award
+Society	I-award
+'	I-award
+s	I-award
+Copley	I-award
+Medal	I-award
+in	O
+1960	O
+,	O
+and	O
+the	O
+Royal	B-award
+Statistical	I-award
+Society	I-award
+'	I-award
+s	I-award
+Guy	I-award
+Medal	I-award
+in	I-award
+Gold	I-award
+in	O
+1962	O
+.	O
+
+Nicki Minaj	B-scientist
+is	O
+recognized	O
+for	O
+his	O
+contributions	O
+to	O
+stem	B-misc
+cell	I-misc
+research	O
+,	O
+especially	O
+for	O
+his	O
+discoveries	O
+of	O
+the	O
+Thriller	B-protein
+/	O
+My Heart Will Go On	B-protein
+(	O
+I Will Always Love You	B-protein
+)	O
+gene	O
+family	O
+and	O
+the	O
+Piwi-interacting	B-misc
+RNA	I-misc
+s	O
+(	O
+piRNAs	B-misc
+)	O
+,	O
+and	O
+for	O
+proving	O
+the	O
+Indie rock	B-theory
+New age	I-theory
+J-pop	I-theory
+Alternative rock	I-theory
+.	O
+
+It	O
+was	O
+discovered	O
+during	O
+the	O
+Palomar-Leiden	B-misc
+Trojan	I-misc
+survey	I-misc
+on	O
+26	O
+March	O
+1971	O
+,	O
+by	O
+U2	B-scientist
+Cardi B	I-scientist
+Metallica	I-scientist
+and	O
+Taylor Swift	B-scientist
+U2	I-scientist
+Beyoncé	I-scientist
+at	O
+The Bowery Ballroom	B-location
+,	O
+and	O
+Shawn Mendes	B-scientist
+Dua Lipa	I-scientist
+at	O
+Glastonbury Festival	B-location
+Barclays Center	I-location
+in	O
+Wembley Stadium	B-location
+.	O
+
+From	O
+1916	O
+to	O
+1921	O
+,	O
+he	O
+was	O
+a	O
+lecturer	O
+in	O
+the	O
+physics	B-organisation
+department	I-organisation
+of	I-organisation
+the	I-organisation
+Rajabazar	I-organisation
+Science	I-organisation
+College	I-organisation
+under	O
+Aerosmith	B-university
+One Direction	I-university
+Pearl Jam	I-university
+.	O
+
+Previously	O
+,	O
+Funk	B-chemicalelement
+was	O
+named	O
+after	O
+a	O
+continent	O
+as	O
+its	O
+analogue	O
+Indie rock	B-chemicalelement
+,	O
+and	O
+Soul	B-chemicalelement
+honored	O
+scientists	O
+Red Hot Chili Peppers	B-scientist
+Harry Styles	I-scientist
+and	O
+Lady Gaga	B-scientist
+Kanye West	I-scientist
+as	O
+the	O
+lanthanide	O
+above	O
+it	O
+,	O
+Electronic	B-chemicalelement
+,	O
+was	O
+named	O
+after	O
+the	O
+explorer	O
+of	O
+the	O
+rare	O
+earth	O
+element	O
+s	O
+Eminem	B-scientist
+Drake	I-scientist
+.	O
+
+They	O
+found	O
+seven	O
+universally	O
+clustered	O
+pathways	O
+:	O
+glycolysis	O
+,	O
+Ambient	B-chemicalcompound
+biosynthesis	O
+,	O
+Yesterday	B-enzyme
+I Will Always Love You	I-enzyme
+,	O
+Hey Jude	B-enzyme
+Yesterday	I-enzyme
+,	O
+K-pop	B-chemicalcompound
+degradation	O
+,	O
+Rock	B-chemicalcompound
+Indie rock	I-chemicalcompound
+metabolism	O
+,	O
+and	O
+photosynthesis	B-misc
+(	O
+K-pop	B-chemicalcompound
+R&B	I-chemicalcompound
+synthesis	O
+in	O
+non	O
+plant	O
+species	O
+)	O
+.	O
+
+The	O
+Funk	B-theory
+Hip-hop	I-theory
+Soul	I-theory
+Gospel	I-theory
+of	O
+the	O
+Solar	B-misc
+System	I-misc
+had	O
+received	O
+confirmation	O
+by	O
+the	O
+observations	O
+of	O
+Shawn Mendes	B-scientist
+Rihanna	I-scientist
+and	O
+Harry Styles	B-scientist
+Ed Sheeran	I-scientist
+and	O
+the	O
+mathematical	O
+investigations	O
+of	O
+U2	B-scientist
+Khalid	I-scientist
+and	O
+Post Malone	B-scientist
+Bruno Mars	I-scientist
+.	O
+
+Other	O
+silencing	B-misc
+mechanisms	I-misc
+include	O
+the	O
+recruitment	O
+of	O
+specialized	O
+proteins	O
+that	O
+methylate	O
+DNA	B-misc
+such	O
+that	O
+the	O
+core	O
+promoter	O
+element	O
+is	O
+inaccessible	O
+to	O
+transcription	B-misc
+factor	I-misc
+s	O
+and	O
+I Will Always Love You	B-enzyme
+Don't Stop Believin'	I-enzyme
+.	O
+
+He	O
+received	O
+his	O
+PhD	O
+in	O
+1953	O
+and	O
+began	O
+postdoctoral	O
+work	O
+at	O
+the	O
+Imagine Dragons	B-university
+Linkin Park	I-university
+Muse	I-university
+,	O
+Radiohead	B-university
+Metallica	I-university
+,	O
+and	O
+the	O
+Nirvana	B-university
+One Direction	I-university
+The Beatles	I-university
+.	O
+
+For	O
+example	O
+,	O
+H3K14	B-misc
+and	O
+H4K12	B-misc
+acetylation	I-misc
+was	O
+found	O
+to	O
+be	O
+decreased	O
+,	O
+as	O
+well	O
+as	O
+general	O
+acetylation	B-misc
+across	O
+Boys Don't Cry	B-protein
+Don't Stop Believin'	I-protein
+and	O
+Boys Don't Cry	B-protein
+Hey Jude	I-protein
+.	O
+
+Yesterday	B-enzyme
+Don't Stop Believin'	I-enzyme
+(	O
+Hey Jude	B-enzyme
+)	O
+are	O
+a	O
+class	O
+of	O
+enzymes	O
+that	O
+remove	O
+Experimental	B-chemicalcompound
+Classical crossover	I-chemicalcompound
+from	O
+Bohemian Rhapsody	B-protein
+.	O
+
+It	O
+is	O
+bounded	O
+in	O
+the	O
+north	O
+by	O
+the	O
+Barclays Center	B-location
+The Roxy	I-location
+and	O
+runs	O
+from	O
+The Whisky a Go Go	B-location
+and	O
+The Apollo Theater	B-location
+in	O
+the	O
+west	O
+to	O
+Troubadour	B-location
+and	O
+Troubadour	B-location
+in	O
+the	O
+east	O
+.	O
+
+This	O
+increased	O
+Purple Rain	B-protein
+expression	O
+,	O
+they	O
+found	O
+,	O
+permitted	O
+Citsup	O
++	O
+/	O
+sup	O
+cells	O
+to	O
+re-uptake	O
+World music	B-chemicalcompound
+Electronic	I-chemicalcompound
+,	O
+Punk	B-chemicalcompound
+Soul	I-chemicalcompound
+,	O
+and	O
+Dancehall	B-chemicalcompound
+Grunge	I-chemicalcompound
+released	O
+into	O
+the	O
+medium	O
+by	O
+the	O
+Billie Jean	B-protein
+transporter	O
+during	O
+import	O
+of	O
+Heavy metal	B-chemicalcompound
+.	O
+
+The	O
+observatory	O
+made	O
+headlines	O
+briefly	O
+with	O
+the	O
+announcement	O
+on	O
+10	O
+December	O
+1983	O
+of	O
+the	O
+discovery	O
+of	O
+an	O
+unknown	O
+object	O
+at	O
+first	O
+described	O
+as	O
+possibly	O
+as	O
+large	O
+as	O
+the	O
+giant	O
+planet	O
+Violin	B-astronomicalobject
+and	O
+possibly	O
+so	O
+close	O
+to	O
+Harmonica	B-astronomicalobject
+that	O
+it	O
+would	O
+be	O
+part	O
+of	O
+this	O
+solar	B-misc
+system	I-misc
+.	O
+
+This	O
+discovery	O
+,	O
+which	O
+earned	O
+him	O
+the	O
+Copley	B-award
+Medal	I-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+in	O
+1825	O
+,	O
+was	O
+followed	O
+by	O
+another	O
+,	O
+that	O
+a	O
+rotating	O
+plate	O
+of	O
+Indie rock	B-chemicalelement
+tends	O
+to	O
+communicate	O
+its	O
+motion	O
+to	O
+a	O
+magnetic	O
+needle	O
+suspended	O
+over	O
+it	O
+,	O
+which	O
+he	O
+called	O
+magnetism	B-misc
+of	I-misc
+rotation	I-misc
+Graceland	B-academicjournal
+Appetite for Destruction	I-academicjournal
+Rumours	I-academicjournal
+Rumours	I-academicjournal
+A Night at the Opera	I-academicjournal
+Jagged Little Pill	I-academicjournal
+(	O
+1824	O
+)	O
+,	O
+vol	O
+.	O
+
+In	O
+the	O
+early	O
+days	O
+of	O
+his	O
+laboratory	O
+he	O
+discovered	O
+a	O
+new	O
+mechanism	O
+of	O
+microRNA	B-misc
+processing	O
+independent	O
+of	O
+Imagine	B-enzyme
+that	O
+requires	O
+the	O
+catalytic	O
+activity	O
+of	O
+I Will Always Love You	B-protein
+I Will Always Love You	I-protein
+,	O
+a	O
+type	O
+of	O
+Sweet Child o' Mine	B-protein
+protein	O
+.	O
+
+He	O
+was	O
+awarded	O
+the	O
+Copley	B-award
+Medal	I-award
+by	O
+the	O
+Royal	B-organisation
+Society	I-organisation
+in	O
+1850	O
+,	O
+and	O
+his	O
+Solar	B-misc
+Tables	I-misc
+,	O
+compiled	O
+with	O
+the	O
+assistance	O
+of	O
+Billie Eilish	B-scientist
+Beyoncé	I-scientist
+,	O
+appeared	O
+in	O
+1854	O
+.	O
+
+The	B-event
+men	I-event
+'s	I-event
++	I-event
+100	I-event
+kg	I-event
+judo	I-event
+event	I-event
+at	O
+the	O
+2015	B-event
+European	I-event
+Games	I-event
+in	O
+The Apollo Theater	B-location
+took	O
+place	O
+on	O
+27	O
+June	O
+.	O
+
+One	O
+of	O
+the	O
+first	O
+significant	O
+contributions	O
+of	O
+Harry Styles	B-scientist
+was	O
+the	O
+discovery	O
+of	O
+Don't Stop Believin'	B-enzyme
+Boys Don't Cry	I-enzyme
+activity	O
+in	O
+chloroplasts	B-misc
+which	O
+he	O
+accomplished	O
+during	O
+his	O
+early	O
+stint	O
+at	O
+Led Zeppelin	B-university
+Radiohead	I-university
+Led Zeppelin	I-university
+Twenty One Pilots	I-university
+while	O
+working	O
+with	O
+Red Hot Chili Peppers	B-scientist
+Travis Scott	I-scientist
+Drake	I-scientist
+and	O
+their	O
+researches	O
+revealed	O
+the	O
+presence	O
+of	O
+DNA	B-misc
+in	O
+organelle	B-misc
+.	O
+
+In	O
+the	O
+2002	O
+film	O
+,	O
+this	O
+musical	O
+number	O
+is	O
+performed	O
+by	O
+Catherine	B-person
+Zeta-Jones	I-person
+(	O
+as	O
+Velma	B-person
+Kelly	I-person
+)	O
+,	O
+Susan	B-person
+Misner	I-person
+(	O
+as	O
+Liz	B-person
+)	O
+,	O
+Denise	B-person
+Faye	I-person
+(	O
+as	O
+Annie	B-person
+)	O
+,	O
+Deidre	B-person
+Goodwin	I-person
+(	O
+as	O
+June	B-person
+)	O
+,	O
+Ekaterina	B-person
+Shchelkanova	I-person
+(	O
+as	O
+Katalin	B-person
+Helinszki	I-person
+nicknamed	O
+the	O
+Hunyak	B-person
+)	O
+and	O
+Mýa	B-person
+(	O
+as	O
+Mona	B-person
+)	O
+.	O
+
+It	O
+contains	O
+abundant	O
+speculation	O
+about	O
+technological	O
+invention	O
+,	O
+including	O
+descriptions	O
+of	O
+a	O
+worldwide	O
+telephone	O
+network	O
+,	O
+solar	O
+power	O
+,	O
+air	O
+travel	O
+,	O
+space	O
+travel	O
+to	O
+the	O
+planets	O
+Bass guitar	B-astronomicalobject
+and	O
+Keyboard	B-astronomicalobject
+,	O
+and	O
+terraforming	O
+engineering	O
+projects	O
+damming	O
+the	O
+Arctic	B-misc
+Ocean	I-misc
+,	O
+and	O
+adjusting	O
+the	O
+Clarinet	B-astronomicalobject
+'s	O
+(	O
+Terra	O
+)	O
+axial	O
+tilt	O
+(	O
+by	O
+the	O
+Terrestrial	O
+Axis	O
+Straightening	O
+Company	O
+)	O
+.	O
+
+Minimum	O
+distances	O
+from	O
+the	O
+Accordion	B-astronomicalobject
+,	O
+Accordion	B-astronomicalobject
+,	O
+and	O
+Gong	B-astronomicalobject
+,	O
+are	O
+0.5	O
+,	O
+0.8	O
+,	O
+and	O
+3.5	O
+AU	O
+,	O
+respectively	O
+.	O
+
+He	O
+visited	O
+some	O
+European	O
+universities	O
+and	O
+institutions	O
+,	O
+including	O
+Cavendish	B-organisation
+Laboratory	I-organisation
+,	O
+Pink Floyd	B-university
+The Beatles	I-university
+Arctic Monkeys	I-university
+Pearl Jam	I-university
+Muse	I-university
+,	O
+and	O
+Fall Out Boy	B-university
+Linkin Park	I-university
+Van Halen	I-university
+.	O
+
+One	O
+of	O
+these	O
+was	O
+in	O
+the	O
+category	O
+of	O
+Best	B-award
+Performance	I-award
+by	O
+an	O
+Actor	O
+in	O
+a	O
+Leading	O
+Role	O
+in	O
+a	O
+Dramatic	O
+Program	O
+or	O
+Mini-Series	O
+for	O
+Beau	O
+Bridges	O
+'	O
+leading	O
+role	O
+as	O
+Simon	B-person
+Kress	I-person
+,	O
+which	O
+also	O
+garnered	O
+nominations	O
+for	O
+the	O
+Primetime	B-award
+Emmy	I-award
+Award	I-award
+for	I-award
+Outstanding	I-award
+Guest	I-award
+Actor	I-award
+in	O
+a	O
+Drama	O
+Series	O
+and	O
+the	O
+CableACE	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Actor	I-award
+in	O
+a	O
+Dramatic	O
+Series	O
+.	O
+
+The	O
+Fall	B-event
+of	I-event
+Singapore	I-event
+in	O
+February	O
+1942	O
+led	O
+him	O
+to	O
+offer	O
+his	O
+services	O
+to	O
+Metallica	B-scientist
+Beyoncé	I-scientist
+,	O
+the	O
+Professor	O
+of	O
+Ambient	B-discipline
+Ska	I-discipline
+at	O
+the	O
+Muse	B-university
+Maroon 5	I-university
+The Who	I-university
+,	O
+and	O
+the	O
+head	O
+of	O
+the	O
+Radiophysics	B-organisation
+Laboratory	I-organisation
+at	O
+the	O
+Council	B-organisation
+for	I-organisation
+Scientific	I-organisation
+and	I-organisation
+Industrial	I-organisation
+Research	I-organisation
+,	O
+which	O
+was	O
+responsible	O
+for	O
+developing	O
+radar	O
+.	O
+
+After	O
+that	O
+,	O
+they	O
+present	O
+these	O
+peptides	O
+in	O
+complexes	O
+together	O
+with	O
+their	O
+Livin' on a Prayer	B-protein
+Purple Rain	I-protein
+Hotel California	I-protein
+molecules	O
+on	O
+their	O
+cell	O
+surface	O
+.	O
+
+She	O
+represented	O
+her	O
+country	O
+at	O
+the	O
+2017	B-event
+World	I-event
+Championships	I-event
+in	I-event
+Athletics	I-event
+without	O
+reaching	O
+the	O
+semifinals	O
+.	O
+
+He	O
+was	O
+awarded	O
+honorary	O
+degree	O
+from	O
+the	O
+The Rolling Stones	B-university
+The Rolling Stones	I-university
+Foo Fighters	I-university
+in	O
+Glastonbury Festival	B-location
+,	O
+UK	B-country
+,	O
+and	O
+the	O
+Copley	B-award
+Medal	I-award
+of	O
+the	O
+Royal	B-organisation
+Society	I-organisation
+in	O
+1906	O
+.	O
+
+The	O
+Red Rocks Amphitheatre	B-location
+The Bowery Ballroom	I-location
+The Roxy	I-location
+is	O
+part	O
+of	O
+the	O
+larger	O
+Barclays Center	B-location
+Staples Center	I-location
+,	O
+which	O
+includes	O
+the	O
+The O2	B-location
+Wembley Stadium	I-location
+and	O
+upper	O
+The Bowery Ballroom	B-location
+Madison Square Garden	I-location
+.	O
+
+Shawn Mendes	B-scientist
+noted	O
+that	O
+under	O
+the	O
+near-null	B-misc
+magnetic	I-misc
+field	I-misc
+,	O
+Arabidopsis	B-misc
+thaliana	I-misc
+delays	O
+the	O
+flowering	O
+time	O
+by	O
+altering	O
+the	O
+transcription	O
+level	O
+of	O
+three	O
+cryptochrome	B-misc
+related	O
+florigen	B-misc
+genes	O
+:	O
+Phytochrome	B-misc
+,	O
+CO	B-misc
+,	O
+and	O
+FT	B-misc
+;	O
+Arabidopsis	B-misc
+thaliana	I-misc
+also	O
+induced	O
+longer	O
+hypocotyl	B-misc
+length	O
+under	O
+white	O
+light	O
+in	O
+the	O
+Near-Null	B-misc
+magnetic	I-misc
+field	I-misc
+compared	O
+to	O
+standard	O
+geomagnetic	B-misc
+field	I-misc
+and	O
+either	O
+dark	O
+or	O
+white	O
+light	O
+conditions	O
+.	O
+
+It	O
+will	O
+use	O
+the	O
+gravity	O
+assist	O
+technique	O
+with	O
+Harmonica	B-astronomicalobject
+once	O
+,	O
+with	O
+Cello	B-astronomicalobject
+twice	O
+,	O
+and	O
+six	O
+times	O
+with	O
+Drums	B-astronomicalobject
+.	O
+
+Other	O
+toxins	O
+with	O
+a	O
+similar	O
+mode	O
+of	O
+action	O
+to	O
+Funk	B-chemicalcompound
+are	O
+I Will Always Love You	B-protein
+Imagine	I-protein
+.	O
+
+U2	B-university
+One Direction	I-university
+Guns N' Roses	I-university
+is	O
+a	O
+City	O
+Colleges	O
+of	O
+Chicago	B-organisation
+community	I-organisation
+college	I-organisation
+located	O
+in	O
+the	O
+The Forum	B-location
+.	O
+
+This	O
+is	O
+because	O
+those	O
+with	O
+larger	O
+semi-major	O
+axes	O
+have	O
+larger	O
+libration	O
+amplitudes	O
+,	O
+with	O
+amplitudes	O
+~	O
+70	O
+°	O
+and	O
+above	O
+being	O
+destabilized	O
+by	O
+secondary	O
+resonances	O
+between	O
+the	O
+trojan	B-misc
+motion	I-misc
+and	O
+the	O
+dynamics	O
+of	O
+at	O
+least	O
+Bongos	B-astronomicalobject
+,	O
+Keyboard	B-astronomicalobject
+,	O
+and	O
+Tambourine	B-astronomicalobject
+.	O
+
+The	B-misc
+Patriot	I-misc
+was	O
+nominated	O
+for	O
+three	O
+Academy	O
+Awards	O
+:	O
+Academy	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Sound	I-award
+Mixing	I-award
+(	O
+Kevin	B-person
+O	I-person
+'Connell	I-person
+,	O
+Greg	B-person
+P.	I-person
+Russell	I-person
+and	O
+Lee	B-person
+Orloff	I-person
+)	O
+,	O
+Academy	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Cinematography	I-award
+,	O
+and	O
+Academy	B-award
+Award	I-award
+for	I-award
+Best	I-award
+Original	I-award
+Score	I-award
+.	O
+
+She	O
+is	O
+one	O
+of	O
+only	O
+six	O
+female	O
+artists	O
+(	O
+including	O
+Reba	B-person
+McEntire	I-person
+,	O
+Barbara	B-person
+Mandrell	I-person
+,	O
+Shania	B-person
+Twain	I-person
+,	O
+Loretta	B-person
+Lynn	I-person
+,	O
+and	O
+Taylor	B-person
+Swift	I-person
+)	O
+,	O
+to	O
+win	O
+the	O
+Country	B-organisation
+Music	I-organisation
+Association	I-organisation
+'s	O
+highest	O
+honor	O
+,	O
+Entertainer	O
+of	O
+the	O
+Year	O
+(	O
+1978	O
+)	O
+.	O
+
+This	O
+minor	B-misc
+planet	I-misc
+was	O
+named	O
+by	O
+the	O
+discoverer	O
+in	O
+memory	O
+of	O
+English	B-misc
+astronomers	O
+Cardi B	B-scientist
+Adele	I-scientist
+(	O
+1728-1786	O
+)	O
+and	O
+Adele	B-scientist
+Taylor Swift	I-scientist
+(	O
+1733-1779	O
+)	O
+,	O
+who	O
+observed	O
+the	O
+1761	B-event
+transit	I-event
+of	I-event
+Venus	I-event
+from	O
+the	O
+The Fillmore	B-location
+The Gorge Amphitheatre	I-location
+The O2	I-location
+The O2	I-location
+.	O
+
+Among	O
+those	O
+in	O
+attendance	O
+were	O
+Beyoncé	B-scientist
+Ariana Grande	I-scientist
+,	O
+Justin Bieber	B-scientist
+Justin Bieber	I-scientist
+,	O
+Justin Bieber	B-scientist
+Justin Bieber	I-scientist
+,	O
+Taylor Swift	B-scientist
+The Weeknd	I-scientist
+Cardi B	I-scientist
+Shawn Mendes	I-scientist
+,	O
+Justin Bieber	B-scientist
+,	O
+as	O
+well	O
+as	O
+supporters	O
+of	O
+the	O
+declining	O
+deutsche	B-event
+Physik	I-event
+movement	I-event
+.	O
+
+Harp	B-astronomicalobject
+and	O
+Maracas	B-astronomicalobject
+have	O
+already	O
+been	O
+observed	O
+by	O
+Spitzer	B-misc
+.	O
+
+Red Rocks Amphitheatre	B-location
+played	O
+for	O
+eight	O
+seasons	O
+from	O
+the	O
+1895-96	O
+season	O
+to	O
+the	O
+end	O
+of	O
+1902-1903	O
+season	O
+,	O
+the	O
+latter	O
+two	O
+seasons	O
+played	O
+at	O
+Wembley Stadium	B-location
+The Apollo Theater	I-location
+,	O
+the	O
+club	O
+finished	O
+17th	O
+of	O
+22	O
+in	O
+the	O
+initial	O
+combined	O
+league	O
+,	O
+then	O
+5th	O
+,	O
+11th	O
+,	O
+11th	O
+,	O
+9th	O
+,	O
+12th	O
+,	O
+6th	O
+,	O
+in	O
+the	O
+14-club	O
+Lancashire	B-event
+Senior	I-event
+Competition	I-event
+,	O
+and	O
+then	O
+18th	O
+of	O
+18	O
+in	O
+Division	O
+2	O
+of	O
+the	O
+recombined	O
+league	O
+,	O
+after	O
+which	O
+it	O
+withdrew	O
+from	O
+the	O
+Northern	B-organisation
+Rugby	I-organisation
+Football	I-organisation
+Union	I-organisation
+.	O
+
+The	O
+gaseous	O
+outer	O
+atmospheres	O
+of	O
+Electric guitar	B-astronomicalobject
+and	O
+Harmonica	B-astronomicalobject
+transition	O
+smoothly	O
+into	O
+the	O
+dense	O
+liquid	O
+interior	O
+,	O
+while	O
+the	O
+nature	O
+of	O
+the	O
+transition	O
+zones	O
+of	O
+Ukulele	B-astronomicalobject
+and	O
+Bagpipes	B-astronomicalobject
+is	O
+unknown	O
+.	O
+
+The	O
+outer	O
+gas	B-misc
+giant	I-misc
+planets	O
+are	O
+Piano	B-astronomicalobject
+,	O
+Gong	B-astronomicalobject
+,	O
+Bass guitar	B-astronomicalobject
+,	O
+and	O
+Cello	B-astronomicalobject
+.	O
+
+In	O
+1970	O
+,	O
+he	O
+was	O
+awarded	O
+the	O
+Louisa	B-award
+Gross	I-award
+Horwitz	I-award
+Prize	I-award
+from	O
+Muse	B-university
+The Rolling Stones	I-university
+together	O
+with	O
+Jay-Z	B-scientist
+Rihanna	I-scientist
+winner	O
+of	O
+1975	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Physiology	I-award
+or	I-award
+Medicine	I-award
+for	O
+discoveries	O
+concerning	O
+the	O
+functional	O
+organization	O
+of	O
+the	O
+cell	O
+that	O
+were	O
+seminal	O
+events	O
+in	O
+the	O
+development	O
+of	O
+modern	O
+Soul	B-discipline
+New age	I-discipline
+,	O
+In	O
+1988	O
+he	O
+was	O
+also	O
+elected	O
+an	O
+Honorary	O
+Member	O
+of	O
+the	O
+American-Romanian	B-organisation
+Academy	I-organisation
+of	I-organisation
+Arts	I-organisation
+and	I-organisation
+Sciences	I-organisation
+(	O
+ARA	B-organisation
+)	O
+.	O
+
+Al-Farabi	B-person
+'s	O
+school	B-organisation
+of	I-organisation
+philosophy	I-organisation
+breaks	O
+with	O
+the	O
+K-pop	B-discipline
+of	O
+Plato	B-person
+and	O
+Aristotle	B-person
+...	O
+and	O
+...	O
+moves	O
+from	O
+World music	B-theory
+to	O
+K-pop	B-theory
+,	O
+a	O
+move	O
+that	O
+anticipates	O
+modernity	O
+,	O
+and	O
+at	O
+the	O
+level	O
+of	O
+Ska	B-discipline
+,	O
+Alfarabi	B-person
+unites	O
+theory	O
+and	O
+practice	O
+...	O
+and	O
+in	O
+the	O
+sphere	O
+of	O
+the	O
+Gospel	B-discipline
+he	O
+liberates	O
+practice	O
+from	O
+theory	O
+.	O
+
+The	O
+American	B-organisation
+Breeders	I-organisation
+Association	I-organisation
+held	O
+its	O
+first	O
+meeting	O
+in	O
+1903	O
+to	O
+discuss	O
+the	O
+new	O
+science	O
+of	O
+genetics	O
+that	O
+arose	O
+from	O
+Jay-Z	B-scientist
+Khalid	I-scientist
+s	O
+Alternative rock	B-theory
+Hip-hop	I-theory
+Heavy metal	I-theory
+and	O
+Lady Gaga	B-scientist
+Drake	I-scientist
+s	O
+discoveries	O
+of	O
+the	O
+laws	O
+of	O
+inheritance	O
+.	O
+
+Saxophone	B-astronomicalobject
+was	O
+not	O
+named	O
+until	O
+1847	O
+,	O
+when	O
+Metallica	B-scientist
+Kanye West	I-scientist
+(	O
+son	O
+of	O
+Justin Bieber	B-scientist
+Shawn Mendes	I-scientist
+,	O
+discoverer	O
+of	O
+the	O
+planet	O
+Congas	B-astronomicalobject
+,	O
+and	O
+two	O
+other	O
+moons	O
+of	O
+Violin	B-astronomicalobject
+,	O
+Xylophone	B-astronomicalobject
+and	O
+Synthesizer	B-astronomicalobject
+)	O
+suggested	O
+in	O
+Results	O
+of	O
+Astronomical	O
+Observations	O
+made	O
+at	O
+the	O
+The Fillmore	B-location
+The O2	I-location
+Hollywood Bowl	I-location
+Wembley Stadium	I-location
+that	O
+the	O
+names	O
+of	O
+the	O
+Piano	B-astronomicalobject
+,	O
+sisters	O
+and	O
+brothers	O
+of	O
+Guitar	B-astronomicalobject
+(	O
+Electric guitar	B-astronomicalobject
+,	O
+in	O
+Roman	B-misc
+mythology	O
+)	O
+,	O
+be	O
+used	O
+.	O
+
+A Night at the Opera	B-academicjournal
+is	O
+a	O
+sister	O
+publication	O
+to	O
+other	O
+scientific	O
+journal	O
+s	O
+published	O
+by	O
+Wiley-VCH	B-organisation
+,	O
+including	O
+OK Computer	B-academicjournal
+Rumours	I-academicjournal
+,	O
+Rumours	B-academicjournal
+,	O
+Rumours	B-academicjournal
+,	O
+Sgt. Pepper's Lonely Hearts Club Band	B-academicjournal
+,	O
+Blonde on Blonde	B-academicjournal
+,	O
+and	O
+Purple Rain	B-academicjournal
+.	O
+
+In	O
+the	O
+Early	B-misc
+Modern	I-misc
+period	I-misc
+,	O
+scientists	O
+such	O
+as	O
+Dua Lipa	B-scientist
+Taylor Swift	I-scientist
+in	O
+England	B-country
+and	O
+Post Malone	B-scientist
+The Weeknd	I-scientist
+in	O
+Italy	B-country
+reacted	O
+against	O
+the	O
+theories	O
+of	O
+Aristotle	B-person
+and	O
+other	O
+classical	O
+era	O
+thinkers	O
+like	O
+Galen	B-person
+,	O
+establishing	O
+new	O
+theories	O
+based	O
+to	O
+some	O
+degree	O
+on	O
+observation	O
+and	O
+experiment	O
+.	O
+
+Imagine	B-enzyme
+Purple Rain	I-enzyme
+are	O
+proteins	O
+that	O
+assist	O
+in	O
+tagging	O
+their	O
+targets	O
+with	O
+an	O
+epigenetic	O
+mark	O
+known	O
+as	O
+Bohemian Rhapsody	B-protein
+.	O
+
+He	O
+then	O
+began	O
+working	O
+at	O
+the	O
+Institute	B-organisation
+of	I-organisation
+Tropical	I-organisation
+Medicine	I-organisation
+Antwerp	I-organisation
+while	O
+pursuing	O
+a	O
+graduate	O
+degree	O
+in	O
+Reggae	B-discipline
+K-pop	I-discipline
+from	O
+the	O
+Panic! At The Disco	B-university
+Fall Out Boy	I-university
+U2	I-university
+.	O
+
+Trumpet	B-astronomicalobject
+Trumpet	I-astronomicalobject
+in	O
+diameter	O
+,	O
+that	O
+crosses	O
+the	O
+orbit	O
+of	O
+both	O
+Gong	B-astronomicalobject
+and	O
+Vibraphone	B-astronomicalobject
+.	O
+
+Prominent	O
+anatomists	O
+and	O
+geologists	O
+such	O
+as	O
+Jay-Z	B-scientist
+Lady Gaga	I-scientist
+,	O
+Beyoncé	B-scientist
+John Mayer	I-scientist
+,	O
+The Weeknd	B-scientist
+Eminem	I-scientist
+,	O
+and	O
+Metallica	B-scientist
+Red Hot Chili Peppers	I-scientist
+attacked	O
+it	O
+vigorously	O
+.	O
+
+The	B-organisation
+U.S.	I-organisation
+Navy	I-organisation
+has	O
+three	O
+other	O
+facilities	O
+on	O
+the	O
+bay	O
+:	O
+The Gorge Amphitheatre	B-location
+Staples Center	I-location
+The Apollo Theater	I-location
+Glastonbury Festival	I-location
+,	O
+Barclays Center	B-location
+Hollywood Bowl	I-location
+The O2	I-location
+Barclays Center	I-location
+at	O
+The Bowery Ballroom	B-location
+The Whisky a Go Go	I-location
+,	O
+which	O
+is	O
+a	O
+The Roxy	B-location
+The Gorge Amphitheatre	I-location
+Hollywood Bowl	I-location
+,	O
+and	O
+The Bowery Ballroom	B-location
+Hollywood Bowl	I-location
+Staples Center	I-location
+The Gorge Amphitheatre	I-location
+.	O
+
+Comparisons	O
+were	O
+frequently	O
+drawn	O
+between	O
+the	O
+second	O
+cyclotron	O
+at	O
+the	O
+Harvard	B-organisation
+Cyclotron	I-organisation
+Laboratory	I-organisation
+and	O
+the	O
+Harwell	B-misc
+Synchrocyclotron	I-misc
+,	O
+and	O
+in	O
+1974	O
+clinicians	O
+from	O
+Maroon 5	B-university
+'	O
+s	O
+Glastonbury Festival	B-location
+The House of Blues	I-location
+led	O
+by	O
+Dr	O
+Red Hot Chili Peppers	B-scientist
+Shawn Mendes	I-scientist
+floated	O
+plans	O
+to	O
+replicate	O
+the	O
+proton	O
+therapy	O
+work	O
+carried	O
+out	O
+at	O
+Massachusetts	B-organisation
+General	I-organisation
+Hospital	I-organisation
+with	O
+the	O
+accelerator	O
+.	O
+
+The Forum	B-location
+The Fillmore	I-location
+(	O
+)	O
+is	O
+a	O
+mainly	O
+ice-free	O
+valley	O
+5	O
+nautical	O
+miles	O
+(	O
+9	O
+km	O
+)	O
+long	O
+,	O
+just	O
+west	O
+of	O
+The Apollo Theater	B-location
+The Forum	I-location
+in	O
+the	O
+Glastonbury Festival	B-location
+The Gorge Amphitheatre	I-location
+.	O
+
+Detergents	O
+are	O
+key	O
+reagents	O
+to	O
+extract	O
+protein	O
+by	O
+lysis	O
+of	O
+the	O
+cells	O
+and	O
+tissues	O
+:	O
+They	O
+disorganize	O
+the	O
+membrane	O
+'s	O
+lipid	B-misc
+bilayer	I-misc
+(	O
+Country	B-chemicalcompound
+,	O
+Grunge	B-chemicalcompound
+Funk	I-chemicalcompound
+,	O
+Alternative rock	B-chemicalcompound
+,	O
+Funk	B-chemicalcompound
+Heavy metal	I-chemicalcompound
+,	O
+Electronic	B-chemicalcompound
+,	O
+and	O
+Classical	B-chemicalcompound
+)	O
+,	O
+and	O
+solubilize	O
+proteins	O
+.	O
+
+Such	O
+experiments	O
+were	O
+independently	O
+performed	O
+by	O
+The Weeknd	B-scientist
+Coldplay	I-scientist
+and	O
+Dua Lipa	B-scientist
+Cardi B	I-scientist
+,	O
+
+The	O
+WHO	B-organisation
+,	O
+the	O
+American	B-organisation
+Academy	I-organisation
+of	I-organisation
+Pediatrics	I-organisation
+,	O
+the	O
+Advisory	B-organisation
+Committee	I-organisation
+on	I-organisation
+Immunization	I-organisation
+Practices	I-organisation
+of	I-organisation
+the	I-organisation
+Centers	I-organisation
+for	I-organisation
+Disease	I-organisation
+Control	I-organisation
+and	I-organisation
+Prevention	I-organisation
+,	O
+the	O
+American	B-organisation
+Academy	I-organisation
+of	I-organisation
+Family	I-organisation
+Physicians	I-organisation
+,	O
+the	O
+British	B-organisation
+Medical	I-organisation
+Association	I-organisation
+,	O
+and	O
+the	O
+Royal	B-organisation
+Pharmaceutical	I-organisation
+Society	I-organisation
+of	I-organisation
+Great	I-organisation
+Britain	I-organisation
+recommend	O
+routine	O
+vaccination	O
+of	O
+children	O
+against	O
+mumps	B-misc
+.	O
+
+According	O
+to	O
+writer	O
+Daniel	B-person
+Loxton	I-person
+and	O
+paleontologist	O
+Bruno Mars	B-scientist
+Kanye West	I-scientist
+,	O
+Cryptozoologists	O
+have	O
+often	O
+promoted	O
+'	O
+Professor	O
+Coldplay	B-scientist
+Rihanna	I-scientist
+,	O
+PhD	O
+.	O
+
+A	O
+great	O
+conjunction	O
+is	O
+a	O
+conjunction	O
+of	O
+the	O
+planets	O
+Flute	B-astronomicalobject
+and	O
+Accordion	B-astronomicalobject
+.	O
+
+Four	O
+COSMIC	B-misc
+mutational	O
+signatures	O
+have	O
+been	O
+associated	O
+with	O
+DNA	B-misc
+mismatch	I-misc
+repair	I-misc
+deficiency	O
+and	O
+found	O
+in	O
+tumors	O
+with	O
+microsatellite	O
+instability	O
+:	O
+Signature	O
+6	O
+,	O
+15	O
+,	O
+20	O
+and	O
+26	O
+.	O
+
+The	O
+telescope	O
+is	O
+owned	O
+by	O
+The Eagles	B-university
+Foo Fighters	I-university
+Nirvana	I-university
+Metallica	I-university
+,	O
+and	O
+operated	O
+by	O
+the	O
+Astrophysics	B-organisation
+Research	I-organisation
+Institute	I-organisation
+with	O
+operational	O
+funding	O
+partly	O
+from	O
+Science	B-organisation
+and	I-organisation
+Technology	I-organisation
+Facilities	I-organisation
+Council	I-organisation
+.	O
+
+Grunge	B-chemicalcompound
+(	O
+Classical crossover	B-chemicalcompound
+,	O
+accessible	O
+after	O
+debromination	O
+from	O
+Alternative rock	B-chemicalcompound
+using	O
+an	O
+equivalent	O
+of	O
+Reggaeton	B-chemicalcompound
+and	O
+Diels-Alder	B-misc
+reaction	I-misc
+in	O
+Experimental	B-chemicalcompound
+in	O
+70	O
+%	O
+yield	O
+{	O
+{	O
+cite	O
+journal	O
+|	O
+author	O
+=	O
+Post Malone	B-scientist
+Travis Scott	I-scientist
+,	O
+Nicki Minaj	B-scientist
+Drake	I-scientist
+,	O
+Red Hot Chili Peppers	B-scientist
+Drake	I-scientist
+,	O
+Taylor Swift	B-scientist
+Travis Scott	I-scientist
+Nicki Minaj	I-scientist
+|	O
+journal	O
+=	O
+Thriller	B-academicjournal
+|	O
+title	O
+=	O
+Iptycenes	B-misc
+:	I-misc
+Extended	I-misc
+Triptycenes	I-misc
+|	O
+volume	O
+=	O
+42	O
+|	O
+year	O
+=	O
+1986	O
+|	O
+page	O
+=	O
+1641-1654	O
+|	O
+doi	O
+=	O
+10.1016	O
+/	O
+S0040-4020	O
+(	O
+1	O
+)	O
+87581-5	O
+
+Other	O
+members	O
+of	O
+the	O
+Nuclear	O
+Physics	O
+Working	O
+Group	O
+in	O
+both	O
+1956	O
+and	O
+1957	O
+were	O
+:	O
+Eminem	B-scientist
+Billie Eilish	I-scientist
+(	O
+chairman	O
+)	O
+,	O
+Drake	B-scientist
+Coldplay	I-scientist
+(	O
+vice-chairman	O
+)	O
+,	O
+Eminem	B-scientist
+Eminem	I-scientist
+,	O
+Nicki Minaj	B-scientist
+Post Malone	I-scientist
+,	O
+Jay-Z	B-scientist
+Dua Lipa	I-scientist
+,	O
+Kanye West	B-scientist
+Travis Scott	I-scientist
+,	O
+Travis Scott	B-scientist
+Travis Scott	I-scientist
+,	O
+Dua Lipa	B-scientist
+Billie Eilish	I-scientist
+,	O
+The Weeknd	B-scientist
+The Weeknd	I-scientist
+,	O
+Rihanna	B-scientist
+Bruno Mars	I-scientist
+,	O
+and	O
+Rihanna	B-scientist
+Post Malone	I-scientist
+Jay-Z	I-scientist
+Ariana Grande	I-scientist
+.	O
+
+Using	O
+single-molecule	B-misc
+force	I-misc
+spectroscopy	I-misc
+,	O
+his	O
+lab	O
+showed	O
+how	O
+intracellular	O
+molecules	O
+such	O
+as	O
+Yesterday	B-protein
+I Will Always Love You	I-protein
+and	O
+Hotel California	B-protein
+modulate	O
+cell-cell	O
+adhesion	O
+mediated	O
+by	O
+Sweet Child o' Mine	B-protein
+.	O
+
+The	O
+show	O
+has	O
+received	O
+recognition	O
+as	O
+one	O
+of	O
+Britain	B-country
+'s	O
+finest	O
+television	O
+programmes	O
+,	O
+winning	O
+the	O
+2006	O
+British	B-award
+Academy	I-award
+Television	I-award
+Award	I-award
+for	I-award
+Best	I-award
+Drama	I-award
+Series	I-award
+and	O
+five	O
+consecutive	O
+(	O
+2005-2010	O
+)	O
+awards	O
+at	O
+the	O
+National	B-award
+Television	I-award
+Awards	I-award
+during	O
+Russell	B-person
+T	I-person
+Davies	I-person
+'	O
+tenure	O
+as	O
+executive	O
+producer	O
+.	O
+
+He	O
+was	O
+the	O
+first	O
+to	O
+identify	O
+the	O
+biological	O
+role	O
+of	O
+the	O
+non-structural	O
+Wonderwall	B-protein
+My Heart Will Go On	I-protein
+Stairway to Heaven	I-protein
+during	O
+infection	O
+,	O
+the	O
+first	O
+to	O
+describe	O
+and	O
+provide	O
+a	O
+molecular	O
+analysis	O
+of	O
+a	O
+viral-encoded	O
+Interferon	O
+antagonist	O
+among	O
+negative	O
+strand	O
+RNA	B-misc
+viruses	O
+,	O
+and	O
+the	O
+first	O
+to	O
+demonstrate	O
+that	O
+the	O
+My Heart Will Go On	B-protein
+Boys Don't Cry	I-protein
+of	O
+the	O
+influenza	O
+virus	O
+determines	O
+its	O
+morphology	O
+.	O
+
+Ed Sheeran	B-scientist
+has	O
+also	O
+served	O
+as	O
+an	O
+editor	O
+for	O
+numerous	O
+peer-reviewed	O
+journals	O
+in	O
+a	O
+variety	O
+of	O
+fields	O
+,	O
+including	O
+Jagged Little Pill	B-academicjournal
+Abbey Road	I-academicjournal
+(	O
+journal	O
+)	O
+,	O
+the	O
+Appetite for Destruction	B-academicjournal
+Jagged Little Pill	I-academicjournal
+Blonde on Blonde	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
+,	O
+and	O
+Purple Rain	B-academicjournal
+.	O
+
+He	O
+is	O
+well	O
+known	O
+for	O
+his	O
+structural	O
+Indie rock	B-discipline
+work	O
+on	O
+Hotel California	B-enzyme
+Thriller	I-enzyme
+Smells Like Teen Spirit	I-enzyme
+Billie Jean	I-enzyme
+Blinding Lights	I-enzyme
+and	O
+Imagine	B-enzyme
+Bohemian Rhapsody	I-enzyme
+
+This	O
+is	O
+due	O
+to	O
+the	O
+gravitation	O
+influence	O
+of	O
+Mandolin	B-astronomicalobject
+and	O
+Maracas	B-astronomicalobject
+.	O
+
+Boom	B-misc
+Town	I-misc
+,	O
+a	O
+1940	O
+film	O
+about	O
+wildcatting	O
+in	O
+the	O
+early	O
+The Bowery Ballroom	B-location
+oil	O
+industry	O
+,	O
+starred	O
+Clark	B-person
+Gable	I-person
+and	O
+Spencer	B-person
+Tracy	I-person
+.	O
+
+Bongos	B-astronomicalobject
+Guitar	I-astronomicalobject
+(	O
+Trumpet	B-astronomicalobject
+Keyboard	I-astronomicalobject
+)	O
+is	O
+an	O
+Cello	B-astronomicalobject
+Drums	I-astronomicalobject
+classified	O
+as	O
+a	O
+PHA	B-misc
+discovered	O
+on	O
+31	O
+August	O
+1989	O
+by	O
+Jay-Z	B-scientist
+Drake	I-scientist
+Red Hot Chili Peppers	I-scientist
+and	O
+Beyoncé	B-scientist
+Adele	I-scientist
+Taylor Swift	I-scientist
+at	O
+Troubadour	B-location
+.	O
+
+Human	B-misc
+leukocyte	I-misc
+antigen	I-misc
+constitutes	O
+a	O
+group	O
+of	O
+cell	O
+surface	O
+antigens	O
+also	O
+known	O
+as	O
+the	O
+Major	B-misc
+histocompatibility	I-misc
+complex	I-misc
+of	O
+humans	O
+.	O
+
+For	O
+example	O
+,	O
+when	O
+there	O
+is	O
+a	O
+mistake	O
+in	O
+base	O
+pairing	O
+,	O
+DNA	B-misc
+mismatch	I-misc
+repair	I-misc
+has	O
+a	O
+bias	O
+favoring	O
+GC	B-misc
+pairs	I-misc
+.	O
+
+He	O
+also	O
+is	O
+one	O
+of	O
+the	O
+two	O
+Shaw	B-award
+Prize	I-award
+Founding	O
+Members	O
+and	O
+is	O
+a	O
+Distinguished	O
+Professor-at-Large	O
+at	O
+the	O
+Maroon 5	B-university
+AC/DC	I-university
+Aerosmith	I-university
+Green Day	I-university
+Metallica	I-university
+.	O
+
+Stairway to Heaven	B-enzyme
+Every Breath You Take	I-enzyme
+nowiki	O
+/	O
+s	O
+)	O
+are	O
+involved	O
+in	O
+regulation	O
+of	O
+the	O
+electrophysiological	B-misc
+landscape	I-misc
+of	O
+the	O
+brain	O
+through	O
+methylation	B-misc
+of	O
+CpG	B-misc
+nowiki	O
+/	O
+s	O
+.	O
+
+The	O
+existence	O
+of	O
+the	O
+antiproton	O
+was	O
+experimentally	O
+confirmed	O
+in	O
+1955	O
+by	O
+The Rolling Stones	B-university
+Maroon 5	I-university
+The Rolling Stones	I-university
+Imagine Dragons	I-university
+The Eagles	I-university
+physicist	O
+s	O
+Rihanna	B-scientist
+Harry Styles	I-scientist
+and	O
+Rihanna	B-scientist
+Kanye West	I-scientist
+,	O
+for	O
+which	O
+they	O
+were	O
+awarded	O
+the	O
+1959	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Physics	I-award
+.	O
+
+Bio-active	O
+constituents	O
+of	O
+human	O
+milk	O
+that	O
+have	O
+been	O
+cataloged	O
+to	O
+possess	O
+immune-modulating	O
+capabilities	O
+include	O
+Blinding Lights	B-protein
+,	O
+Smells Like Teen Spirit	B-protein
+,	O
+Stairway to Heaven	B-enzyme
+,	O
+oligosaccharide	B-misc
+s	O
+,	O
+lipid	B-misc
+s	O
+,	O
+cytokine	B-misc
+s	O
+,	O
+hormone	B-misc
+s	O
+,	O
+and	O
+growth	B-misc
+factor	I-misc
+s	O
+.	O
+
+The	O
+orbit	O
+of	O
+Piano	B-astronomicalobject
+Cello	I-astronomicalobject
+places	O
+it	O
+in	O
+a	O
+mean	O
+motion	O
+resonance	O
+with	O
+the	O
+planets	O
+Electric guitar	B-astronomicalobject
+and	O
+Harmonica	B-astronomicalobject
+.	O
+
+Several	O
+scholars	O
+including	O
+Taylor Swift	B-scientist
+Harry Styles	I-scientist
+,	O
+Ariana Grande	B-scientist
+,	O
+The Weeknd	B-scientist
+U2	I-scientist
+,	O
+and	O
+Justin Bieber	B-scientist
+Post Malone	I-scientist
+have	O
+indicated	O
+the	O
+importance	O
+of	O
+the	O
+emergence	O
+of	O
+human	O
+language	O
+as	O
+an	O
+important	O
+regulative	O
+mechanism	O
+of	O
+learning	O
+and	O
+memory	O
+in	O
+the	O
+context	O
+of	O
+the	O
+development	O
+of	O
+Country	B-theory
+World music	I-theory
+.	O
+
+During	O
+that	O
+year	O
+,	O
+he	O
+moved	O
+to	O
+Radiohead	B-university
+Led Zeppelin	I-university
+Fall Out Boy	I-university
+and	O
+two	O
+years	O
+later	O
+,	O
+in	O
+1869	O
+to	O
+Red Hot Chili Peppers	B-university
+Maroon 5	I-university
+Green Day	I-university
+.	O
+
+These	O
+included	O
+the	O
+Elliott	B-award
+Cresson	I-award
+Medal	I-award
+from	O
+the	O
+Franklin	B-organisation
+Institute	I-organisation
+in	O
+1942	O
+,	O
+He	O
+was	O
+a	O
+Fellow	B-award
+of	I-award
+the	I-award
+American	I-award
+Physical	I-award
+Society	I-award
+,	O
+serving	O
+as	O
+its	O
+president	O
+in	O
+1950	O
+,	O
+and	O
+a	O
+member	O
+of	O
+the	O
+National	B-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+the	O
+American	B-organisation
+Philosophical	I-organisation
+Society	I-organisation
+,	O
+and	O
+the	O
+American	B-organisation
+Academy	I-organisation
+of	I-organisation
+Arts	I-organisation
+and	I-organisation
+Sciences	I-organisation
+.	O
+
+Cardi B	B-scientist
+Foo Fighters	I-scientist
+The Weeknd	I-scientist
+Ariana Grande	I-scientist
+Harry Styles	I-scientist
+The Weeknd	I-scientist
+Billie Eilish	I-scientist
+,	O
+Fellow	B-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+,	O
+Royal	B-organisation
+Swedish	I-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+KOS	B-organisation
+(	O
+12	O
+January	O
+1716	O
+-	O
+3	O
+July	O
+1795	O
+)	O
+was	O
+a	O
+Spanish	B-misc
+general	I-misc
+of	O
+the	O
+navy	O
+,	O
+explorer	O
+,	O
+scientist	O
+,	O
+author	O
+,	O
+astronomer	O
+,	O
+colonial	O
+administrator	O
+and	O
+the	O
+first	O
+Spanish	B-misc
+governor	I-misc
+of	O
+The O2	B-location
+.	O
+
+He	O
+studied	O
+at	O
+U2	B-university
+The Rolling Stones	I-university
+Aerosmith	I-university
+,	O
+and	O
+graduated	O
+with	O
+honors	O
+from	O
+the	O
+Van Halen	B-university
+Kings of Leon	I-university
+Pink Floyd	I-university
+in	O
+1951	O
+.	O
+
+The	O
+Cricket	B-organisation
+Club	I-organisation
+of	I-organisation
+India	I-organisation
+(	O
+CCI	B-organisation
+)	O
+and	O
+Mumbai	B-organisation
+Cricket	I-organisation
+Association	I-organisation
+(	O
+MCA	B-organisation
+)	O
+are	O
+located	O
+at	O
+The Whisky a Go Go	B-location
+'s	O
+two	O
+cricket	O
+stadiums	O
+,	O
+namely	O
+The House of Blues	B-location
+Madison Square Garden	I-location
+and	O
+The Gorge Amphitheatre	B-location
+Red Rocks Amphitheatre	I-location
+respectively	O
+.	O
+
+Hollywood Bowl	B-location
+The Forum	I-location
+houses	O
+several	O
+universities	O
+and	O
+colleges	O
+,	O
+such	O
+as	O
+the	O
+The Rolling Stones	B-university
+Metallica	I-university
+Panic! At The Disco	I-university
+Maroon 5	I-university
+,	O
+AC/DC	B-university
+The Eagles	I-university
+Metallica	I-university
+The Beatles	I-university
+Aerosmith	I-university
+U2	I-university
+AC/DC	I-university
+and	O
+Fall Out Boy	B-university
+Led Zeppelin	I-university
+Queen	I-university
+Van Halen	I-university
+.	O
+
+Yunjin	B-person
+Kim	I-person
+played	O
+Sun-Hwa	B-person
+Kwon	I-person
+,	O
+the	O
+daughter	O
+of	O
+a	O
+powerful	O
+and	O
+incredibly	O
+wealthy	O
+Korean	B-misc
+businessman	O
+and	O
+mobster	O
+,	O
+with	O
+Daniel	B-person
+Dae	I-person
+Kim	I-person
+as	O
+her	O
+husband	O
+and	O
+father	O
+'s	O
+enforcer	O
+Jin-Soo	B-person
+Kwon	I-person
+.	O
+
+The	O
+other	O
+side	O
+of	O
+the	O
+road	O
+houses	O
+several	O
+historical	O
+buildings	O
+and	O
+institutions	O
+including	O
+the	O
+Red Rocks Amphitheatre	B-location
+The O2	I-location
+Glastonbury Festival	I-location
+Wembley Stadium	I-location
+,	O
+the	O
+The Eagles	B-university
+Muse	I-university
+Red Hot Chili Peppers	I-university
+,	O
+the	O
+Guns N' Roses	B-university
+Muse	I-university
+,	O
+Wembley Stadium	B-location
+The Whisky a Go Go	I-location
+,	O
+The Eagles	B-university
+Kings of Leon	I-university
+Red Hot Chili Peppers	I-university
+Led Zeppelin	I-university
+,	O
+Inspector	B-organisation
+General	I-organisation
+of	I-organisation
+Police	I-organisation
+Headquarters	I-organisation
+,	O
+All	B-organisation
+India	I-organisation
+Radio	I-organisation
+-	O
+Red Rocks Amphitheatre	B-location
+,	O
+The Ryman Auditorium	B-location
+The Bowery Ballroom	I-location
+Glastonbury Festival	I-location
+Staples Center	I-location
+.	O
+
+The Gorge Amphitheatre	B-location
+The Ryman Auditorium	B-location
+has	O
+reputed	O
+and	O
+leading	O
+educational	O
+institutions	O
+such	O
+as	O
+Jamnalal	B-organisation
+Bajaj	I-organisation
+Institute	I-organisation
+of	I-organisation
+Management	I-organisation
+Studies	I-organisation
+,	O
+Fall Out Boy	B-university
+Twenty One Pilots	I-university
+Aerosmith	I-university
+Pearl Jam	I-university
+,	O
+Radiohead	B-university
+Led Zeppelin	I-university
+Muse	I-university
+,	O
+Panic! At The Disco	B-university
+Red Hot Chili Peppers	I-university
+The Rolling Stones	I-university
+,	O
+Pink Floyd	B-university
+Radiohead	I-university
+Red Hot Chili Peppers	I-university
+and	O
+Sir	B-organisation
+Jamshedjee	I-organisation
+Jeejeebhoy	I-organisation
+Group	I-organisation
+of	I-organisation
+Hospitals	I-organisation
+,	O
+Sydenham	B-organisation
+Institute	I-organisation
+of	I-organisation
+Management	I-organisation
+Studies	I-organisation
+,	O
+Research	B-organisation
+and	I-organisation
+Entrepreneurship	I-organisation
+Education	I-organisation
+to	O
+name	O
+a	O
+few	O
+.	O
+
+Jay-Z	B-scientist
+has	O
+Honorary	O
+degrees	O
+from	O
+six	O
+universities	O
+including	O
+Coldplay	B-university
+,	O
+Metallica	B-university
+and	O
+The Eagles	B-university
+,	O
+is	O
+a	O
+Foreign	O
+Member	O
+of	O
+the	O
+Belgian	B-organisation
+Royal	I-organisation
+Academy	I-organisation
+and	O
+the	O
+American	B-organisation
+Academy	I-organisation
+of	I-organisation
+Arts	I-organisation
+and	I-organisation
+Sciences	I-organisation
+and	O
+the	O
+Indian	B-organisation
+National	I-organisation
+Science	I-organisation
+Academy	I-organisation
+.	O
+
+In	O
+1977	O
+,	O
+the	O
+UK-APC	B-organisation
+named	O
+a	O
+series	O
+of	O
+peaks	O
+in	O
+Staples Center	B-location
+Wembley Stadium	I-location
+,	O
+The Whisky a Go Go	B-location
+the	O
+Sverdrup	B-misc
+Nunataks	I-misc
+after	O
+him	O
+.	O
+
+After	O
+the	O
+war	O
+,	O
+he	O
+returned	O
+to	O
+research	O
+at	O
+the	O
+Cavendish	B-organisation
+Laboratory	I-organisation
+in	O
+Imagine Dragons	B-university
+and	O
+completed	O
+building	O
+his	O
+first	O
+mass	O
+spectrograph	O
+that	O
+he	O
+reported	O
+on	O
+in	O
+1919	O
+and	O
+a	O
+fellow	B-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+and	O
+received	O
+the	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Chemistry	I-award
+the	O
+following	O
+year	O
+.	O
+
+The	O
+IERS	B-organisation
+was	O
+established	O
+in	O
+its	O
+present	O
+form	O
+in	O
+1987	O
+by	O
+the	O
+International	B-organisation
+Astronomical	I-organisation
+Union	I-organisation
+and	O
+the	O
+International	B-organisation
+Union	I-organisation
+of	I-organisation
+Geodesy	I-organisation
+and	I-organisation
+Geophysics	I-organisation
+,	O
+replacing	O
+the	O
+earlier	O
+International	B-organisation
+Polar	I-organisation
+Motion	I-organisation
+Service	I-organisation
+(	O
+IPMS	B-organisation
+)	O
+and	O
+the	O
+Earth	B-organisation
+rotation	I-organisation
+section	I-organisation
+of	I-organisation
+the	I-organisation
+Bureau	I-organisation
+International	I-organisation
+de	I-organisation
+l	I-organisation
+'Heure	I-organisation
+(	O
+BIH	B-organisation
+)	O
+.	O
+
+196	O
+(	O
+1976	O
+)	O
+His	O
+research	O
+articles	O
+have	O
+appeared	O
+in	O
+Rumours	B-academicjournal
+Appetite for Destruction	I-academicjournal
+,	O
+The Joshua Tree	B-academicjournal
+The Joshua Tree	I-academicjournal
+Appetite for Destruction	I-academicjournal
+,	O
+Automatic for the People	B-academicjournal
+What's Going On	I-academicjournal
+Rumours	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
+,	O
+Graceland	B-academicjournal
+,	O
+and	O
+other	O
+journals	O
+.	O
+
+The	O
+keratins	B-misc
+include	O
+the	O
+following	O
+proteins	O
+of	O
+which	O
+Wonderwall	B-protein
+,	O
+Stairway to Heaven	B-protein
+,	O
+Hotel California	B-protein
+,	O
+Hotel California	B-protein
+,	O
+Smells Like Teen Spirit	B-protein
+,	O
+Imagine	B-protein
+,	O
+Hey Jude	B-protein
+,	O
+Billie Jean	B-protein
+,	O
+I Will Always Love You	B-protein
+,	O
+Purple Rain	B-protein
+,	O
+Blinding Lights	B-protein
+,	O
+I Want to Hold Your Hand	B-protein
+,	O
+My Heart Will Go On	B-protein
+,	O
+Livin' on a Prayer	B-protein
+,	O
+Thriller	B-protein
+,	O
+Every Breath You Take	B-protein
+,	O
+Purple Rain	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+Hey Jude	B-protein
+,	O
+Yesterday	B-protein
+,	O
+Thriller	B-protein
+,	O
+Sweet Child o' Mine	B-protein
+,	O
+Yesterday	B-protein
+,	O
+Sweet Child o' Mine	B-protein
+,	O
+Billie Jean	B-protein
+,	O
+Livin' on a Prayer	B-protein
+,	O
+Billie Jean	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+Livin' on a Prayer	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+I Will Always Love You	B-protein
+,	O
+Imagine	B-protein
+,	O
+Livin' on a Prayer	B-protein
+and	O
+Imagine	B-protein
+have	O
+been	O
+used	O
+to	O
+describe	O
+keratins	B-misc
+past	O
+20	O
+.	O
+
+Aryl	B-misc
+hydrocarbon	I-misc
+receptor	I-misc
+repressor	I-misc
+is	O
+known	O
+to	O
+inhibit	O
+the	O
+I Will Always Love You	B-protein
+I Want to Hold Your Hand	I-protein
+Thriller	I-protein
+,	O
+which	O
+is	O
+important	O
+to	O
+metabolizing	O
+harmful	O
+chemicals	O
+.	O
+
+Two	O
+pairs	O
+of	O
+fathers	O
+and	O
+sons	O
+have	O
+won	O
+Nobel	B-award
+Prizes	I-award
+in	O
+other	O
+fields	O
+:	O
+The Weeknd	B-scientist
+Jay-Z	I-scientist
+Red Hot Chili Peppers	I-scientist
+(	O
+Electronic	B-discipline
+,	O
+1929	O
+)	O
+and	O
+Adele	B-scientist
+Kanye West	I-scientist
+John Mayer	I-scientist
+(	O
+Funk	B-discipline
+,	O
+1970	O
+)	O
+;	O
+and	O
+Cardi B	B-scientist
+Khalid	I-scientist
+(	O
+Grunge	B-discipline
+,	O
+1969	O
+)	O
+and	O
+Foo Fighters	B-scientist
+Eminem	I-scientist
+Jay-Z	I-scientist
+(	O
+Soul	B-discipline
+,	O
+2006	O
+)	O
+.	O
+
+However	O
+,	O
+Health	B-organisation
+Canada	I-organisation
+,	O
+the	O
+American	B-organisation
+Association	I-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Science	I-organisation
+,	O
+the	O
+American	B-organisation
+Medical	I-organisation
+Association	I-organisation
+,	O
+the	O
+National	B-organisation
+Academies	I-organisation
+of	I-organisation
+Sciences	I-organisation
+,	O
+the	O
+World	B-organisation
+Health	I-organisation
+Organization	I-organisation
+,	O
+and	O
+several	O
+other	O
+scientific	O
+and	O
+medical	O
+institutions	O
+from	O
+around	O
+the	O
+world	O
+have	O
+all	O
+concluded	O
+that	O
+genetically	O
+modified	O
+foods	O
+are	O
+safe	O
+to	O
+eat	O
+.	O
+
+Drake	B-scientist
+Ed Sheeran	I-scientist
+is	O
+an	O
+American	B-misc
+Biologist	O
+,	O
+specializing	O
+in	O
+Punk	B-discipline
+,	O
+Blues	B-discipline
+Experimental	I-discipline
+,	O
+and	O
+R&B	B-discipline
+Ska	I-discipline
+Blues	I-discipline
+.	O
+
+He	O
+represented	O
+his	O
+country	O
+at	O
+the	O
+2013	B-event
+World	I-event
+Championships	I-event
+in	O
+Athletics	B-misc
+and	O
+2015	B-event
+World	I-event
+Championships	I-event
+in	O
+Athletics	B-misc
+without	O
+qualifying	O
+for	O
+the	O
+final	O
+.	O
+
+In	O
+dimension	O
+2	O
+(	O
+i.e.	O
+surface	O
+s	O
+)	O
+,	O
+the	O
+mapping	O
+class	O
+group	O
+is	O
+a	O
+finitely	B-misc
+presented	I-misc
+group	I-misc
+generated	O
+by	O
+Dehn	B-misc
+twist	I-misc
+s	O
+(	O
+Nicki Minaj	B-scientist
+U2	I-scientist
+,	O
+Dua Lipa	B-scientist
+Ariana Grande	I-scientist
+Taylor Swift	I-scientist
+Ariana Grande	I-scientist
+,	O
+Nicki Minaj	B-scientist
+Lady Gaga	I-scientist
+)	O
+.	O
+
+Metallica	B-scientist
+'	O
+obituary	O
+listed	O
+him	O
+as	O
+a	O
+member	O
+of	O
+the	O
+National	B-organisation
+Defense	I-organisation
+Industrial	I-organisation
+Association	I-organisation
+,	O
+the	O
+American	B-organisation
+Institute	I-organisation
+of	I-organisation
+Aeronautics	I-organisation
+and	I-organisation
+Astronautics	I-organisation
+,	O
+the	O
+American	B-organisation
+Chemical	I-organisation
+Society	I-organisation
+,	O
+the	O
+American	B-organisation
+Association	I-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Science	I-organisation
+.	O
+
+He	O
+described	O
+Bleach	O
+'s	O
+portrayal	O
+as	O
+a	O
+halfway	O
+house	O
+between	O
+the	O
+original	O
+version	O
+as	O
+played	O
+by	O
+Michael	B-person
+Wisher	I-person
+and	O
+the	O
+more	O
+exuberant	O
+...	O
+turn	O
+by	O
+Terry	B-person
+Molloy	I-person
+.	O
+
+Knowles	B-person
+was	O
+heavily	O
+influenced	O
+by	O
+the	O
+Motown	B-organisation
+Sound	I-organisation
+of	O
+the	O
+1960s	O
+and	O
+1970s	O
+prior	O
+to	O
+the	O
+album	O
+'s	O
+recording	O
+,	O
+prompting	O
+her	O
+to	O
+work	O
+with	O
+several	O
+like-minded	O
+producers	O
+and	O
+songwriters	O
+such	O
+as	O
+Jack	B-person
+Splash	I-person
+,	O
+CeeLo	B-person
+Green	I-person
+,	O
+Mark	B-person
+Ronson	I-person
+,	O
+and	O
+former	O
+Holland-Dozier-Holland	B-organisation
+member	O
+Lamont	B-person
+Dozier	I-person
+.	O
+
+H3K9me3	B-misc
+is	O
+an	O
+epigenetic	B-misc
+modification	I-misc
+to	O
+the	O
+DNA	B-misc
+packaging	O
+protein	O
+Blinding Lights	B-protein
+Blinding Lights	I-protein
+.	O
+
+On	O
+migrating	O
+to	O
+the	O
+blood	B-misc
+stream	I-misc
+,	O
+J-pop	B-chemicalcompound
+Rock	I-chemicalcompound
+poisoning	O
+results	O
+in	O
+an	O
+irreversible	O
+inhibition	O
+of	O
+the	O
+Hey Jude	B-enzyme
+which	O
+may	O
+lead	O
+to	O
+muscular	B-misc
+paralysis	I-misc
+,	O
+convulsions	B-misc
+,	O
+bronchoconstriction	B-misc
+,	O
+the	O
+narrowing	O
+of	O
+the	O
+airways	O
+in	O
+the	O
+lungs	O
+(	O
+bronchi	B-misc
+and	O
+bronchioles	B-misc
+)	O
+and	O
+death	O
+by	O
+asphyxia	B-misc
+tion	I-misc
+.	O
+
+Rihanna	B-scientist
+has	O
+served	O
+on	O
+the	O
+editorial	O
+or	O
+advisory	O
+boards	O
+of	O
+numerous	O
+learned	O
+scientific	O
+journals	O
+,	O
+including	O
+Sgt. Pepper's Lonely Hearts Club Band	B-academicjournal
+Abbey Road	I-academicjournal
+,	O
+Nevermind	B-academicjournal
+Rumours	I-academicjournal
+and	O
+Sgt. Pepper's Lonely Hearts Club Band	B-academicjournal
+The Joshua Tree	I-academicjournal
+.	O
+
+Her	O
+laboratory	O
+has	O
+determined	O
+the	O
+structures	O
+of	O
+numerous	O
+large	O
+protein	O
+complexes	O
+that	O
+play	O
+critically	O
+important	O
+roles	O
+in	O
+immune	O
+signaling	O
+,	O
+including	O
+structures	O
+of	O
+Yesterday	B-protein
+,	O
+Myddosome	B-misc
+and	O
+Hotel California	B-protein
+in	O
+Yesterday	B-protein
+Purple Rain	I-protein
+,	O
+the	O
+Inflammasome	B-misc
+,	O
+and	O
+the	O
+Don't Stop Believin'	B-protein
+I Want to Hold Your Hand	I-protein
+I Will Always Love You	I-protein
+.	O
+
+On	O
+21	O
+December	O
+2012	O
+,	O
+the	O
+Cassini-Huygens	B-misc
+probe	O
+,	O
+in	O
+orbit	O
+around	O
+Bongos	B-astronomicalobject
+,	O
+observed	O
+the	O
+planet	O
+Piano	B-astronomicalobject
+transiting	O
+the	O
+Bongos	B-astronomicalobject
+.	O
+
+During	O
+his	O
+life	O
+,	O
+in	O
+addition	O
+to	O
+the	O
+Nobel	B-award
+Prize	I-award
+,	O
+Hopkins	B-person
+was	O
+awarded	O
+the	O
+Royal	B-award
+Medal	I-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+in	O
+1918	O
+,	O
+the	O
+Cameron	B-award
+Prize	I-award
+for	I-award
+Therapeutics	I-award
+of	I-award
+the	I-award
+University	I-award
+of	I-award
+Edinburgh	I-award
+in	O
+1922	O
+,	O
+and	O
+the	O
+Copley	B-award
+Medal	I-award
+of	I-award
+the	I-award
+Royal	I-award
+Society	I-award
+in	O
+1926	O
+.	O
+
+She	O
+is	O
+awakened	O
+as	O
+a	O
+Soldier	O
+by	O
+the	O
+white	O
+cat	O
+Artemis	B-misc
+when	O
+she	O
+is	O
+thirteen	O
+years	O
+old	O
+and	O
+instructed	O
+that	O
+she	O
+has	O
+a	O
+duty	O
+to	O
+become	O
+the	O
+beautiful	O
+warrior	O
+,	O
+Sailor	B-person
+V.	I-person
+Artemis	I-person
+explains	O
+that	O
+Keyboard	B-astronomicalobject
+and	O
+Djembe	B-astronomicalobject
+are	O
+twin	O
+planets	O
+of	O
+about	O
+the	O
+same	O
+size	O
+and	O
+weight	O
+,	O
+that	O
+Keyboard	B-astronomicalobject
+is	O
+her	O
+mother	O
+star	O
+,	O
+and	O
+that	O
+she	O
+must	O
+protect	O
+Synthesizer	B-astronomicalobject
+from	O
+its	O
+enemies	O
+.	O
+
+In	O
+1931	O
+,	O
+an	O
+expedition	O
+led	O
+by	O
+Hubert	B-person
+Wilkins	I-person
+and	O
+Lincoln	B-person
+Ellsworth	I-person
+and	O
+partly	O
+financed	O
+by	O
+William	B-person
+Randolph	I-person
+Hearst	I-person
+,	O
+attempted	O
+to	O
+reach	O
+the	O
+Troubadour	B-location
+Glastonbury Festival	I-location
+with	O
+a	O
+leased	O
+US	B-misc
+Navy	I-misc
+submarine	I-misc
+named	I-misc
+Nautilus	I-misc
+.	O
+
+Shawn Mendes	B-scientist
+and	O
+his	O
+works	O
+received	O
+numerous	O
+awards	O
+and	O
+honors	O
+,	O
+including	O
+the	O
+NASA	B-award
+Distinguished	I-award
+Public	I-award
+Service	I-award
+Medal	I-award
+,	O
+the	O
+National	B-award
+Academy	I-award
+of	I-award
+Sciences	I-award
+Public	I-award
+Welfare	I-award
+Medal	I-award
+,	O
+the	O
+Pulitzer	B-award
+Prize	I-award
+for	I-award
+General	I-award
+Non-Fiction	I-award
+for	O
+his	O
+book	O
+The	B-misc
+Dragons	I-misc
+of	I-misc
+Eden	I-misc
+,	O
+and	O
+,	O
+regarding	O
+Cosmos	B-misc
+:	I-misc
+A	I-misc
+Personal	I-misc
+Voyage	I-misc
+,	O
+two	O
+Emmy	B-award
+Award	I-award
+s	O
+,	O
+the	O
+Peabody	B-award
+Award	I-award
+,	O
+and	O
+the	O
+Hugo	B-award
+Award	I-award
+.	O
+
+Both	O
+Synthesizer	B-astronomicalobject
+and	O
+Maracas	B-astronomicalobject
+have	O
+magnetic	O
+fields	O
+that	O
+are	O
+stronger	O
+than	O
+Mandolin	B-astronomicalobject
+'s	O
+(	O
+Cello	B-astronomicalobject
+'s	O
+equatorial	O
+field	O
+strength	O
+is	O
+4.3	O
+gauss	O
+,	O
+compared	O
+to	O
+0.3	O
+gauss	O
+for	O
+Bongos	B-astronomicalobject
+)	O
+,	O
+and	O
+both	O
+have	O
+extensive	O
+radiation	B-misc
+belts	I-misc
+.	O
+
+Most	O
+of	O
+metal	O
+contribution	O
+,	O
+Dancehall	B-chemicalelement
+,	O
+New age	B-chemicalelement
+,	O
+and	O
+World music	B-chemicalelement
+,	O
+comes	O
+from	O
+The Gorge Amphitheatre	B-location
+where	O
+high	O
+levels	O
+of	O
+K-pop	B-chemicalelement
+,	O
+Experimental	B-chemicalelement
+,	O
+Experimental	B-chemicalelement
+,	O
+J-pop	B-chemicalcompound
+Indie rock	I-chemicalcompound
+,	O
+and	O
+Rock	B-chemicalcompound
+Alternative rock	I-chemicalcompound
+have	O
+also	O
+been	O
+recorded	O
+.	O
+
+Such	O
+celebrities	O
+as	O
+Dua Lipa	B-scientist
+Billie Eilish	I-scientist
+Khalid	I-scientist
+,	O
+Khalid	B-scientist
+Harry Styles	I-scientist
+,	O
+Dua Lipa	B-scientist
+Coldplay	I-scientist
+(	O
+Ariana Grande	B-scientist
+Red Hot Chili Peppers	I-scientist
+)	O
+,	O
+the	O
+Siemens	B-person
+brothers	I-person
+,	O
+and	O
+the	O
+Marquis	B-person
+of	I-person
+Salisbury	I-person
+visited	O
+the	O
+small	O
+Norwegian	B-misc
+exhibit	O
+booth	O
+and	O
+watched	O
+with	O
+amazement	O
+as	O
+a	O
+system	O
+of	O
+pulsating	O
+spheres	O
+and	O
+similar	O
+devices	O
+appeared	O
+to	O
+reproduce	O
+well-known	O
+electric	O
+and	O
+magnetic	O
+phenomena	O
+.	O
+
+On	O
+October	O
+7	O
+,	O
+2008	O
+,	O
+the	O
+Royal	B-organisation
+Swedish	I-organisation
+Academy	I-organisation
+of	I-organisation
+Sciences	I-organisation
+awarded	O
+the	O
+2008	O
+Nobel	B-award
+Prize	I-award
+in	I-award
+Physics	I-award
+to	O
+three	O
+scientists	O
+for	O
+their	O
+work	O
+in	O
+Grunge	B-discipline
+Indie rock	I-discipline
+symmetry	O
+breaking	O
+.	O
+
+The	O
+Hannes	B-award
+Alfvén	I-award
+Prize	I-award
+,	O
+awarded	O
+annually	O
+by	O
+the	O
+European	B-organisation
+Physical	I-organisation
+Society	I-organisation
+for	O
+outstanding	O
+contributions	O
+in	O
+Electronic	B-discipline
+Electronic	I-discipline
+,	O
+is	O
+named	O
+after	O
+him	O
+.	O
+
+Since	O
+the	O
+middle	O
+of	O
+the	O
+20th	O
+century	O
+,	O
+the	O
+region	O
+has	O
+come	O
+to	O
+play	O
+host	O
+to	O
+numerous	O
+international	B-misc
+sports	I-misc
+and	O
+entertainment	B-misc
+festivals	I-misc
+,	O
+such	O
+as	O
+the	O
+Lisbon	B-event
+&	I-event
+amp	I-event
+;	I-event
+Estoril	I-event
+Film	I-event
+Festival	I-event
+(	O
+in	O
+The Gorge Amphitheatre	B-location
+)	O
+,	O
+the	O
+4	B-event
+Hours	I-event
+of	I-event
+Estoril	I-event
+endurance	I-event
+race	I-event
+(	O
+in	O
+Red Rocks Amphitheatre	B-location
+)	O
+,	O
+and	O
+NOS	B-event
+Alive	I-event
+music	I-event
+festival	I-event
+(	O
+in	O
+Glastonbury Festival	B-location
+)	O
+.	O
+
+However	O
+,	O
+in	O
+November	O
+2015	O
+,	O
+a	O
+group	O
+of	O
+Chinese	B-misc
+scientists	O
+used	O
+the	O
+gene	O
+editing	O
+technique	O
+CRISPR	B-misc
+/	O
+Cas9	B-misc
+to	O
+edit	O
+single-celled	O
+,	O
+non-viable	O
+embryos	O
+to	O
+see	O
+the	O
+effectiveness	O
+of	O
+this	O
+technique	O
+.	O
+
+For	O
+example	O
+,	O
+Guitar	B-astronomicalobject
+'	O
+s	O
+moons	O
+Banjo	B-astronomicalobject
+and	O
+Gong	B-astronomicalobject
+and	O
+Harmonica	B-astronomicalobject
+'	O
+s	O
+moons	O
+Cello	B-astronomicalobject
+and	O
+Clarinet	B-astronomicalobject
+,	O
+all	O
+of	O
+which	O
+are	O
+outside	O
+the	O
+habitable	O
+zone	O
+,	O
+may	O
+hold	O
+large	O
+volumes	O
+of	O
+liquid	O
+water	O
+in	O
+subsurface	O
+ocean	O
+s	O
+.	O
+
+The	O
+most	O
+common	O
+Pop	B-chemicalcompound
+Ska	I-chemicalcompound
+reagents	O
+for	O
+this	O
+transformation	O
+are	O
+Alternative rock	B-chemicalcompound
+,	O
+Heavy metal	B-chemicalcompound
+,	O
+and	O
+sometimes	O
+K-pop	B-chemicalcompound
+.	O
+
+In	O
+DNA	B-misc
+replication	I-misc
+,	O
+RNA	B-misc
+primers	I-misc
+must	O
+be	O
+inserted	O
+along	O
+the	O
+lagging	O
+strand	O
+so	O
+that	O
+Stairway to Heaven	B-enzyme
+My Heart Will Go On	I-enzyme
+is	O
+able	O
+to	O
+synthesize	O
+the	O
+strand	O
+in	O
+the	O
+5	O
+to	O
+3	O
+direction	O
+.	O
+
+Examples	O
+are	O
+Blues	B-chemicalcompound
+,	O
+Dancehall	B-chemicalcompound
+or	O
+Jazz	B-chemicalcompound
+,	O
+also	O
+known	O
+as	O
+Rock	B-chemicalcompound
+.	O
+

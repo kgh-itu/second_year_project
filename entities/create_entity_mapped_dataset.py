@@ -10,22 +10,22 @@ entity_to_file_map = {'B-scientist': 'musicartist.txt', 'I-scientist': 'musicart
                       'B-enzyme': 'song.txt', 'I-enzyme': 'song.txt',
                       'B-discipline': 'musicgenre.txt', 'I-discipline': 'musicgenre.txt',
                       'B-theory': 'musicgenre.txt', 'I-theory': 'musicgenre.txt',
-                      'B-chemicalelement': 'musicgenre.txt', 'I-chemicalelement': 'musicgenre.txt'}
+                      'B-chemicalelement': 'musicgenre.txt', 'I-chemicalelement': 'musicgenre.txt',
+                      'B-location': 'location.txt', "I-location": 'location.txt'}
 
-for line in codecs.open("entities/science_train.txt", encoding='utf-8'):
-    if not line.strip():
-        continue
+with open("entities/science_train.txt", "r") as infile, open("tmp.txt", "w") as outfile:
+    for line in infile:
+        if not line.strip():
+            outfile.write("\n")
+            continue
 
-    word, label = line.strip().split("\t")
+        word, label = line.strip().split("\t")
 
-    if label in entity_to_file_map:
-        with open("entities/" + entity_to_file_map[label], "r") as f:
-            words = f.read().splitlines()
-            new_word = random.choice(words)
-            new_sentence = word.replace(word, new_word)
-
-            with open("tmp.txt", "a") as outfile:
+        if label in entity_to_file_map:
+            with open("entities/" + entity_to_file_map[label], "r") as f:
+                words = f.read().splitlines()
+                new_word = random.choice(words)
+                new_sentence = word.replace(word, new_word)
                 outfile.write(new_sentence + "\t" + label + "\n")
-    else:
-        with open("tmp.txt", "a") as outfile:
+        else:
             outfile.write(word + "\t" + label + "\n")

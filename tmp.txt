@@ -2,14 +2,14 @@ They	O
 may	O
 also	O
 use	O
-Hip-hop	B-chemicalcompound
-Folk	I-chemicalcompound
+Grunge	B-chemicalcompound
+Hip-hop	I-chemicalcompound
 ,	O
-Country	B-chemicalcompound
-Alternative rock	I-chemicalcompound
+J-pop	B-chemicalcompound
+J-pop	I-chemicalcompound
 ,	O
 and	O
-Experimental	B-chemicalcompound
+Country	B-chemicalcompound
 for	O
 signaling	O
 in	O
@@ -20,24 +20,25 @@ that	O
 animals	O
 do	O
 .	O
-Drake	B-scientist
-Eminem	I-scientist
+
+Khalid	B-scientist
+Khalid	I-scientist
 ,	O
 a	O
 colleague	O
 of	O
-The Weeknd	B-scientist
+Dua Lipa	B-scientist
 at	O
-Heidelberg	B-location
+Troubadour	B-location
 ,	O
 then	O
 discovered	O
-Djembe	B-astronomicalobject
-Bongos	I-astronomicalobject
+Organ	B-astronomicalobject
+Tambourine	I-astronomicalobject
 eight	O
 months	O
 after	O
-Ukulele	B-astronomicalobject
+Vibraphone	B-astronomicalobject
 ,	O
 and	O
 ,	O
@@ -54,9 +55,10 @@ all	O
 Jupiter	B-misc
 trojans	I-misc
 ,	O
-Drums	B-astronomicalobject
-Bongos	I-astronomicalobject
+Violin	B-astronomicalobject
+Synthesizer	I-astronomicalobject
 .	O
+
 The	O
 five	O
 bodies	O
@@ -77,17 +79,18 @@ the	O
 naked	O
 eye	O
 :	O
-Cello	B-astronomicalobject
+Banjo	B-astronomicalobject
 ,	O
-Keyboard	B-astronomicalobject
+Congas	B-astronomicalobject
 ,	O
-Saxophone	B-astronomicalobject
+Flute	B-astronomicalobject
 ,	O
-Ukulele	B-astronomicalobject
+Gong	B-astronomicalobject
 ,	O
 and	O
-Clarinet	B-astronomicalobject
+Bass guitar	B-astronomicalobject
 .	O
+
 Several	O
 genes	O
 known	O
@@ -99,7 +102,7 @@ differential	O
 methylation	O
 are	O
 the	O
-Hotel California	B-protein
+My Heart Will Go On	B-protein
 xenobiotic	O
 response	O
 element	O
@@ -112,6 +115,7 @@ repressor	I-misc
 and	O
 F2RL3	B-misc
 .	O
+
 Hall	B-person
 also	O
 parodied	O
@@ -156,9 +160,10 @@ and	O
 Mariah	B-person
 Carey	I-person
 .	O
+
 Also	O
 ,	O
-Congas	B-astronomicalobject
+Synthesizer	B-astronomicalobject
 's	O
 fairly	O
 eccentric	O
@@ -182,10 +187,11 @@ nearly	O
 circular	O
 orbits	O
 of	O
-Triangle	B-astronomicalobject
+Harmonica	B-astronomicalobject
 and	O
-Piano	B-astronomicalobject
+Djembe	B-astronomicalobject
 .	O
+
 In	O
 1926	O
 ,	O
@@ -194,24 +200,24 @@ C	I-person
 Lidwill	I-person
 of	O
 the	O
-Royal	B-location
-Prince	I-location
-Alfred	I-location
-Hospital	I-location
+The Roxy	B-location
+The Gorge Amphitheatre	I-location
+Barclays Center	I-location
+The Bowery Ballroom	I-location
 of	O
-Sydney	B-location
+Coachella Valley Music and Arts Festival	B-location
 ,	O
 supported	O
 by	O
 physicist	O
-Drake	B-scientist
-Kanye West	I-scientist
-Bruno Mars	I-scientist
+Ariana Grande	B-scientist
+Eminem	I-scientist
+Justin Bieber	I-scientist
 of	O
 the	O
-	B-university
-Arctic Monkeys	I-university
-One Direction	I-university
+The Who	B-university
+Kings of Leon	I-university
+Linkin Park	I-university
 ,	O
 devised	O
 a	O
@@ -262,14 +268,15 @@ appropriate	O
 cardiac	O
 chamber	O
 .	O
+
 Cardi B	B-scientist
 was	O
 educated	O
 at	O
 the	O
-AC/DC	B-university
-The Eagles	I-university
-Van Halen	I-university
+	B-university
+Coldplay	I-university
+	I-university
 where	O
 she	O
 earned	O
@@ -280,19 +287,20 @@ in	O
 for	O
 research	O
 into	O
-Reggaeton	B-theory
-Latin music	I-theory
+World music	B-theory
+New age	I-theory
 s	O
 and	O
 the	O
 binding	O
 of	O
-Blinding Lights	B-enzyme
-Don't Stop Believin'	I-enzyme
+Livin' on a Prayer	B-enzyme
+Yesterday	I-enzyme
 in	O
 Escherichia	B-misc
 coli	I-misc
 .	O
+
 He	O
 died	O
 ,	O
@@ -329,10 +337,11 @@ at	O
 his	O
 home	O
 in	O
-Annapolis	B-location
+Madison Square Garden	B-location
 ,	O
-MD	B-location
+Red Rocks Amphitheatre	B-location
 .	O
+
 There	O
 were	O
 three	O
@@ -341,8 +350,8 @@ on	O
 the	O
 list	O
 :	O
-Cardi B	B-scientist
-Katy Perry	I-scientist
+Travis Scott	B-scientist
+John Mayer	I-scientist
 ,	O
 who	O
 received	O
@@ -354,8 +363,8 @@ Physics	I-award
 in	O
 1932	O
 ,	O
-Metallica	B-scientist
-Coldplay	I-scientist
+Ed Sheeran	B-scientist
+Taylor Swift	I-scientist
 ,	O
 who	O
 would	O
@@ -369,17 +378,18 @@ in	O
 1936	O
 ,	O
 and	O
-Beyoncé	B-scientist
-Metallica	I-scientist
+Lady Gaga	B-scientist
+Harry Styles	I-scientist
 -	O
 all	O
 former	O
 students	O
 of	O
-Jay-Z	B-scientist
+Rihanna	B-scientist
 .	O
+
 Stairway to Heaven	B-enzyme
-I Will Always Love You	I-enzyme
+Stairway to Heaven	I-enzyme
 is	O
 recruited	O
 to	O
@@ -391,28 +401,29 @@ methyl	B-misc
 groups	I-misc
 to	O
 the	O
-Dancehall	B-chemicalcompound
+Reggaeton	B-chemicalcompound
 of	O
 the	O
 CpG	B-misc
 dinucleotides	I-misc
 .	O
+
 He	O
 also	O
 studies	O
 the	O
-Drums	B-astronomicalobject
-Bongos	I-astronomicalobject
+Mandolin	B-astronomicalobject
+Banjo	I-astronomicalobject
 and	O
 transitional	O
 objects	O
 such	O
 as	O
-Synthesizer	B-astronomicalobject
-Gong	I-astronomicalobject
+Bagpipes	B-astronomicalobject
+Bagpipes	I-astronomicalobject
 and	O
 Banjo	B-astronomicalobject
-Flute	I-astronomicalobject
+Drums	I-astronomicalobject
 ,	O
 as	O
 well	O
@@ -430,9 +441,9 @@ mission	O
 that	O
 travelled	O
 to	O
-Cello	B-astronomicalobject
-Bass guitar	I-astronomicalobject
-Bongos	I-astronomicalobject
+Bass guitar	B-astronomicalobject
+Gong	I-astronomicalobject
+Guitar	I-astronomicalobject
 ,	O
 and	O
 near-Earth	O
@@ -450,6 +461,7 @@ Space	I-misc
 Telescope	I-misc
 s	O
 .	O
+
 The	O
 widely	O
 used	O
@@ -459,22 +471,23 @@ of	O
 a	O
 circularly	O
 permuted	O
-Hotel California	B-protein
+Bohemian Rhapsody	B-protein
 I Want to Hold Your Hand	I-protein
-Livin' on a Prayer	I-protein
+Blinding Lights	I-protein
 fused	O
 to	O
 a	O
-My Heart Will Go On	B-protein
-Sweet Child o' Mine	I-protein
-Yesterday	I-protein
+Boys Don't Cry	B-protein
+Wonderwall	I-protein
+Blinding Lights	I-protein
 (	O
-Blinding Lights	B-protein
+Livin' on a Prayer	B-protein
 )	O
 from	O
 a	O
 bacterium	O
 .	O
+
 He	O
 was	O
 research	O
@@ -543,6 +556,7 @@ to	O
 1976	O
 )	O
 .	O
+
 In	O
 the	O
 20th	O
@@ -555,38 +569,39 @@ polymer	O
 s	O
 such	O
 as	O
-R&B	B-chemicalcompound
+Electronic	B-chemicalcompound
 ,	O
-Pop	B-chemicalcompound
-,	O
-Rock	B-chemicalcompound
-,	O
-Blues	B-chemicalcompound
-,	O
-Alternative rock	B-chemicalcompound
-,	O
-Classical crossover	B-chemicalcompound
-,	O
-Experimental	B-chemicalcompound
-,	O
-Soul	B-chemicalcompound
-,	O
-Reggae	B-chemicalcompound
-,	O
-Punk	B-chemicalcompound
-Rock	I-chemicalcompound
+Gospel	B-chemicalcompound
 ,	O
 Dancehall	B-chemicalcompound
 ,	O
-J-pop	B-chemicalcompound
+Experimental	B-chemicalcompound
+,	O
+Gospel	B-chemicalcompound
+,	O
+World music	B-chemicalcompound
+,	O
+Reggae	B-chemicalcompound
+,	O
+Classical	B-chemicalcompound
+,	O
+Classical crossover	B-chemicalcompound
+,	O
+Punk	B-chemicalcompound
+Latin music	I-chemicalcompound
+,	O
+Experimental	B-chemicalcompound
+,	O
+Ambient	B-chemicalcompound
 ,	O
 Electronic	B-chemicalcompound
 ,	O
-Latin music	B-chemicalcompound
+Grunge	B-chemicalcompound
 ,	O
 and	O
-Soul	B-chemicalcompound
+Alternative rock	B-chemicalcompound
 .	O
+
 Under	O
 the	O
 influence	O
@@ -598,8 +613,8 @@ methods	O
 propounded	O
 by	O
 Sir	O
-U2	B-scientist
-U2	I-scientist
+Lady Gaga	B-scientist
+Jay-Z	I-scientist
 and	O
 others	O
 ,	O
@@ -608,16 +623,16 @@ group	O
 of	O
 chemists	O
 at	O
-Metallica	B-university
+Linkin Park	B-university
 ,	O
-Drake	B-scientist
-John Mayer	I-scientist
+Nicki Minaj	B-scientist
+Lady Gaga	I-scientist
 ,	O
-Taylor Swift	B-scientist
+Jay-Z	B-scientist
 Adele	I-scientist
 and	O
-Nicki Minaj	B-scientist
-Billie Eilish	I-scientist
+Katy Perry	B-scientist
+Eminem	I-scientist
 began	O
 to	O
 reshape	O
@@ -630,6 +645,7 @@ a	O
 scientific	O
 discipline	O
 .	O
+
 The	O
 Thimble	B-misc
 Tickle	I-misc
@@ -647,37 +663,39 @@ November	O
 1878	O
 ,	O
 near	O
-Little	B-location
-Bay	I-location
-Copper	I-location
-Mine	I-location
+The House of Blues	B-location
+The House of Blues	I-location
+The Apollo Theater	I-location
+Wembley Stadium	I-location
 ,	O
-Thimble	B-location
-Tickle	I-location
-Bay	I-location
+The Ryman Auditorium	B-location
+Troubadour	I-location
+Red Rocks Amphitheatre	I-location
 ,	O
-Notre	B-location
-Dame	I-location
-Bay	I-location
+The Ryman Auditorium	B-location
+The Roxy	I-location
+Wembley Stadium	I-location
 ,	O
 Newfoundland	B-country
 Colony	I-country
 .	O
-Wonderwall	B-enzyme
-Thriller	I-enzyme
+
+Bohemian Rhapsody	B-enzyme
+Billie Jean	I-enzyme
 uses	O
-Soul	B-chemicalcompound
+Rock	B-chemicalcompound
 and	O
-J-pop	B-chemicalcompound
+Punk	B-chemicalcompound
 (	O
 decarboxylated	B-misc
-Gospel	B-chemicalcompound
-Heavy metal	I-chemicalcompound
+Punk	B-chemicalcompound
+Alternative rock	I-chemicalcompound
 )	O
 to	O
 produce	O
-Dancehall	B-chemicalcompound
+Blues	B-chemicalcompound
 .	O
+
 Organizations	O
 such	O
 as	O
@@ -713,6 +731,7 @@ preserving	O
 forest	O
 habitats	O
 .	O
+
 Tyas	B-person
 '	O
 5	O
@@ -789,6 +808,7 @@ and	O
 many	O
 more	O
 .	O
+
 He	O
 has	O
 been	O
@@ -822,6 +842,7 @@ the	O
 Royal	B-organisation
 Society	I-organisation
 .	O
+
 The	O
 author	O
 of	O
@@ -839,9 +860,9 @@ Schmadel	I-person
 contacted	O
 Italian	B-misc
 astronomer	O
-Travis Scott	B-scientist
-John Mayer	I-scientist
-Ed Sheeran	I-scientist
+Shawn Mendes	B-scientist
+Eminem	I-scientist
+Nicki Minaj	I-scientist
 ,	O
 who	O
 confirmed	O
@@ -857,6 +878,7 @@ homage	O
 to	O
 him	O
 .	O
+
 Liver	B-misc
 function	I-misc
 test	I-misc
@@ -867,10 +889,10 @@ elevated	O
 ,	O
 particularly	O
 involving	O
-Wonderwall	B-protein
+My Heart Will Go On	B-protein
 and	O
-Imagine	B-enzyme
-Stairway to Heaven	I-enzyme
+Thriller	B-enzyme
+Every Breath You Take	I-enzyme
 ,	O
 with	O
 ultrasound	B-misc
@@ -885,28 +907,30 @@ investigations	O
 of	O
 choice	O
 .	O
-Harry Styles	B-scientist
+
+Dua Lipa	B-scientist
 received	O
 his	O
 Ph.D.	O
 at	O
 the	O
-The Rolling Stones	B-university
-Radiohead	I-university
-The Eagles	I-university
+Led Zeppelin	B-university
+	I-university
+Led Zeppelin	I-university
 in	O
 1951	O
 under	O
 supervision	O
 of	O
-Metallica	B-scientist
-Jay-Z	I-scientist
+Katy Perry	B-scientist
+Billie Eilish	I-scientist
 .	O
+
 In	O
 1831	O
 ,	O
-Justin Bieber	B-scientist
-Harry Styles	I-scientist
+Khalid	B-scientist
+Ed Sheeran	I-scientist
 made	O
 the	O
 seminal	O
@@ -925,9 +949,9 @@ then	O
 in	O
 1864	O
 ,	O
-Dua Lipa	B-scientist
-Dua Lipa	I-scientist
-Nicki Minaj	I-scientist
+Eminem	B-scientist
+U2	I-scientist
+The Weeknd	I-scientist
 published	O
 his	O
 famous	O
@@ -949,21 +973,22 @@ page	O
 ;	O
 also	O
 Kanye West	B-scientist
-Shawn Mendes	I-scientist
-Cardi B	I-scientist
+U2	I-scientist
+Harry Styles	I-scientist
 (	O
 1999	O
 )	O
 ,	O
 Introduction	O
 to	O
-Soul	B-discipline
+Funk	B-discipline
 ,	O
 third	O
 Edition	O
 ,	O
 ed	O
 .	O
+
 Still	O
 within	O
 the	O
@@ -984,22 +1009,23 @@ buffer	I-misc
 ,	O
 NTPs	B-misc
 ,	O
-Bohemian Rhapsody	B-enzyme
+My Heart Will Go On	B-enzyme
 My Heart Will Go On	I-enzyme
-Stairway to Heaven	I-enzyme
+Yesterday	I-enzyme
 ,	O
-Blinding Lights	B-protein
-Thriller	I-protein
+I Want to Hold Your Hand	B-protein
+Imagine	I-protein
 ,	O
-Punk	B-chemicalcompound
+Pop	B-chemicalcompound
 ,	O
 etc	O
 .	O
+
 Based	O
 on	O
-Ska	B-discipline
+Alternative rock	B-discipline
 ,	O
-Cello	B-astronomicalobject
+Accordion	B-astronomicalobject
 is	O
 thought	O
 to	O
@@ -1008,22 +1034,22 @@ similar	O
 in	O
 composition	O
 to	O
-Synthesizer	B-astronomicalobject
+Banjo	B-astronomicalobject
 ,	O
 but	O
 the	O
 other	O
 giant	O
 planets	O
-Harmonica	B-astronomicalobject
+Ukulele	B-astronomicalobject
 and	O
-Bongos	B-astronomicalobject
+Maracas	B-astronomicalobject
 have	O
 relatively	O
 less	O
-Pop	B-chemicalelement
+Grunge	B-chemicalelement
 and	O
-Electronic	B-chemicalelement
+Grunge	B-chemicalelement
 and	O
 relatively	O
 more	O
@@ -1037,12 +1063,13 @@ ice	B-misc
 giant	I-misc
 s	O
 .	O
-Post Malone	B-scientist
-Justin Bieber	I-scientist
+
+John Mayer	B-scientist
+Adele	I-scientist
 discovered	O
 that	O
-Experimental	B-chemicalcompound
-R&B	I-chemicalcompound
+Punk	B-chemicalcompound
+Ska	I-chemicalcompound
 or	O
 sulfate	B-misc
 salts	I-misc
@@ -1053,16 +1080,17 @@ by	O
 electrolytic	O
 reduction	O
 of	O
-Funk	B-chemicalcompound
-Punk	I-chemicalcompound
+Rock	B-chemicalcompound
+Soul	I-chemicalcompound
 with	O
-New age	B-chemicalcompound
-R&B	I-chemicalcompound
+Grunge	B-chemicalcompound
+K-pop	I-chemicalcompound
 or	O
-Heavy metal	B-chemicalcompound
-Grunge	I-chemicalcompound
+New age	B-chemicalcompound
+Ambient	I-chemicalcompound
 respectively	O
 :	O
+
 Lindsay	B-person
 and	O
 his	O
@@ -1070,7 +1098,7 @@ wife	O
 Rachel	B-person
 translated	O
 Justin Bieber	B-scientist
-Cardi B	I-scientist
+The Weeknd	I-scientist
 book	O
 ,	O
 The	B-misc
@@ -1086,13 +1114,13 @@ Structure	I-misc
 in	O
 1923	O
 ,	O
-Eminem	B-scientist
-Cardi B	I-scientist
+Ed Sheeran	B-scientist
+Bruno Mars	I-scientist
 &	O
 amp	O
 ;	O
-Shawn Mendes	B-scientist
-Ariana Grande	I-scientist
+Nicki Minaj	B-scientist
+Katy Perry	I-scientist
 ,	O
 The	B-misc
 Atom	I-misc
@@ -1112,19 +1140,20 @@ Gyldendal	B-organisation
 ,	O
 210pp	O
 .	O
+
 Nicknames	O
 (	O
 e.g.	O
 Djembe	B-astronomicalobject
-Djembe	I-astronomicalobject
 Accordion	I-astronomicalobject
-,	O
-Piano	B-astronomicalobject
 Saxophone	I-astronomicalobject
-Mandolin	I-astronomicalobject
 ,	O
-Piano	B-astronomicalobject
-Bass guitar	I-astronomicalobject
+Drums	B-astronomicalobject
+Cello	I-astronomicalobject
+Violin	I-astronomicalobject
+,	O
+Djembe	B-astronomicalobject
+Harmonica	I-astronomicalobject
 )	O
 should	O
 not	O
@@ -1146,6 +1175,7 @@ the	O
 scientific	O
 literature	O
 .	O
+
 He	O
 has	O
 written	O
@@ -1165,16 +1195,16 @@ journals	O
 and	O
 books	O
 including	O
-21	B-academicjournal
-Automatic for the People	I-academicjournal
-,	O
-Ten	B-academicjournal
-21	I-academicjournal
-Jagged Little Pill	I-academicjournal
+Purple Rain	B-academicjournal
 Thriller	I-academicjournal
 ,	O
-Automatic for the People	B-academicjournal
-Rumours	I-academicjournal
+Graceland	B-academicjournal
+What's Going On	I-academicjournal
+The Joshua Tree	I-academicjournal
+21	I-academicjournal
+,	O
+The Wall	B-academicjournal
+Appetite for Destruction	I-academicjournal
 and	O
 the	O
 main	O
@@ -1183,20 +1213,21 @@ in	O
 the	O
 field	O
 of	O
-R&B	B-theory
-World music	I-theory
+Ska	B-theory
+Reggaeton	I-theory
 ,	O
 Comprehensive	B-misc
 Chiroptical	I-misc
 Spectroscopy	I-misc
 .	O
+
 In	O
 order	O
 to	O
 get	O
 a	O
 meaningful	O
-Soul	B-chemicalelement
+Latin music	B-chemicalelement
 signal	O
 from	O
 the	O
@@ -1207,25 +1238,26 @@ buffer	O
 should	O
 not	O
 contain	O
-Ambient	B-chemicalelement
+Pop	B-chemicalelement
 (	O
 i.e.	O
 no	O
-K-pop	B-chemicalcompound
-,	O
-Alternative rock	B-chemicalcompound
-,	O
-World music	B-chemicalcompound
-,	O
 Experimental	B-chemicalcompound
 ,	O
-Reggae	B-chemicalcompound
+Punk	B-chemicalcompound
+,	O
+Ska	B-chemicalcompound
+,	O
+J-pop	B-chemicalcompound
+,	O
+Soul	B-chemicalcompound
 ,	O
 or	O
-Experimental	B-chemicalcompound
+Reggae	B-chemicalcompound
 compounds	O
 )	O
 .	O
+
 The	O
 Oak	B-organisation
 Ridge	I-organisation
@@ -1237,10 +1269,10 @@ Education	I-organisation
 ,	O
 operated	O
 by	O
-Twenty One Pilots	B-university
-Maroon 5	I-university
-AC/DC	I-university
-Metallica	I-university
+Green Day	B-university
+Aerosmith	I-university
+Aerosmith	I-university
+	I-university
 ,	O
 conducts	O
 research	O
@@ -1261,11 +1293,12 @@ other	O
 federal	O
 agencies	O
 .	O
+
 After	O
 students	O
 at	O
 	B-university
-Metallica	I-university
+Radiohead	I-university
 celebrated	O
 Bonaparte	B-person
 's	O
@@ -1284,9 +1317,10 @@ appointed	O
 von	B-person
 Fersen	I-person
 as	O
-Radiohead	B-university
-Pink Floyd	I-university
+Nirvana	B-university
+Linkin Park	I-university
 .	O
+
 Flexner	B-person
 had	O
 studied	O
@@ -1294,20 +1328,20 @@ European	B-misc
 schools	O
 such	O
 as	O
-U2	B-university
-Pink Floyd	I-university
+Radiohead	B-university
+Pearl Jam	I-university
 ,	O
-Coldplay	B-university
-The Beatles	I-university
-U2	I-university
-AC/DC	I-university
+Nirvana	B-university
 The Eagles	I-university
+Pink Floyd	I-university
+The Eagles	I-university
+Arctic Monkeys	I-university
 ,	O
 and	O
 the	O
-Arctic Monkeys	B-university
-The Beatles	I-university
-Imagine Dragons	I-university
+Metallica	B-university
+Pink Floyd	I-university
+Van Halen	I-university
 -and	O
 he	O
 wanted	O
@@ -1323,14 +1357,15 @@ the	O
 United	B-country
 States	I-country
 .	O
+
 This	O
 mechanism	O
 is	O
 evident	O
 on	O
-Electric guitar	B-astronomicalobject
+Bongos	B-astronomicalobject
 and	O
-Electric guitar	B-astronomicalobject
+Organ	B-astronomicalobject
 and	O
 on	O
 brown	O
@@ -1348,19 +1383,20 @@ undergo	O
 nuclear	O
 fusion	O
 .	O
-Oxon	B-location
+
+The O2	B-location
 )	O
-One Direction	B-university
-The Rolling Stones	I-university
-Nirvana	I-university
-Coldplay	I-university
+Led Zeppelin	B-university
+One Direction	I-university
+Queen	I-university
+Pink Floyd	I-university
 ,	O
 the	O
 son	O
 of	O
 Sir	O
-Khalid	B-scientist
-Metallica	I-scientist
+John Mayer	B-scientist
+Foo Fighters	I-scientist
 ,	O
 1st	O
 Baronet	B-award
@@ -1368,6 +1404,7 @@ MD	I-award
 Royal	I-award
 Society	I-award
 .	O
+
 The	O
 area	O
 is	O
@@ -1393,11 +1430,12 @@ to	O
 the	O
 east	O
 of	O
-Doughiska	B-location
+Coachella Valley Music and Arts Festival	B-location
 .	O
-Imagine Dragons	B-university
-Pearl Jam	I-university
-Maroon 5	I-university
+
+Nirvana	B-university
+Guns N' Roses	I-university
+Coldplay	I-university
 ,	O
 classified	O
 as	O
@@ -1429,6 +1467,7 @@ roughly	O
 1,500	O
 students	O
 .	O
+
 The	O
 five	O
 bodies	O
@@ -1449,17 +1488,18 @@ the	O
 naked	O
 eye	O
 :	O
-Organ	B-astronomicalobject
+Guitar	B-astronomicalobject
 ,	O
-Tambourine	B-astronomicalobject
+Flute	B-astronomicalobject
 ,	O
-Bagpipes	B-astronomicalobject
+Harp	B-astronomicalobject
 ,	O
 Tambourine	B-astronomicalobject
 ,	O
 and	O
-Clarinet	B-astronomicalobject
+Organ	B-astronomicalobject
 .	O
+
 In	O
 1871	O
 he	O
@@ -1487,17 +1527,19 @@ the	I-award
 Royal	I-award
 Society	I-award
 .	O
+
 The	O
 planets	O
 have	O
 been	O
 designated	O
-Organ	B-astronomicalobject
-Triangle	I-astronomicalobject
-and	O
 Harmonica	B-astronomicalobject
-Piano	I-astronomicalobject
+Saxophone	I-astronomicalobject
+and	O
+Maracas	B-astronomicalobject
+Organ	I-astronomicalobject
 .	O
+
 The	O
 two-part	O
 finale	O
@@ -1565,6 +1607,7 @@ respectively	O
 in	O
 2010	O
 .	O
+
 Lost	B-misc
 was	O
 created	O
@@ -1593,6 +1636,7 @@ which	O
 Abrams	B-person
 directed	O
 .	O
+
 The	O
 study	O
 claimed	O
@@ -1608,6 +1652,7 @@ accuracy	O
 and	O
 percision	O
 .	O
+
 In	O
 1917	O
 ,	O
@@ -1622,39 +1667,41 @@ Professor	I-award
 of	I-award
 Physics	I-award
 by	O
-Harry Styles	B-scientist
-Kanye West	I-scientist
+Eminem	B-scientist
+Ariana Grande	I-scientist
 at	O
 the	O
-Imagine Dragons	B-university
-Maroon 5	I-university
-Fall Out Boy	I-university
+The Eagles	B-university
+	I-university
+	I-university
 ,	O
-One Direction	B-university
-Maroon 5	I-university
-AC/DC	I-university
+Pink Floyd	B-university
+Led Zeppelin	I-university
+Van Halen	I-university
 .	O
+
 It	O
 has	O
 one	O
 of	O
 the	O
 six	O
-	B-university
-Arctic Monkeys	I-university
-Guns N' Roses	I-university
+Maroon 5	B-university
 Imagine Dragons	I-university
-Guns N' Roses	I-university
+Fall Out Boy	I-university
+The Eagles	I-university
+Arctic Monkeys	I-university
 and	O
 one	O
 of	O
 sixteen	O
-Kings of Leon	B-university
-Red Hot Chili Peppers	I-university
+Arctic Monkeys	B-university
 	I-university
-Metallica	I-university
-The Eagles	I-university
+Linkin Park	I-university
+	I-university
+The Rolling Stones	I-university
 .	O
+
 From	O
 the	O
 16th	O
@@ -1662,17 +1709,17 @@ century	O
 ,	O
 researchers	O
 including	O
-Beyoncé	B-scientist
-Khalid	I-scientist
-Kanye West	I-scientist
-Post Malone	I-scientist
+Billie Eilish	B-scientist
+Adele	I-scientist
+Coldplay	I-scientist
+Lady Gaga	I-scientist
 ,	O
 Post Malone	B-scientist
-Metallica	I-scientist
+Jay-Z	I-scientist
 ,	O
 and	O
-The Weeknd	B-scientist
-Drake	I-scientist
+Justin Bieber	B-scientist
+Post Malone	I-scientist
 tried	O
 to	O
 establish	O
@@ -1684,7 +1731,8 @@ observed	O
 chemical	O
 transformations	O
 .	O
-Ed Sheeran	B-scientist
+
+Nicki Minaj	B-scientist
 was	O
 awarded	O
 the	O
@@ -1733,14 +1781,15 @@ Sciences	I-organisation
 1991	O
 )	O
 .	O
+
 In	O
 2005	O
 ,	O
-Shawn Mendes	B-scientist
-Taylor Swift	I-scientist
+Jay-Z	B-scientist
+Beyoncé	I-scientist
 and	O
-Justin Bieber	B-scientist
-Red Hot Chili Peppers	I-scientist
+Katy Perry	B-scientist
+Ed Sheeran	I-scientist
 of	O
 the	O
 UCL	B-organisation
@@ -1782,6 +1831,7 @@ in	O
 other	O
 people	O
 .	O
+
 In	O
 August	O
 1955	O
@@ -1791,23 +1841,24 @@ was	O
 reassigned	O
 to	O
 the	O
-U2	B-university
-Foo Fighters	I-university
-Fall Out Boy	I-university
-Led Zeppelin	I-university
-	I-university
-AC/DC	I-university
+Guns N' Roses	B-university
+Metallica	I-university
+Kings of Leon	I-university
+Guns N' Roses	I-university
+The Eagles	I-university
+Muse	I-university
 at	O
 Wright-Patterson	B-organisation
 Air	I-organisation
 Force	I-organisation
 Base	I-organisation
 near	O
-Dayton	B-location
+Coachella Valley Music and Arts Festival	B-location
 ,	O
-Ohio	B-location
+Barclays Center	B-location
 .	O
-Taylor Swift	B-scientist
+
+Justin Bieber	B-scientist
 was	O
 elected	O
 a	O
@@ -1843,7 +1894,8 @@ established	O
 in	O
 1960	O
 .	O
-Soul	B-chemicalelement
+
+Latin music	B-chemicalelement
 was	O
 first	O
 reported	O
@@ -1868,7 +1920,7 @@ Research	I-organisation
 JINR	B-organisation
 )	O
 in	O
-Dubna	B-location
+Madison Square Garden	B-location
 ,	O
 Russia	B-country
 ,	O
@@ -1884,10 +1936,11 @@ scientists	O
 at	O
 Riken	B-organisation
 in	O
-Wakō	B-location
+Madison Square Garden	B-location
 ,	O
 Japan	B-country
 .	O
+
 The	O
 album	O
 received	O
@@ -1913,37 +1966,39 @@ Awards	I-award
 2003	O
 )	O
 .	O
+
 The	O
 exceptions	O
 are	O
-Tambourine	B-astronomicalobject
+Guitar	B-astronomicalobject
 and	O
-Gong	B-astronomicalobject
+Harmonica	B-astronomicalobject
 .	O
+
 Triple	O
 conjunctions	O
 between	O
 the	O
 inferior	O
 planets	O
-Flute	B-astronomicalobject
-and	O
 Drums	B-astronomicalobject
+and	O
+Harp	B-astronomicalobject
 and	O
 the	O
 superior	O
 planets	O
-Maracas	B-astronomicalobject
+Bongos	B-astronomicalobject
 ,	O
-Mandolin	B-astronomicalobject
+Harp	B-astronomicalobject
 ,	O
-Harmonica	B-astronomicalobject
+Saxophone	B-astronomicalobject
 ,	O
-Gong	B-astronomicalobject
+Tambourine	B-astronomicalobject
 ,	O
 dwarf	O
 planet	O
-Drums	B-astronomicalobject
+Djembe	B-astronomicalobject
 or	O
 with	O
 star	O
@@ -1961,34 +2016,36 @@ time	O
 in	O
 conjunction	O
 to	O
-Congas	B-astronomicalobject
+Maracas	B-astronomicalobject
 while	O
-Ukulele	B-astronomicalobject
+Djembe	B-astronomicalobject
 or	O
-Clarinet	B-astronomicalobject
+Cello	B-astronomicalobject
 are	O
 at	O
 inferior	O
 conjunction	O
 .	O
+
 In	O
 1991	O
 ,	O
-Dua Lipa	B-scientist
-U2	I-scientist
+Jay-Z	B-scientist
+Katy Perry	I-scientist
 and	O
-U2	B-scientist
-Travis Scott	I-scientist
+Cardi B	B-scientist
+Nicki Minaj	I-scientist
 bet	O
 against	O
-Billie Eilish	B-scientist
-Taylor Swift	I-scientist
+Beyoncé	B-scientist
+Eminem	I-scientist
 that	O
 the	O
 hypothesis	O
 was	O
 FALSE	O
 .	O
+
 She	O
 represented	O
 her	O
@@ -2007,6 +2064,7 @@ the	O
 first	O
 round	O
 .	O
+
 Auroras	B-misc
 have	O
 been	O
@@ -2035,10 +2093,11 @@ as	O
 well	O
 as	O
 on	O
-Saxophone	B-astronomicalobject
+Ukulele	B-astronomicalobject
 and	O
-Banjo	B-astronomicalobject
+Synthesizer	B-astronomicalobject
 .	O
+
 The	O
 kinetic	B-misc
 isotope	I-misc
@@ -2047,11 +2106,11 @@ effect	I-misc
 KIE	B-misc
 )	O
 of	O
-Purple Rain	B-enzyme
-Every Breath You Take	I-enzyme
+My Heart Will Go On	B-enzyme
 My Heart Will Go On	I-enzyme
+Purple Rain	I-enzyme
 (	O
-Don't Stop Believin'	B-enzyme
+Sweet Child o' Mine	B-enzyme
 )	O
 is	O
 the	O
@@ -2070,11 +2129,12 @@ where	O
 a	O
 molecule	O
 of	O
-Country	B-chemicalcompound
-Latin music	I-chemicalcompound
+Soul	B-chemicalcompound
+Blues	I-chemicalcompound
 (	O
-R&B	B-chemicalcompound
-Dancehall	I-chemicalcompound
+
+Grunge	B-chemicalcompound
+New age	I-chemicalcompound
 has	O
 also	O
 been	O
@@ -2085,16 +2145,17 @@ the	O
 lsr	B-misc
 operon	I-misc
 through	O
-Latin music	B-chemicalcompound
-Country	I-chemicalcompound
-J-pop	I-chemicalcompound
+Soul	B-chemicalcompound
+Soul	I-chemicalcompound
+Punk	I-chemicalcompound
 -CAPK-mediated	O
 inhibition	O
 .	O
+
 While	O
-Jazz	B-discipline
+Reggae	B-discipline
 and	O
-Blues	B-discipline
+Classical	B-discipline
 are	O
 separate	O
 fields	O
@@ -2131,6 +2192,7 @@ Geophysics	I-organisation
 encompass	O
 both	O
 .	O
+
 The	O
 relative	O
 positions	O
@@ -2138,16 +2200,16 @@ of	O
 five	O
 planets	O
 (	O
-Maracas	B-astronomicalobject
+Xylophone	B-astronomicalobject
 ,	O
-Mandolin	B-astronomicalobject
+Cello	B-astronomicalobject
 ,	O
-Bagpipes	B-astronomicalobject
+Organ	B-astronomicalobject
 ,	O
-Gong	B-astronomicalobject
+Triangle	B-astronomicalobject
 ,	O
 and	O
-Clarinet	B-astronomicalobject
+Mandolin	B-astronomicalobject
 )	O
 were	O
 shown	O
@@ -2155,7 +2217,7 @@ shown	O
 as	O
 were	O
 the	O
-Banjo	B-astronomicalobject
+Clarinet	B-astronomicalobject
 's	O
 phases	O
 and	O
@@ -2163,11 +2225,12 @@ the	O
 position	O
 of	O
 the	O
-Saxophone	B-astronomicalobject
+Mandolin	B-astronomicalobject
 in	O
 the	O
 zodiac	B-misc
 .	O
+
 He	O
 was	O
 also	O
@@ -2186,13 +2249,13 @@ Academy	I-organisation
 of	I-organisation
 Sciences	I-organisation
 ,	O
-Soul	B-discipline
+World music	B-discipline
 ,	O
 and	O
 of	O
-Rock	B-discipline
-Ska	I-discipline
-Alternative rock	I-discipline
+Blues	B-discipline
+Reggae	I-discipline
+Jazz	I-discipline
 ;	O
 the	O
 Pontifical	B-organisation
@@ -2201,7 +2264,7 @@ of	I-organisation
 Sciences	I-organisation
 of	O
 the	O
-Vatican	B-location
+Royal Albert Hall	B-location
 ;	O
 the	O
 American	B-organisation
@@ -2223,7 +2286,7 @@ Academy	B-organisation
 of	I-organisation
 Sciences	I-organisation
 of	O
-Paris	B-location
+The Gorge Amphitheatre	B-location
 ;	O
 the	O
 Deutsche	B-organisation
@@ -2237,6 +2300,7 @@ American	B-organisation
 Philosophical	I-organisation
 Society	I-organisation
 .	O
+
 Ragtime	B-misc
 was	O
 nominated	O
@@ -2269,6 +2333,7 @@ for	I-award
 Outstanding	I-award
 Lyrics	I-award
 .	O
+
 The	O
 Apollo	B-misc
 7	I-misc
@@ -2314,6 +2379,7 @@ Wright	I-person
 as	O
 Wendt	B-person
 .	O
+
 The	O
 journal	O
 establishment	O
@@ -2323,18 +2389,19 @@ to	O
 the	O
 starting	O
 of	O
-Back in Black	B-academicjournal
-Automatic for the People	I-academicjournal
-Graceland	I-academicjournal
+Thriller	B-academicjournal
+Nevermind	I-academicjournal
+Blonde on Blonde	I-academicjournal
 and	O
-OK Computer	B-academicjournal
+A Night at the Opera	B-academicjournal
+Purple Rain	I-academicjournal
 Ten	I-academicjournal
-Appetite for Destruction	I-academicjournal
 by	O
-Dua Lipa	B-scientist
+Travis Scott	B-scientist
 Drake	I-scientist
-U2	I-scientist
+Foo Fighters	I-scientist
 .	O
+
 In	O
 1969	O
 ,	O
@@ -2344,10 +2411,10 @@ Ellis	B-person
 Hillman	I-person
 ,	O
 a	O
-Queen	B-university
+Pink Floyd	B-university
+Radiohead	I-university
 Red Hot Chili Peppers	I-university
 	I-university
-Nirvana	I-university
 lecturer	O
 ,	O
 to	O
@@ -2397,7 +2464,8 @@ helped	O
 to	O
 establish	O
 .	O
-John Mayer	B-scientist
+
+The Weeknd	B-scientist
 was	O
 appointed	O
 docent	O
@@ -2405,21 +2473,22 @@ at	O
 the	O
 newly	O
 established	O
-Twenty One Pilots	B-university
-Metallica	I-university
+Linkin Park	B-university
+Guns N' Roses	I-university
 (	O
 now	O
-Coldplay	B-university
-Kings of Leon	I-university
+U2	B-university
+Linkin Park	I-university
 )	O
 .	O
-Ed Sheeran	B-scientist
-Adele	I-scientist
+
+Red Hot Chili Peppers	B-scientist
+Post Malone	I-scientist
 (	O
-Ed Sheeran	B-scientist
-Kanye West	I-scientist
-Travis Scott	B-scientist
-Red Hot Chili Peppers	I-scientist
+Khalid	B-scientist
+Taylor Swift	I-scientist
+Lady Gaga	B-scientist
+Rihanna	I-scientist
 ,	O
 born	O
 August	O
@@ -2439,18 +2508,19 @@ Professor	O
 Emeritus	O
 at	O
 the	O
-Panic! At The Disco	B-university
-Fall Out Boy	I-university
-Fall Out Boy	I-university
+Kings of Leon	B-university
+Muse	I-university
+Led Zeppelin	I-university
 and	O
-Led Zeppelin	B-university
-Pearl Jam	I-university
+One Direction	B-university
+Kings of Leon	I-university
 .	O
+
 The	O
 Scottish	B-misc
 chemist	O
-Ed Sheeran	B-scientist
-U2	I-scientist
+Taylor Swift	B-scientist
+Jay-Z	I-scientist
 (	O
 the	O
 first	O
@@ -2460,12 +2530,12 @@ chemist	O
 and	O
 the	O
 Dutchman	B-misc
-John Mayer	B-scientist
-Katy Perry	I-scientist
-Taylor Swift	I-scientist
+Metallica	B-scientist
+Coldplay	I-scientist
+John Mayer	I-scientist
 discovered	O
-Indie rock	B-chemicalcompound
-Alternative rock	I-chemicalcompound
+Folk	B-chemicalcompound
+Electronic	I-chemicalcompound
 ,	O
 or	O
 what	O
@@ -2478,28 +2548,29 @@ air	O
 in	O
 1754	O
 ;	O
-Adele	B-scientist
-Eminem	I-scientist
+Bruno Mars	B-scientist
+Beyoncé	I-scientist
 discovered	O
-Ambient	B-chemicalcompound
+Soul	B-chemicalcompound
 and	O
 elucidated	O
 its	O
 properties	O
 and	O
-Adele	B-scientist
-The Weeknd	I-scientist
+Billie Eilish	B-scientist
+Kanye West	I-scientist
 and	O
 ,	O
 independently	O
 ,	O
-Coldplay	B-scientist
-Metallica	I-scientist
-Jay-Z	I-scientist
+Katy Perry	B-scientist
+Post Malone	I-scientist
+Beyoncé	I-scientist
 isolated	O
 pure	O
-Alternative rock	B-chemicalcompound
+Ska	B-chemicalcompound
 .	O
+
 Poly	B-misc
 (	I-misc
 ADP-ribosyl	I-misc
@@ -2513,10 +2584,10 @@ damage-dependent	I-misc
 post-translational	I-misc
 modification	I-misc
 of	O
-Stairway to Heaven	B-protein
+I Want to Hold Your Hand	B-protein
 and	O
 other	O
-Bohemian Rhapsody	B-protein
+Hotel California	B-protein
 Livin' on a Prayer	I-protein
 that	O
 contributes	O
@@ -2528,6 +2599,7 @@ injured	O
 proliferating	O
 cells	O
 .	O
+
 During	O
 her	O
 time	O
@@ -2539,7 +2611,7 @@ Cancer	I-organisation
 Research	I-organisation
 Center	I-organisation
 ,	O
-Post Malone	B-scientist
+Ed Sheeran	B-scientist
 published	O
 or	O
 co-published	O
@@ -2550,36 +2622,37 @@ in	O
 peer-reviewed	O
 journals	O
 like	O
-What's Going On	B-academicjournal
-(	O
-journal	O
-)	O
-,	O
-The Dark Side of the Moon	B-academicjournal
+Jagged Little Pill	B-academicjournal
 (	O
 journal	O
 )	O
 ,	O
 The Wall	B-academicjournal
+(	O
+journal	O
+)	O
+,	O
+21	B-academicjournal
+Purple Rain	I-academicjournal
 Appetite for Destruction	I-academicjournal
-21	I-academicjournal
-Back in Black	I-academicjournal
-Rumours	I-academicjournal
-Jagged Little Pill	I-academicjournal
-Rumours	I-academicjournal
-Rumours	I-academicjournal
-Nevermind	I-academicjournal
-Graceland	I-academicjournal
-21	I-academicjournal
-Rumours	I-academicjournal
-What's Going On	I-academicjournal
-and	O
-the	O
-Automatic for the People	B-academicjournal
 Back in Black	I-academicjournal
 Thriller	I-academicjournal
-The Joshua Tree	I-academicjournal
+Blonde on Blonde	I-academicjournal
+Back in Black	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
+The Dark Side of the Moon	I-academicjournal
+Rumours	I-academicjournal
+21	I-academicjournal
+The Wall	I-academicjournal
+The Dark Side of the Moon	I-academicjournal
+and	O
+the	O
+Rumours	B-academicjournal
+21	I-academicjournal
+Rumours	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
 .	O
+
 Between	O
 1855	O
 and	O
@@ -2593,28 +2666,28 @@ the	O
 first	O
 for	O
 the	O
-meridian	B-location
-of	I-location
-Greenwich	I-location
+Red Rocks Amphitheatre	B-location
+The Fillmore	I-location
+Glastonbury Festival	I-location
 contained	O
 data	O
 on	O
 the	O
-Organ	B-astronomicalobject
+Tambourine	B-astronomicalobject
 ,	O
-Keyboard	B-astronomicalobject
+Accordion	B-astronomicalobject
 ,	O
 lunar	B-misc
 distances	I-misc
 ,	O
-Accordion	B-astronomicalobject
+Maracas	B-astronomicalobject
 ,	O
-Gong	B-astronomicalobject
+Bongos	B-astronomicalobject
 ,	O
-Harmonica	B-astronomicalobject
+Electric guitar	B-astronomicalobject
 ,	O
 and	O
-Harmonica	B-astronomicalobject
+Saxophone	B-astronomicalobject
 ,	O
 which	O
 was	O
@@ -2626,8 +2699,9 @@ American	B-misc
 Nautical	B-misc
 Almanac	I-misc
 .	O
-I Want to Hold Your Hand	B-enzyme
-Yesterday	I-enzyme
+
+Hey Jude	B-enzyme
+Livin' on a Prayer	I-enzyme
 is	O
 recruited	O
 to	O
@@ -2641,10 +2715,11 @@ during	O
 DNA	B-misc
 repair	I-misc
 .	O
+
 Primary	O
 structure	O
 of	O
-Sweet Child o' Mine	B-protein
+Don't Stop Believin'	B-protein
 consists	O
 of	O
 a	O
@@ -2677,7 +2752,8 @@ among	O
 there	O
 isoforms	O
 .	O
-Cardi B	B-scientist
+
+Nicki Minaj	B-scientist
 received	O
 the	O
 Gold	B-award
@@ -2714,7 +2790,8 @@ Gold	I-award
 in	O
 1962	O
 .	O
-Adele	B-scientist
+
+Khalid	B-scientist
 is	O
 recognized	O
 for	O
@@ -2731,11 +2808,11 @@ his	O
 discoveries	O
 of	O
 the	O
-Blinding Lights	B-protein
+Wonderwall	B-protein
 /	O
-Smells Like Teen Spirit	B-protein
+My Heart Will Go On	B-protein
 (	O
-Imagine	B-protein
+Don't Stop Believin'	B-protein
 )	O
 gene	O
 family	O
@@ -2752,11 +2829,12 @@ and	O
 for	O
 proving	O
 the	O
-Grunge	B-theory
-Reggae	I-theory
-Heavy metal	I-theory
-Gospel	I-theory
+Jazz	B-theory
+Dancehall	I-theory
+R&B	I-theory
+Classical	I-theory
 .	O
+
 It	O
 was	O
 discovered	O
@@ -2771,25 +2849,26 @@ March	O
 1971	O
 ,	O
 by	O
-Nicki Minaj	B-scientist
-Jay-Z	I-scientist
-Drake	I-scientist
+Bruno Mars	B-scientist
+Beyoncé	I-scientist
+Nicki Minaj	I-scientist
 and	O
-Cardi B	B-scientist
-Drake	I-scientist
-Lady Gaga	I-scientist
+Adele	B-scientist
+Ed Sheeran	I-scientist
+Kanye West	I-scientist
 at	O
-Leiden	B-location
+The Whisky a Go Go	B-location
 ,	O
 and	O
-Dua Lipa	B-scientist
-Eminem	I-scientist
+Jay-Z	B-scientist
+Red Hot Chili Peppers	I-scientist
 at	O
-Palomar	B-location
-Observatory	I-location
+The Bowery Ballroom	B-location
+The O2	I-location
 in	O
-California	B-location
+The Ryman Auditorium	B-location
 .	O
+
 From	O
 1916	O
 to	O
@@ -2809,13 +2888,14 @@ Rajabazar	I-organisation
 Science	I-organisation
 College	I-organisation
 under	O
-Red Hot Chili Peppers	B-university
-	I-university
-Foo Fighters	I-university
+Foo Fighters	B-university
+Pink Floyd	I-university
+Pearl Jam	I-university
 .	O
+
 Previously	O
 ,	O
-Rock	B-chemicalelement
+Country	B-chemicalelement
 was	O
 named	O
 after	O
@@ -2824,24 +2904,24 @@ continent	O
 as	O
 its	O
 analogue	O
-R&B	B-chemicalelement
+Gospel	B-chemicalelement
 ,	O
 and	O
-Indie rock	B-chemicalelement
+Folk	B-chemicalelement
 honored	O
 scientists	O
-Kanye West	B-scientist
-Khalid	I-scientist
+Bruno Mars	B-scientist
+Adele	I-scientist
 and	O
-The Weeknd	B-scientist
-Eminem	I-scientist
+Coldplay	B-scientist
+U2	I-scientist
 as	O
 the	O
 lanthanide	O
 above	O
 it	O
 ,	O
-Jazz	B-chemicalelement
+New age	B-chemicalelement
 ,	O
 was	O
 named	O
@@ -2854,9 +2934,10 @@ rare	O
 earth	O
 element	O
 s	O
-Red Hot Chili Peppers	B-scientist
-Taylor Swift	I-scientist
+Shawn Mendes	B-scientist
+Post Malone	I-scientist
 .	O
+
 They	O
 found	O
 seven	O
@@ -2866,27 +2947,27 @@ pathways	O
 :	O
 glycolysis	O
 ,	O
-Ska	B-chemicalcompound
+Blues	B-chemicalcompound
 biosynthesis	O
 ,	O
-Yesterday	B-enzyme
-Hey Jude	I-enzyme
+Don't Stop Believin'	B-enzyme
+Bohemian Rhapsody	I-enzyme
 ,	O
-Livin' on a Prayer	B-enzyme
-Imagine	I-enzyme
+Thriller	B-enzyme
+Stairway to Heaven	I-enzyme
 ,	O
-Country	B-chemicalcompound
+Classical	B-chemicalcompound
 degradation	O
 ,	O
-Electronic	B-chemicalcompound
-Reggae	I-chemicalcompound
+Hip-hop	B-chemicalcompound
+R&B	I-chemicalcompound
 metabolism	O
 ,	O
 and	O
 photosynthesis	B-misc
 (	O
-Reggae	B-chemicalcompound
-K-pop	I-chemicalcompound
+R&B	B-chemicalcompound
+Jazz	I-chemicalcompound
 synthesis	O
 in	O
 non	O
@@ -2894,11 +2975,12 @@ plant	O
 species	O
 )	O
 .	O
+
 The	O
-K-pop	B-theory
-R&B	I-theory
-R&B	I-theory
-Grunge	I-theory
+Indie rock	B-theory
+Classical	I-theory
+Ska	I-theory
+Funk	I-theory
 of	O
 the	O
 Solar	B-misc
@@ -2910,22 +2992,23 @@ by	O
 the	O
 observations	O
 of	O
-Travis Scott	B-scientist
-Jay-Z	I-scientist
+Ed Sheeran	B-scientist
+Red Hot Chili Peppers	I-scientist
 and	O
-U2	B-scientist
-Khalid	I-scientist
+Adele	B-scientist
+Post Malone	I-scientist
 and	O
 the	O
 mathematical	O
 investigations	O
 of	O
-Travis Scott	B-scientist
-Ariana Grande	I-scientist
+U2	B-scientist
+Khalid	I-scientist
 and	O
-Red Hot Chili Peppers	B-scientist
-Ed Sheeran	I-scientist
+Post Malone	B-scientist
+Kanye West	I-scientist
 .	O
+
 Other	O
 silencing	B-misc
 mechanisms	I-misc
@@ -2951,9 +3034,10 @@ transcription	B-misc
 factor	I-misc
 s	O
 and	O
-Purple Rain	B-enzyme
-Boys Don't Cry	I-enzyme
+Livin' on a Prayer	B-enzyme
+Hotel California	I-enzyme
 .	O
+
 He	O
 received	O
 his	O
@@ -2966,19 +3050,20 @@ postdoctoral	O
 work	O
 at	O
 the	O
-The Rolling Stones	B-university
-	I-university
-Metallica	I-university
+The Who	B-university
+Queen	I-university
+AC/DC	I-university
 ,	O
-Nirvana	B-university
-Muse	I-university
+Coldplay	B-university
+U2	I-university
 ,	O
 and	O
 the	O
-Aerosmith	B-university
-Pearl Jam	I-university
+The Rolling Stones	B-university
 	I-university
+Green Day	I-university
 .	O
+
 For	O
 example	O
 ,	O
@@ -2999,15 +3084,16 @@ general	O
 acetylation	B-misc
 across	O
 Livin' on a Prayer	B-protein
-Sweet Child o' Mine	I-protein
+My Heart Will Go On	I-protein
 and	O
-Livin' on a Prayer	B-protein
-Stairway to Heaven	I-protein
+Hey Jude	B-protein
+I Want to Hold Your Hand	I-protein
 .	O
-Bohemian Rhapsody	B-enzyme
-Sweet Child o' Mine	I-enzyme
+
+Sweet Child o' Mine	B-enzyme
+My Heart Will Go On	I-enzyme
 (	O
-Livin' on a Prayer	B-enzyme
+Thriller	B-enzyme
 )	O
 are	O
 a	O
@@ -3016,11 +3102,12 @@ of	O
 enzymes	O
 that	O
 remove	O
-Alternative rock	B-chemicalcompound
-Classical crossover	I-chemicalcompound
+Hip-hop	B-chemicalcompound
+Folk	I-chemicalcompound
 from	O
-Don't Stop Believin'	B-protein
+My Heart Will Go On	B-protein
 .	O
+
 It	O
 is	O
 bounded	O
@@ -3029,28 +3116,29 @@ the	O
 north	O
 by	O
 the	O
-A30	B-location
-road	I-location
+The O2	B-location
+The Apollo Theater	I-location
 and	O
 runs	O
 from	O
-Retew	B-location
+The Fillmore	B-location
 and	O
-Treviscoe	B-location
+Barclays Center	B-location
 in	O
 the	O
 west	O
 to	O
-Redmoor	B-location
+Wembley Stadium	B-location
 and	O
-Penpillick	B-location
+The Ryman Auditorium	B-location
 in	O
 the	O
 east	O
 .	O
+
 This	O
 increased	O
-Boys Don't Cry	B-protein
+Every Breath You Take	B-protein
 expression	O
 ,	O
 they	O
@@ -3064,28 +3152,29 @@ sup	O
 cells	O
 to	O
 re-uptake	O
-Heavy metal	B-chemicalcompound
-Alternative rock	I-chemicalcompound
+Blues	B-chemicalcompound
+Blues	I-chemicalcompound
 ,	O
-Folk	B-chemicalcompound
-Hip-hop	I-chemicalcompound
+Pop	B-chemicalcompound
+New age	I-chemicalcompound
 ,	O
 and	O
-Experimental	B-chemicalcompound
-Reggaeton	I-chemicalcompound
+World music	B-chemicalcompound
+Heavy metal	I-chemicalcompound
 released	O
 into	O
 the	O
 medium	O
 by	O
 the	O
-Blinding Lights	B-protein
+Every Breath You Take	B-protein
 transporter	O
 during	O
 import	O
 of	O
-Grunge	B-chemicalcompound
+Pop	B-chemicalcompound
 .	O
+
 The	O
 observatory	O
 made	O
@@ -3116,13 +3205,13 @@ as	O
 the	O
 giant	O
 planet	O
-Congas	B-astronomicalobject
+Maracas	B-astronomicalobject
 and	O
 possibly	O
 so	O
 close	O
 to	O
-Guitar	B-astronomicalobject
+Ukulele	B-astronomicalobject
 that	O
 it	O
 would	O
@@ -3133,6 +3222,7 @@ this	O
 solar	B-misc
 system	I-misc
 .	O
+
 This	O
 discovery	O
 ,	O
@@ -3159,7 +3249,7 @@ a	O
 rotating	O
 plate	O
 of	O
-World music	B-chemicalelement
+Classical	B-chemicalelement
 tends	O
 to	O
 communicate	O
@@ -3179,18 +3269,19 @@ called	O
 magnetism	B-misc
 of	I-misc
 rotation	I-misc
-Ten	B-academicjournal
-Rumours	I-academicjournal
-The Dark Side of the Moon	I-academicjournal
-Appetite for Destruction	I-academicjournal
-Nevermind	I-academicjournal
-The Joshua Tree	I-academicjournal
+A Night at the Opera	B-academicjournal
+Automatic for the People	I-academicjournal
+Jagged Little Pill	I-academicjournal
+The Wall	I-academicjournal
+Purple Rain	I-academicjournal
+Blonde on Blonde	I-academicjournal
 (	O
 1824	O
 )	O
 ,	O
 vol	O
 .	O
+
 In	O
 the	O
 early	O
@@ -3208,22 +3299,23 @@ microRNA	B-misc
 processing	O
 independent	O
 of	O
-My Heart Will Go On	B-enzyme
+Every Breath You Take	B-enzyme
 that	O
 requires	O
 the	O
 catalytic	O
 activity	O
 of	O
-Stairway to Heaven	B-protein
-Billie Jean	I-protein
+Hotel California	B-protein
+My Heart Will Go On	I-protein
 ,	O
 a	O
 type	O
 of	O
-I Will Always Love You	B-protein
+Wonderwall	B-protein
 protein	O
 .	O
+
 He	O
 was	O
 awarded	O
@@ -3247,13 +3339,14 @@ with	O
 the	O
 assistance	O
 of	O
-Kanye West	B-scientist
-U2	I-scientist
+Eminem	B-scientist
+Adele	I-scientist
 ,	O
 appeared	O
 in	O
 1854	O
 .	O
+
 The	B-event
 men	I-event
 's	I-event
@@ -3268,13 +3361,14 @@ the	O
 European	I-event
 Games	I-event
 in	O
-Baku	B-location
+The O2	B-location
 took	O
 place	O
 on	O
 27	O
 June	O
 .	O
+
 One	O
 of	O
 the	O
@@ -3282,13 +3376,13 @@ first	O
 significant	O
 contributions	O
 of	O
-Ed Sheeran	B-scientist
+Shawn Mendes	B-scientist
 was	O
 the	O
 discovery	O
 of	O
-I Want to Hold Your Hand	B-enzyme
-Boys Don't Cry	I-enzyme
+Hey Jude	B-enzyme
+Hey Jude	I-enzyme
 activity	O
 in	O
 chloroplasts	B-misc
@@ -3300,16 +3394,16 @@ his	O
 early	O
 stint	O
 at	O
-AC/DC	B-university
-U2	I-university
+Queen	B-university
 Pink Floyd	I-university
-Pink Floyd	I-university
+Queen	I-university
+Aerosmith	I-university
 while	O
 working	O
 with	O
-Ariana Grande	B-scientist
-Eminem	I-scientist
-Ariana Grande	I-scientist
+Foo Fighters	B-scientist
+Beyoncé	I-scientist
+Kanye West	I-scientist
 and	O
 their	O
 researches	O
@@ -3321,6 +3415,7 @@ DNA	B-misc
 in	O
 organelle	B-misc
 .	O
+
 In	O
 the	O
 2002	O
@@ -3378,6 +3473,7 @@ as	O
 Mona	B-person
 )	O
 .	O
+
 It	O
 contains	O
 abundant	O
@@ -3405,9 +3501,9 @@ travel	O
 to	O
 the	O
 planets	O
-Tambourine	B-astronomicalobject
+Bass guitar	B-astronomicalobject
 and	O
-Saxophone	B-astronomicalobject
+Piano	B-astronomicalobject
 ,	O
 and	O
 terraforming	O
@@ -3421,7 +3517,7 @@ Ocean	I-misc
 and	O
 adjusting	O
 the	O
-Piano	B-astronomicalobject
+Accordion	B-astronomicalobject
 's	O
 (	O
 Terra	O
@@ -3437,16 +3533,17 @@ Straightening	O
 Company	O
 )	O
 .	O
+
 Minimum	O
 distances	O
 from	O
 the	O
-Piano	B-astronomicalobject
+Cello	B-astronomicalobject
 ,	O
-Djembe	B-astronomicalobject
+Flute	B-astronomicalobject
 ,	O
 and	O
-Xylophone	B-astronomicalobject
+Cello	B-astronomicalobject
 ,	O
 are	O
 0.5	O
@@ -3459,6 +3556,7 @@ AU	O
 ,	O
 respectively	O
 .	O
+
 He	O
 visited	O
 some	O
@@ -3471,17 +3569,18 @@ including	O
 Cavendish	B-organisation
 Laboratory	I-organisation
 ,	O
-Nirvana	B-university
-Fall Out Boy	I-university
-Imagine Dragons	I-university
-	I-university
-Pink Floyd	I-university
+Queen	B-university
+Metallica	I-university
+Led Zeppelin	I-university
+Foo Fighters	I-university
+The Beatles	I-university
 ,	O
 and	O
-AC/DC	B-university
-The Beatles	I-university
-Aerosmith	I-university
+The Who	B-university
+	I-university
+	I-university
 .	O
+
 One	O
 of	O
 these	O
@@ -3544,6 +3643,7 @@ a	O
 Dramatic	O
 Series	O
 .	O
+
 The	O
 Fall	B-event
 of	I-event
@@ -3558,19 +3658,19 @@ offer	O
 his	O
 services	O
 to	O
-The Weeknd	B-scientist
-Travis Scott	I-scientist
+Jay-Z	B-scientist
+Coldplay	I-scientist
 ,	O
 the	O
 Professor	O
 of	O
-New age	B-discipline
-Dancehall	I-discipline
+Electronic	B-discipline
+Blues	I-discipline
 at	O
 the	O
-Led Zeppelin	B-university
-Foo Fighters	I-university
-Red Hot Chili Peppers	I-university
+U2	B-university
+Kings of Leon	I-university
+Linkin Park	I-university
 ,	O
 and	O
 the	O
@@ -3595,6 +3695,7 @@ for	O
 developing	O
 radar	O
 .	O
+
 After	O
 that	O
 ,	O
@@ -3607,15 +3708,16 @@ complexes	O
 together	O
 with	O
 their	O
-Smells Like Teen Spirit	B-protein
-Boys Don't Cry	I-protein
-Boys Don't Cry	I-protein
+Boys Don't Cry	B-protein
+Hey Jude	I-protein
+I Will Always Love You	I-protein
 molecules	O
 on	O
 their	O
 cell	O
 surface	O
 .	O
+
 She	O
 represented	O
 her	O
@@ -3632,6 +3734,7 @@ reaching	O
 the	O
 semifinals	O
 .	O
+
 He	O
 was	O
 awarded	O
@@ -3639,11 +3742,11 @@ honorary	O
 degree	O
 from	O
 the	O
-The Rolling Stones	B-university
-One Direction	I-university
-Arctic Monkeys	I-university
+Imagine Dragons	B-university
+Metallica	I-university
+	I-university
 in	O
-Cambridge	B-location
+Royal Albert Hall	B-location
 ,	O
 UK	B-country
 ,	O
@@ -3658,29 +3761,31 @@ Society	I-organisation
 in	O
 1906	O
 .	O
+
 The	O
-Big	B-location
-Bend	I-location
-Country	I-location
+Troubadour	B-location
+Staples Center	I-location
+Royal Albert Hall	I-location
 is	O
 part	O
 of	O
 the	O
 larger	O
-Columbia	B-location
-Country	I-location
+Barclays Center	B-location
+Barclays Center	I-location
 ,	O
 which	O
 includes	O
 the	O
-Columbia	B-location
-Valley	I-location
+Madison Square Garden	B-location
+Glastonbury Festival	I-location
 and	O
 upper	O
-Arrow	B-location
-Lakes	I-location
+The Apollo Theater	B-location
+The Apollo Theater	I-location
 .	O
-Nicki Minaj	B-scientist
+
+Billie Eilish	B-scientist
 noted	O
 that	O
 under	O
@@ -3742,6 +3847,7 @@ white	O
 light	O
 conditions	O
 .	O
+
 It	O
 will	O
 use	O
@@ -3750,19 +3856,20 @@ gravity	O
 assist	O
 technique	O
 with	O
-Gong	B-astronomicalobject
+Xylophone	B-astronomicalobject
 once	O
 ,	O
 with	O
-Tambourine	B-astronomicalobject
+Bongos	B-astronomicalobject
 twice	O
 ,	O
 and	O
 six	O
 times	O
 with	O
-Organ	B-astronomicalobject
+Clarinet	B-astronomicalobject
 .	O
+
 Other	O
 toxins	O
 with	O
@@ -3772,14 +3879,15 @@ mode	O
 of	O
 action	O
 to	O
-Gospel	B-chemicalcompound
+Latin music	B-chemicalcompound
 are	O
-Every Breath You Take	B-protein
-Smells Like Teen Spirit	I-protein
+Imagine	B-protein
+Hey Jude	I-protein
 .	O
-	B-university
-	I-university
-Maroon 5	I-university
+
+Fall Out Boy	B-university
+Aerosmith	I-university
+U2	I-university
 is	O
 a	O
 City	O
@@ -3791,8 +3899,9 @@ college	I-organisation
 located	O
 in	O
 the	O
-Loop	B-location
+Royal Albert Hall	B-location
 .	O
+
 This	O
 is	O
 because	O
@@ -3828,13 +3937,14 @@ dynamics	O
 of	O
 at	O
 least	O
-Keyboard	B-astronomicalobject
+Piano	B-astronomicalobject
 ,	O
-Triangle	B-astronomicalobject
+Flute	B-astronomicalobject
 ,	O
 and	O
 Bass guitar	B-astronomicalobject
 .	O
+
 The	B-misc
 Patriot	I-misc
 was	O
@@ -3877,6 +3987,7 @@ Best	I-award
 Original	I-award
 Score	I-award
 .	O
+
 She	O
 is	O
 one	O
@@ -3922,6 +4033,7 @@ Year	O
 1978	O
 )	O
 .	O
+
 This	O
 minor	B-misc
 planet	I-misc
@@ -3935,14 +4047,14 @@ memory	O
 of	O
 English	B-misc
 astronomers	O
-Bruno Mars	B-scientist
-Shawn Mendes	I-scientist
+Adele	B-scientist
+Ariana Grande	I-scientist
 (	O
 1728-1786	O
 )	O
 and	O
-Bruno Mars	B-scientist
-Nicki Minaj	I-scientist
+Kanye West	B-scientist
+Kanye West	I-scientist
 (	O
 1733-1779	O
 )	O
@@ -3956,31 +4068,32 @@ of	I-event
 Venus	I-event
 from	O
 the	O
-Cape	B-location
-of	I-location
-Good	I-location
-Hope	I-location
+Royal Albert Hall	B-location
+The Apollo Theater	I-location
+The Forum	I-location
+Madison Square Garden	I-location
 .	O
+
 Among	O
 those	O
 in	O
 attendance	O
 were	O
-Beyoncé	B-scientist
-Kanye West	I-scientist
+Ed Sheeran	B-scientist
+Taylor Swift	I-scientist
 ,	O
-Foo Fighters	B-scientist
-The Weeknd	I-scientist
-,	O
-Cardi B	B-scientist
-Shawn Mendes	I-scientist
-,	O
-Justin Bieber	B-scientist
-Dua Lipa	I-scientist
+Lady Gaga	B-scientist
 Ariana Grande	I-scientist
-Ed Sheeran	I-scientist
 ,	O
-Eminem	B-scientist
+Rihanna	B-scientist
+Cardi B	I-scientist
+,	O
+Travis Scott	B-scientist
+Beyoncé	I-scientist
+Adele	I-scientist
+Coldplay	I-scientist
+,	O
+Red Hot Chili Peppers	B-scientist
 ,	O
 as	O
 well	O
@@ -3993,9 +4106,10 @@ deutsche	B-event
 Physik	I-event
 movement	I-event
 .	O
-Guitar	B-astronomicalobject
+
+Harp	B-astronomicalobject
 and	O
-Ukulele	B-astronomicalobject
+Bagpipes	B-astronomicalobject
 have	O
 already	O
 been	O
@@ -4003,7 +4117,8 @@ observed	O
 by	O
 Spitzer	B-misc
 .	O
-Stockport	B-location
+
+The Forum	B-location
 played	O
 for	O
 eight	O
@@ -4025,8 +4140,8 @@ two	O
 seasons	O
 played	O
 at	O
-Edgeley	B-location
-Park	I-location
+Madison Square Garden	B-location
+The Fillmore	I-location
 ,	O
 the	O
 club	O
@@ -4084,14 +4199,15 @@ Rugby	I-organisation
 Football	I-organisation
 Union	I-organisation
 .	O
+
 The	O
 gaseous	O
 outer	O
 atmospheres	O
 of	O
-Maracas	B-astronomicalobject
+Violin	B-astronomicalobject
 and	O
-Mandolin	B-astronomicalobject
+Bagpipes	B-astronomicalobject
 transition	O
 smoothly	O
 into	O
@@ -4108,27 +4224,29 @@ the	O
 transition	O
 zones	O
 of	O
-Bagpipes	B-astronomicalobject
+Flute	B-astronomicalobject
 and	O
-Congas	B-astronomicalobject
+Banjo	B-astronomicalobject
 is	O
 unknown	O
 .	O
+
 The	O
 outer	O
 gas	B-misc
 giant	I-misc
 planets	O
 are	O
-Harp	B-astronomicalobject
+Synthesizer	B-astronomicalobject
 ,	O
-Tambourine	B-astronomicalobject
+Organ	B-astronomicalobject
 ,	O
-Harp	B-astronomicalobject
+Maracas	B-astronomicalobject
 ,	O
 and	O
-Synthesizer	B-astronomicalobject
+Xylophone	B-astronomicalobject
 .	O
+
 In	O
 1970	O
 ,	O
@@ -4141,12 +4259,12 @@ Gross	I-award
 Horwitz	I-award
 Prize	I-award
 from	O
-Kings of Leon	B-university
-The Beatles	I-university
+The Beatles	B-university
+Panic! At The Disco	I-university
 together	O
 with	O
-Harry Styles	B-scientist
-Adele	I-scientist
+Travis Scott	B-scientist
+Ariana Grande	I-scientist
 winner	O
 of	O
 1975	O
@@ -4174,8 +4292,8 @@ the	O
 development	O
 of	O
 modern	O
-Punk	B-discipline
-Ska	I-discipline
+Alternative rock	B-discipline
+Reggaeton	I-discipline
 ,	O
 In	O
 1988	O
@@ -4198,6 +4316,7 @@ Sciences	I-organisation
 ARA	B-organisation
 )	O
 .	O
+
 Al-Farabi	B-person
 's	O
 school	B-organisation
@@ -4206,7 +4325,7 @@ philosophy	I-organisation
 breaks	O
 with	O
 the	O
-Heavy metal	B-discipline
+New age	B-discipline
 of	O
 Plato	B-person
 and	O
@@ -4216,9 +4335,9 @@ and	O
 ...	O
 moves	O
 from	O
-World music	B-theory
+Funk	B-theory
 to	O
-Pop	B-theory
+Ska	B-theory
 ,	O
 a	O
 move	O
@@ -4231,7 +4350,7 @@ at	O
 the	O
 level	O
 of	O
-Punk	B-discipline
+Grunge	B-discipline
 ,	O
 Alfarabi	B-person
 unites	O
@@ -4245,13 +4364,14 @@ the	O
 sphere	O
 of	O
 the	O
-Classical	B-discipline
+Pop	B-discipline
 he	O
 liberates	O
 practice	O
 from	O
 theory	O
 .	O
+
 The	O
 American	B-organisation
 Breeders	I-organisation
@@ -4272,15 +4392,15 @@ genetics	O
 that	O
 arose	O
 from	O
-Coldplay	B-scientist
-Foo Fighters	I-scientist
+Eminem	B-scientist
+U2	I-scientist
 s	O
-Dancehall	B-theory
-World music	I-theory
-Hip-hop	I-theory
+Reggae	B-theory
+New age	I-theory
+Pop	I-theory
 and	O
 Ed Sheeran	B-scientist
-Kanye West	I-scientist
+Coldplay	I-scientist
 s	O
 discoveries	O
 of	O
@@ -4289,7 +4409,8 @@ laws	O
 of	O
 inheritance	O
 .	O
-Harmonica	B-astronomicalobject
+
+Keyboard	B-astronomicalobject
 was	O
 not	O
 named	O
@@ -4297,30 +4418,30 @@ until	O
 1847	O
 ,	O
 when	O
-Metallica	B-scientist
-Jay-Z	I-scientist
+Ed Sheeran	B-scientist
+Red Hot Chili Peppers	I-scientist
 (	O
 son	O
 of	O
-Nicki Minaj	B-scientist
-Katy Perry	I-scientist
+Kanye West	B-scientist
+Bruno Mars	I-scientist
 ,	O
 discoverer	O
 of	O
 the	O
 planet	O
-Ukulele	B-astronomicalobject
+Harmonica	B-astronomicalobject
 ,	O
 and	O
 two	O
 other	O
 moons	O
 of	O
-Maracas	B-astronomicalobject
+Organ	B-astronomicalobject
 ,	O
-Cello	B-astronomicalobject
+Ukulele	B-astronomicalobject
 and	O
-Vibraphone	B-astronomicalobject
+Piano	B-astronomicalobject
 )	O
 suggested	O
 in	O
@@ -4331,24 +4452,24 @@ Observations	O
 made	O
 at	O
 the	O
-Cape	B-location
-of	I-location
-Good	I-location
-Hope	I-location
+Staples Center	B-location
+Hollywood Bowl	I-location
+Glastonbury Festival	I-location
+The Forum	I-location
 that	O
 the	O
 names	O
 of	O
 the	O
-Guitar	B-astronomicalobject
+Organ	B-astronomicalobject
 ,	O
 sisters	O
 and	O
 brothers	O
 of	O
-Accordion	B-astronomicalobject
+Bongos	B-astronomicalobject
 (	O
-Tambourine	B-astronomicalobject
+Synthesizer	B-astronomicalobject
 ,	O
 in	O
 Roman	B-misc
@@ -4358,7 +4479,8 @@ mythology	O
 be	O
 used	O
 .	O
-The Joshua Tree	B-academicjournal
+
+Graceland	B-academicjournal
 is	O
 a	O
 sister	O
@@ -4373,20 +4495,21 @@ by	O
 Wiley-VCH	B-organisation
 ,	O
 including	O
+Back in Black	B-academicjournal
+The Dark Side of the Moon	I-academicjournal
+,	O
+Graceland	B-academicjournal
+,	O
+Nevermind	B-academicjournal
+,	O
+Automatic for the People	B-academicjournal
+,	O
 The Wall	B-academicjournal
-Jagged Little Pill	I-academicjournal
-,	O
-OK Computer	B-academicjournal
-,	O
-Rumours	B-academicjournal
-,	O
-Sgt. Pepper's Lonely Hearts Club Band	B-academicjournal
-,	O
-Jagged Little Pill	B-academicjournal
 ,	O
 and	O
-Appetite for Destruction	B-academicjournal
+Back in Black	B-academicjournal
 .	O
+
 In	O
 the	O
 Early	B-misc
@@ -4396,13 +4519,13 @@ period	I-misc
 scientists	O
 such	O
 as	O
-Ed Sheeran	B-scientist
-Metallica	I-scientist
+Eminem	B-scientist
+Taylor Swift	I-scientist
 in	O
 England	B-country
 and	O
-Taylor Swift	B-scientist
-Taylor Swift	I-scientist
+Coldplay	B-scientist
+Ed Sheeran	I-scientist
 in	O
 Italy	B-country
 reacted	O
@@ -4431,8 +4554,9 @@ observation	O
 and	O
 experiment	O
 .	O
-I Will Always Love You	B-enzyme
-Don't Stop Believin'	I-enzyme
+
+Yesterday	B-enzyme
+I Want to Hold Your Hand	I-enzyme
 are	O
 proteins	O
 that	O
@@ -4447,8 +4571,9 @@ epigenetic	O
 mark	O
 known	O
 as	O
-Sweet Child o' Mine	B-protein
+Don't Stop Believin'	B-protein
 .	O
+
 He	O
 then	O
 began	O
@@ -4466,16 +4591,17 @@ a	O
 graduate	O
 degree	O
 in	O
-Alternative rock	B-discipline
-Reggaeton	I-discipline
+R&B	B-discipline
+Country	I-discipline
 from	O
 the	O
-Nirvana	B-university
-	I-university
-Maroon 5	I-university
+U2	B-university
+Fall Out Boy	I-university
+Kings of Leon	I-university
 .	O
-Banjo	B-astronomicalobject
-Saxophone	I-astronomicalobject
+
+Trumpet	B-astronomicalobject
+Bass guitar	I-astronomicalobject
 in	O
 diameter	O
 ,	O
@@ -4485,32 +4611,34 @@ the	O
 orbit	O
 of	O
 both	O
-Harp	B-astronomicalobject
+Clarinet	B-astronomicalobject
 and	O
-Violin	B-astronomicalobject
+Electric guitar	B-astronomicalobject
 .	O
+
 Prominent	O
 anatomists	O
 and	O
 geologists	O
 such	O
 as	O
-U2	B-scientist
-Shawn Mendes	I-scientist
+Rihanna	B-scientist
+Post Malone	I-scientist
 ,	O
-Nicki Minaj	B-scientist
-Nicki Minaj	I-scientist
-,	O
-Justin Bieber	B-scientist
+Harry Styles	B-scientist
 Katy Perry	I-scientist
 ,	O
+Cardi B	B-scientist
+U2	I-scientist
+,	O
 and	O
-Drake	B-scientist
-Nicki Minaj	I-scientist
+Travis Scott	B-scientist
+Post Malone	I-scientist
 attacked	O
 it	O
 vigorously	O
 .	O
+
 The	B-organisation
 U.S.	I-organisation
 Navy	I-organisation
@@ -4522,32 +4650,33 @@ on	O
 the	O
 bay	O
 :	O
-Naval	B-location
-Station	I-location
-San	I-location
-Diego	I-location
+Troubadour	B-location
+Royal Albert Hall	I-location
+Staples Center	I-location
+The Roxy	I-location
 ,	O
-Naval	B-location
-Base	I-location
-Point	I-location
-Loma	I-location
+The Bowery Ballroom	B-location
+The Bowery Ballroom	I-location
+Staples Center	I-location
+The Bowery Ballroom	I-location
 at	O
-Ballast	B-location
-Point	I-location
+The Whisky a Go Go	B-location
+Glastonbury Festival	I-location
 ,	O
 which	O
 is	O
 a	O
-Nuclear	B-location
-Submarine	I-location
-base	I-location
+Royal Albert Hall	B-location
+The Gorge Amphitheatre	I-location
+The Apollo Theater	I-location
 ,	O
 and	O
-Naval	B-location
-Amphibious	I-location
-Base	I-location
-Coronado	I-location
+Glastonbury Festival	B-location
+The Apollo Theater	I-location
+The O2	I-location
+The Bowery Ballroom	I-location
 .	O
+
 Comparisons	O
 were	O
 frequently	O
@@ -4571,16 +4700,16 @@ in	O
 1974	O
 clinicians	O
 from	O
-Metallica	B-university
+Aerosmith	B-university
 '	O
 s	O
-Radcliffe	B-location
-Infirmary	I-location
+Coachella Valley Music and Arts Festival	B-location
+Madison Square Garden	I-location
 led	O
 by	O
 Dr	O
-Metallica	B-scientist
-John Mayer	I-scientist
+Drake	B-scientist
+Foo Fighters	I-scientist
 floated	O
 plans	O
 to	O
@@ -4599,8 +4728,9 @@ with	O
 the	O
 accelerator	O
 .	O
-Ong	B-location
-Valley	I-location
+
+Barclays Center	B-location
+The House of Blues	I-location
 (	O
 )	O
 is	O
@@ -4620,13 +4750,14 @@ long	O
 just	O
 west	O
 of	O
-Kreiling	B-location
-Mesa	I-location
+Madison Square Garden	B-location
+Staples Center	I-location
 in	O
 the	O
-Miller	B-location
-Range	I-location
+Madison Square Garden	B-location
+The O2	I-location
 .	O
+
 Detergents	O
 are	O
 key	O
@@ -4650,38 +4781,40 @@ membrane	O
 lipid	B-misc
 bilayer	I-misc
 (	O
-Latin music	B-chemicalcompound
-,	O
-Pop	B-chemicalcompound
-Heavy metal	I-chemicalcompound
-,	O
 Electronic	B-chemicalcompound
 ,	O
-Classical	B-chemicalcompound
-Experimental	I-chemicalcompound
+Heavy metal	B-chemicalcompound
+Pop	I-chemicalcompound
 ,	O
-R&B	B-chemicalcompound
+Jazz	B-chemicalcompound
+,	O
+Grunge	B-chemicalcompound
+Reggae	I-chemicalcompound
+,	O
+Dancehall	B-chemicalcompound
 ,	O
 and	O
-Latin music	B-chemicalcompound
+Funk	B-chemicalcompound
 )	O
 ,	O
 and	O
 solubilize	O
 proteins	O
 .	O
+
 Such	O
 experiments	O
 were	O
 independently	O
 performed	O
 by	O
-Bruno Mars	B-scientist
-Lady Gaga	I-scientist
+Jay-Z	B-scientist
+Rihanna	I-scientist
 and	O
-Bruno Mars	B-scientist
-Jay-Z	I-scientist
+Justin Bieber	B-scientist
+Ariana Grande	I-scientist
 ,	O
+
 The	O
 WHO	B-organisation
 ,	O
@@ -4734,6 +4867,7 @@ children	O
 against	O
 mumps	B-misc
 .	O
+
 According	O
 to	O
 writer	O
@@ -4741,8 +4875,8 @@ Daniel	B-person
 Loxton	I-person
 and	O
 paleontologist	O
-U2	B-scientist
-Metallica	I-scientist
+Kanye West	B-scientist
+U2	I-scientist
 ,	O
 Cryptozoologists	O
 have	O
@@ -4750,11 +4884,12 @@ often	O
 promoted	O
 '	O
 Professor	O
-Dua Lipa	B-scientist
-Rihanna	I-scientist
+Travis Scott	B-scientist
+Cardi B	I-scientist
 ,	O
 PhD	O
 .	O
+
 A	O
 great	O
 conjunction	O
@@ -4764,10 +4899,11 @@ conjunction	O
 of	O
 the	O
 planets	O
-Flute	B-astronomicalobject
+Congas	B-astronomicalobject
 and	O
-Bongos	B-astronomicalobject
+Mandolin	B-astronomicalobject
 .	O
+
 Four	O
 COSMIC	B-misc
 mutational	O
@@ -4797,15 +4933,16 @@ Signature	O
 and	O
 26	O
 .	O
+
 The	O
 telescope	O
 is	O
 owned	O
 by	O
-Van Halen	B-university
-	I-university
-Metallica	I-university
-Led Zeppelin	I-university
+Guns N' Roses	B-university
+Pearl Jam	I-university
+Kings of Leon	I-university
+Red Hot Chili Peppers	I-university
 ,	O
 and	O
 operated	O
@@ -4825,25 +4962,26 @@ Technology	I-organisation
 Facilities	I-organisation
 Council	I-organisation
 .	O
-Grunge	B-chemicalcompound
+
+Reggaeton	B-chemicalcompound
 (	O
-Blues	B-chemicalcompound
+Country	B-chemicalcompound
 ,	O
 accessible	O
 after	O
 debromination	O
 from	O
-R&B	B-chemicalcompound
+Latin music	B-chemicalcompound
 using	O
 an	O
 equivalent	O
 of	O
-Gospel	B-chemicalcompound
+Country	B-chemicalcompound
 and	O
 Diels-Alder	B-misc
 reaction	I-misc
 in	O
-Classical	B-chemicalcompound
+Soul	B-chemicalcompound
 in	O
 70	O
 %	O
@@ -4855,22 +4993,22 @@ journal	O
 |	O
 author	O
 =	O
-Foo Fighters	B-scientist
-Harry Styles	I-scientist
+The Weeknd	B-scientist
+Adele	I-scientist
 ,	O
-Cardi B	B-scientist
+Adele	B-scientist
+Coldplay	I-scientist
+,	O
+Shawn Mendes	B-scientist
+Coldplay	I-scientist
+,	O
+Justin Bieber	B-scientist
 Billie Eilish	I-scientist
-,	O
-Rihanna	B-scientist
-Taylor Swift	I-scientist
-,	O
-Rihanna	B-scientist
-Khalid	I-scientist
-U2	I-scientist
+John Mayer	I-scientist
 |	O
 journal	O
 =	O
-Purple Rain	B-academicjournal
+OK Computer	B-academicjournal
 |	O
 title	O
 =	O
@@ -4900,6 +5038,7 @@ S0040-4020	O
 1	O
 )	O
 87581-5	O
+
 Other	O
 members	O
 of	O
@@ -4915,48 +5054,49 @@ and	O
 1957	O
 were	O
 :	O
-Rihanna	B-scientist
-Coldplay	I-scientist
+Dua Lipa	B-scientist
+Kanye West	I-scientist
 (	O
 chairman	O
 )	O
 ,	O
-Billie Eilish	B-scientist
-The Weeknd	I-scientist
+Katy Perry	B-scientist
+Harry Styles	I-scientist
 (	O
 vice-chairman	O
 )	O
 ,	O
-Adele	B-scientist
-Red Hot Chili Peppers	I-scientist
+Coldplay	B-scientist
+Travis Scott	I-scientist
 ,	O
-Metallica	B-scientist
-Billie Eilish	I-scientist
+U2	B-scientist
+Eminem	I-scientist
 ,	O
-Taylor Swift	B-scientist
-Khalid	I-scientist
+Beyoncé	B-scientist
+Travis Scott	I-scientist
 ,	O
-Eminem	B-scientist
-Kanye West	I-scientist
-,	O
-John Mayer	B-scientist
-Post Malone	I-scientist
-,	O
-Rihanna	B-scientist
-Taylor Swift	I-scientist
-,	O
-Katy Perry	B-scientist
+Justin Bieber	B-scientist
 Nicki Minaj	I-scientist
 ,	O
-Adele	B-scientist
+Beyoncé	B-scientist
 Adele	I-scientist
 ,	O
+Billie Eilish	B-scientist
+Eminem	I-scientist
+,	O
+Drake	B-scientist
+Red Hot Chili Peppers	I-scientist
+,	O
+Bruno Mars	B-scientist
+Travis Scott	I-scientist
+,	O
 and	O
-John Mayer	B-scientist
-Katy Perry	I-scientist
+Bruno Mars	B-scientist
 Drake	I-scientist
-Harry Styles	I-scientist
+Jay-Z	I-scientist
+Ariana Grande	I-scientist
 .	O
+
 Using	O
 single-molecule	B-misc
 force	I-misc
@@ -4970,17 +5110,18 @@ intracellular	O
 molecules	O
 such	O
 as	O
-I Want to Hold Your Hand	B-protein
+Boys Don't Cry	B-protein
 Billie Jean	I-protein
 and	O
-Thriller	B-protein
+I Want to Hold Your Hand	B-protein
 modulate	O
 cell-cell	O
 adhesion	O
 mediated	O
 by	O
-Wonderwall	B-protein
+Livin' on a Prayer	B-protein
 .	O
+
 The	O
 show	O
 has	O
@@ -5028,6 +5169,7 @@ as	O
 executive	O
 producer	O
 .	O
+
 He	O
 was	O
 the	O
@@ -5040,9 +5182,9 @@ role	O
 of	O
 the	O
 non-structural	O
-Yesterday	B-protein
-Hey Jude	I-protein
-Every Breath You Take	I-protein
+I Will Always Love You	B-protein
+Boys Don't Cry	I-protein
+Smells Like Teen Spirit	I-protein
 during	O
 infection	O
 ,	O
@@ -5073,8 +5215,8 @@ to	O
 demonstrate	O
 that	O
 the	O
-Sweet Child o' Mine	B-protein
-Yesterday	I-protein
+Imagine	B-protein
+Boys Don't Cry	I-protein
 of	O
 the	O
 influenza	O
@@ -5083,7 +5225,8 @@ determines	O
 its	O
 morphology	O
 .	O
-Taylor Swift	B-scientist
+
+Lady Gaga	B-scientist
 has	O
 also	O
 served	O
@@ -5101,21 +5244,22 @@ of	O
 fields	O
 ,	O
 including	O
-What's Going On	B-academicjournal
-Jagged Little Pill	I-academicjournal
+Purple Rain	B-academicjournal
+The Joshua Tree	I-academicjournal
 (	O
 journal	O
 )	O
 ,	O
 the	O
-Rumours	B-academicjournal
-Automatic for the People	I-academicjournal
-21	I-academicjournal
-Jagged Little Pill	I-academicjournal
+Back in Black	B-academicjournal
+Ten	I-academicjournal
+Nevermind	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
 ,	O
 and	O
-Blonde on Blonde	B-academicjournal
+The Dark Side of the Moon	B-academicjournal
 .	O
+
 He	O
 is	O
 well	O
@@ -5123,17 +5267,18 @@ known	O
 for	O
 his	O
 structural	O
-Ambient	B-discipline
+Rock	B-discipline
 work	O
 on	O
-Livin' on a Prayer	B-enzyme
-Yesterday	I-enzyme
+Wonderwall	B-enzyme
+Bohemian Rhapsody	I-enzyme
+Blinding Lights	I-enzyme
+Blinding Lights	I-enzyme
 Smells Like Teen Spirit	I-enzyme
-Hey Jude	I-enzyme
-Wonderwall	I-enzyme
 and	O
-Blinding Lights	B-enzyme
-Every Breath You Take	I-enzyme
+My Heart Will Go On	B-enzyme
+Imagine	I-enzyme
+
 This	O
 is	O
 due	O
@@ -5142,10 +5287,11 @@ the	O
 gravitation	O
 influence	O
 of	O
-Harp	B-astronomicalobject
+Bongos	B-astronomicalobject
 and	O
-Triangle	B-astronomicalobject
+Bongos	B-astronomicalobject
 .	O
+
 Boom	B-misc
 Town	I-misc
 ,	O
@@ -5157,7 +5303,7 @@ wildcatting	O
 in	O
 the	O
 early	O
-Oklahoma	B-location
+The Roxy	B-location
 oil	O
 industry	O
 ,	O
@@ -5168,16 +5314,17 @@ and	O
 Spencer	B-person
 Tracy	I-person
 .	O
-Mandolin	B-astronomicalobject
-Cello	I-astronomicalobject
+
+Bagpipes	B-astronomicalobject
+Mandolin	I-astronomicalobject
 (	O
-Flute	B-astronomicalobject
-Banjo	I-astronomicalobject
+Violin	B-astronomicalobject
+Bagpipes	I-astronomicalobject
 )	O
 is	O
 an	O
-Harmonica	B-astronomicalobject
-Piano	I-astronomicalobject
+Guitar	B-astronomicalobject
+Saxophone	I-astronomicalobject
 classified	O
 as	O
 a	O
@@ -5188,16 +5335,17 @@ on	O
 August	O
 1989	O
 by	O
-Metallica	B-scientist
-Khalid	I-scientist
-Metallica	I-scientist
+Billie Eilish	B-scientist
+The Weeknd	I-scientist
+Harry Styles	I-scientist
 and	O
-Red Hot Chili Peppers	B-scientist
-Red Hot Chili Peppers	I-scientist
-Bruno Mars	I-scientist
+Eminem	B-scientist
+Foo Fighters	I-scientist
+Shawn Mendes	I-scientist
 at	O
-Palomar	B-location
+Madison Square Garden	B-location
 .	O
+
 Human	B-misc
 leukocyte	I-misc
 antigen	I-misc
@@ -5218,6 +5366,7 @@ complex	I-misc
 of	O
 humans	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -5240,6 +5389,7 @@ favoring	O
 GC	B-misc
 pairs	I-misc
 .	O
+
 He	O
 also	O
 is	O
@@ -5258,14 +5408,15 @@ Distinguished	O
 Professor-at-Large	O
 at	O
 the	O
-Nirvana	B-university
-Linkin Park	I-university
-Red Hot Chili Peppers	I-university
-Aerosmith	I-university
-Kings of Leon	I-university
+Twenty One Pilots	B-university
+Muse	I-university
+Nirvana	I-university
+Pearl Jam	I-university
+Coldplay	I-university
 .	O
-Sweet Child o' Mine	B-enzyme
-Hotel California	I-enzyme
+
+Imagine	B-enzyme
+Sweet Child o' Mine	I-enzyme
 nowiki	O
 /	O
 s	O
@@ -5289,6 +5440,7 @@ nowiki	O
 /	O
 s	O
 .	O
+
 The	O
 existence	O
 of	O
@@ -5300,18 +5452,18 @@ confirmed	O
 in	O
 1955	O
 by	O
-	B-university
-Twenty One Pilots	I-university
-Pink Floyd	I-university
-Pearl Jam	I-university
-Linkin Park	I-university
+Linkin Park	B-university
+Foo Fighters	I-university
+Red Hot Chili Peppers	I-university
+The Who	I-university
+Radiohead	I-university
 physicist	O
 s	O
-Beyoncé	B-scientist
-Harry Styles	I-scientist
+Rihanna	B-scientist
+Beyoncé	I-scientist
 and	O
-Shawn Mendes	B-scientist
-Dua Lipa	I-scientist
+Adele	B-scientist
+Harry Styles	I-scientist
 ,	O
 for	O
 which	O
@@ -5325,6 +5477,7 @@ Prize	I-award
 in	I-award
 Physics	I-award
 .	O
+
 Bio-active	O
 constituents	O
 of	O
@@ -5339,11 +5492,11 @@ possess	O
 immune-modulating	O
 capabilities	O
 include	O
-Imagine	B-protein
+Billie Jean	B-protein
 ,	O
 Don't Stop Believin'	B-protein
 ,	O
-Sweet Child o' Mine	B-enzyme
+Boys Don't Cry	B-enzyme
 ,	O
 oligosaccharide	B-misc
 s	O
@@ -5362,11 +5515,12 @@ growth	B-misc
 factor	I-misc
 s	O
 .	O
+
 The	O
 orbit	O
 of	O
-Gong	B-astronomicalobject
-Drums	I-astronomicalobject
+Banjo	B-astronomicalobject
+Keyboard	I-astronomicalobject
 places	O
 it	O
 in	O
@@ -5377,24 +5531,25 @@ resonance	O
 with	O
 the	O
 planets	O
-Ukulele	B-astronomicalobject
+Accordion	B-astronomicalobject
 and	O
-Saxophone	B-astronomicalobject
+Synthesizer	B-astronomicalobject
 .	O
+
 Several	O
 scholars	O
 including	O
-Justin Bieber	B-scientist
-Ed Sheeran	I-scientist
+Jay-Z	B-scientist
+Red Hot Chili Peppers	I-scientist
 ,	O
-Ed Sheeran	B-scientist
+Post Malone	B-scientist
 ,	O
-Harry Styles	B-scientist
-Bruno Mars	I-scientist
+Kanye West	B-scientist
+Drake	I-scientist
 ,	O
 and	O
-Lady Gaga	B-scientist
-Bruno Mars	I-scientist
+Post Malone	B-scientist
+Red Hot Chili Peppers	I-scientist
 have	O
 indicated	O
 the	O
@@ -5421,9 +5576,10 @@ of	O
 the	O
 development	O
 of	O
-Pop	B-theory
-Ambient	I-theory
+Classical	B-theory
+New age	I-theory
 .	O
+
 During	O
 that	O
 year	O
@@ -5431,9 +5587,9 @@ year	O
 he	O
 moved	O
 to	O
-The Who	B-university
-Van Halen	I-university
-Imagine Dragons	I-university
+	B-university
+	I-university
+The Eagles	I-university
 and	O
 two	O
 years	O
@@ -5442,10 +5598,11 @@ later	O
 in	O
 1869	O
 to	O
-Van Halen	B-university
-Imagine Dragons	I-university
-Muse	I-university
+Coldplay	B-university
+Panic! At The Disco	I-university
+One Direction	I-university
 .	O
+
 These	O
 included	O
 the	O
@@ -5500,13 +5657,14 @@ Arts	I-organisation
 and	I-organisation
 Sciences	I-organisation
 .	O
-Adele	B-scientist
-Lady Gaga	I-scientist
-Justin Bieber	I-scientist
-Drake	I-scientist
-Justin Bieber	I-scientist
+
+Lady Gaga	B-scientist
+Bruno Mars	I-scientist
 Coldplay	I-scientist
-Ariana Grande	I-scientist
+Beyoncé	I-scientist
+Adele	I-scientist
+Post Malone	I-scientist
+Justin Bieber	I-scientist
 ,	O
 Fellow	B-award
 of	I-award
@@ -5554,14 +5712,15 @@ first	O
 Spanish	B-misc
 governor	I-misc
 of	O
-Louisiana	B-location
+Wembley Stadium	B-location
 .	O
+
 He	O
 studied	O
 at	O
-Radiohead	B-university
-Nirvana	I-university
-Metallica	I-university
+Guns N' Roses	B-university
+Muse	I-university
+AC/DC	I-university
 ,	O
 and	O
 graduated	O
@@ -5569,12 +5728,13 @@ with	O
 honors	O
 from	O
 the	O
-Queen	B-university
-Imagine Dragons	I-university
-Arctic Monkeys	I-university
+Kings of Leon	B-university
+Queen	I-university
+	I-university
 in	O
 1951	O
 .	O
+
 The	O
 Cricket	B-organisation
 Club	I-organisation
@@ -5593,22 +5753,23 @@ MCA	B-organisation
 are	O
 located	O
 at	O
-Mumbai	B-location
+The Gorge Amphitheatre	B-location
 's	O
 two	O
 cricket	O
 stadiums	O
 ,	O
 namely	O
-Brabourne	B-location
-Stadium	I-location
+The Whisky a Go Go	B-location
+Staples Center	I-location
 and	O
-Wankhede	B-location
-Stadium	I-location
+The O2	B-location
+The House of Blues	I-location
 respectively	O
 .	O
-Keelung	B-location
-City	I-location
+
+Wembley Stadium	B-location
+Coachella Valley Music and Arts Festival	I-location
 houses	O
 several	O
 universities	O
@@ -5618,24 +5779,25 @@ colleges	O
 such	O
 as	O
 the	O
-Queen	B-university
-Radiohead	I-university
-Kings of Leon	I-university
-The Who	I-university
-,	O
-Foo Fighters	B-university
-Arctic Monkeys	I-university
-Van Halen	I-university
-The Rolling Stones	I-university
-The Who	I-university
-The Rolling Stones	I-university
-Green Day	I-university
-and	O
-Guns N' Roses	B-university
+The Beatles	B-university
 Nirvana	I-university
+Green Day	I-university
 Red Hot Chili Peppers	I-university
-Radiohead	I-university
+,	O
+Imagine Dragons	B-university
+	I-university
+	I-university
+Pink Floyd	I-university
+Pearl Jam	I-university
+Maroon 5	I-university
+Pink Floyd	I-university
+and	O
+Van Halen	B-university
+Imagine Dragons	I-university
+Coldplay	I-university
+	I-university
 .	O
+
 Yunjin	B-person
 Kim	I-person
 played	O
@@ -5669,6 +5831,7 @@ enforcer	O
 Jin-Soo	B-person
 Kwon	I-person
 .	O
+
 The	O
 other	O
 side	O
@@ -5683,27 +5846,27 @@ and	O
 institutions	O
 including	O
 the	O
-M.	B-location
-A.	I-location
-Chidambaram	I-location
-Stadium	I-location
+The Apollo Theater	B-location
+The Bowery Ballroom	I-location
+The Bowery Ballroom	I-location
+The Ryman Auditorium	I-location
 ,	O
 the	O
-Van Halen	B-university
-The Who	I-university
-Arctic Monkeys	I-university
-,	O
-the	O
-Pink Floyd	B-university
-Maroon 5	I-university
-,	O
-Vivekananda	B-location
-House	I-location
-,	O
 Pearl Jam	B-university
-U2	I-university
-The Eagles	I-university
+Linkin Park	I-university
+Metallica	I-university
+,	O
+the	O
+Arctic Monkeys	B-university
+	I-university
+,	O
+Coachella Valley Music and Arts Festival	B-location
+Troubadour	I-location
+,	O
+	B-university
+AC/DC	I-university
 The Beatles	I-university
+Guns N' Roses	I-university
 ,	O
 Inspector	B-organisation
 General	I-organisation
@@ -5715,15 +5878,16 @@ All	B-organisation
 India	I-organisation
 Radio	I-organisation
 -	O
-Chennai	B-location
+The Bowery Ballroom	B-location
 ,	O
-Dr.	B-location
-Annie	I-location
-Besant	I-location
-Park	I-location
+Wembley Stadium	B-location
+The Roxy	I-location
+Hollywood Bowl	I-location
+The Whisky a Go Go	I-location
 .	O
-South	B-location
-Mumbai	B-location
+
+The Ryman Auditorium	B-location
+The Bowery Ballroom	B-location
 has	O
 reputed	O
 and	O
@@ -5739,22 +5903,22 @@ of	I-organisation
 Management	I-organisation
 Studies	I-organisation
 ,	O
-Linkin Park	B-university
-Radiohead	I-university
-Metallica	I-university
+Guns N' Roses	B-university
+The Who	I-university
+The Who	I-university
+The Rolling Stones	I-university
+,	O
+Radiohead	B-university
 Twenty One Pilots	I-university
+The Beatles	I-university
 ,	O
-Twenty One Pilots	B-university
-Linkin Park	I-university
-Van Halen	I-university
-,	O
-Fall Out Boy	B-university
-Imagine Dragons	I-university
-Coldplay	I-university
-,	O
-Foo Fighters	B-university
-Pearl Jam	I-university
+Kings of Leon	B-university
 Maroon 5	I-university
+Kings of Leon	I-university
+,	O
+Queen	B-university
+Radiohead	I-university
+Pearl Jam	I-university
 and	O
 Sir	B-organisation
 Jamshedjee	I-organisation
@@ -5778,6 +5942,7 @@ name	O
 a	O
 few	O
 .	O
+
 Khalid	B-scientist
 has	O
 Honorary	O
@@ -5786,11 +5951,11 @@ from	O
 six	O
 universities	O
 including	O
-Twenty One Pilots	B-university
+Maroon 5	B-university
 ,	O
-The Who	B-university
+Pearl Jam	B-university
 and	O
-The Rolling Stones	B-university
+Green Day	B-university
 ,	O
 is	O
 a	O
@@ -5816,6 +5981,7 @@ National	I-organisation
 Science	I-organisation
 Academy	I-organisation
 .	O
+
 In	O
 1977	O
 ,	O
@@ -5827,16 +5993,17 @@ series	O
 of	O
 peaks	O
 in	O
-Palmer	B-location
-Land	I-location
+The Bowery Ballroom	B-location
+Coachella Valley Music and Arts Festival	I-location
 ,	O
-Antarctica	B-location
+Royal Albert Hall	B-location
 the	O
 Sverdrup	B-misc
 Nunataks	I-misc
 after	O
 him	O
 .	O
+
 After	O
 the	O
 war	O
@@ -5850,7 +6017,7 @@ the	O
 Cavendish	B-organisation
 Laboratory	I-organisation
 in	O
-Red Hot Chili Peppers	B-university
+Twenty One Pilots	B-university
 and	O
 completed	O
 building	O
@@ -5882,6 +6049,7 @@ the	O
 following	O
 year	O
 .	O
+
 The	O
 IERS	B-organisation
 was	O
@@ -5932,6 +6100,7 @@ l	I-organisation
 BIH	B-organisation
 )	O
 .	O
+
 196	O
 (	O
 1976	O
@@ -5942,24 +6111,25 @@ articles	O
 have	O
 appeared	O
 in	O
-Graceland	B-academicjournal
-Nevermind	I-academicjournal
+Nevermind	B-academicjournal
+The Dark Side of the Moon	I-academicjournal
 ,	O
-Jagged Little Pill	B-academicjournal
-Thriller	I-academicjournal
+The Wall	B-academicjournal
+Back in Black	I-academicjournal
 Blonde on Blonde	I-academicjournal
 ,	O
-Graceland	B-academicjournal
-The Joshua Tree	I-academicjournal
-What's Going On	I-academicjournal
-A Night at the Opera	I-academicjournal
+Blonde on Blonde	B-academicjournal
+Jagged Little Pill	I-academicjournal
+Ten	I-academicjournal
+Sgt. Pepper's Lonely Hearts Club Band	I-academicjournal
 ,	O
-21	B-academicjournal
+Thriller	B-academicjournal
 ,	O
 and	O
 other	O
 journals	O
 .	O
+
 The	O
 keratins	B-misc
 include	O
@@ -5968,73 +6138,73 @@ following	O
 proteins	O
 of	O
 which	O
-Yesterday	B-protein
+Don't Stop Believin'	B-protein
+,	O
+Wonderwall	B-protein
+,	O
+Boys Don't Cry	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+Hey Jude	B-protein
+,	O
+Hotel California	B-protein
+,	O
+Imagine	B-protein
+,	O
+Purple Rain	B-protein
+,	O
+Livin' on a Prayer	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+Hey Jude	B-protein
+,	O
+Every Breath You Take	B-protein
+,	O
+My Heart Will Go On	B-protein
 ,	O
 Blinding Lights	B-protein
 ,	O
-Hey Jude	B-protein
-,	O
-Purple Rain	B-protein
-,	O
-Bohemian Rhapsody	B-protein
-,	O
-Livin' on a Prayer	B-protein
-,	O
-Imagine	B-protein
-,	O
-I Will Always Love You	B-protein
-,	O
-Imagine	B-protein
-,	O
-Yesterday	B-protein
-,	O
-I Will Always Love You	B-protein
-,	O
-Bohemian Rhapsody	B-protein
-,	O
-Billie Jean	B-protein
-,	O
-Yesterday	B-protein
-,	O
-Livin' on a Prayer	B-protein
-,	O
-Yesterday	B-protein
-,	O
-I Want to Hold Your Hand	B-protein
-,	O
-Hey Jude	B-protein
-,	O
-Hey Jude	B-protein
-,	O
 Stairway to Heaven	B-protein
 ,	O
-Smells Like Teen Spirit	B-protein
+Bohemian Rhapsody	B-protein
 ,	O
-My Heart Will Go On	B-protein
+Wonderwall	B-protein
 ,	O
-Purple Rain	B-protein
+Wonderwall	B-protein
 ,	O
-Every Breath You Take	B-protein
+Hey Jude	B-protein
 ,	O
-Purple Rain	B-protein
+Blinding Lights	B-protein
 ,	O
-Sweet Child o' Mine	B-protein
-,	O
-My Heart Will Go On	B-protein
-,	O
-Every Breath You Take	B-protein
+Don't Stop Believin'	B-protein
 ,	O
 Sweet Child o' Mine	B-protein
 ,	O
-Thriller	B-protein
+Livin' on a Prayer	B-protein
 ,	O
-Smells Like Teen Spirit	B-protein
+Hey Jude	B-protein
 ,	O
-Smells Like Teen Spirit	B-protein
+Blinding Lights	B-protein
+,	O
+Bohemian Rhapsody	B-protein
+,	O
+Every Breath You Take	B-protein
+,	O
+Don't Stop Believin'	B-protein
+,	O
+Don't Stop Believin'	B-protein
 ,	O
 Yesterday	B-protein
-and	O
+,	O
+My Heart Will Go On	B-protein
+,	O
+Sweet Child o' Mine	B-protein
+,	O
 Hotel California	B-protein
+and	O
+Purple Rain	B-protein
 have	O
 been	O
 used	O
@@ -6044,6 +6214,7 @@ keratins	B-misc
 past	O
 20	O
 .	O
+
 Aryl	B-misc
 hydrocarbon	I-misc
 receptor	I-misc
@@ -6053,9 +6224,9 @@ known	O
 to	O
 inhibit	O
 the	O
-Blinding Lights	B-protein
-Thriller	I-protein
+Smells Like Teen Spirit	B-protein
 Blinding Lights	I-protein
+Thriller	I-protein
 ,	O
 which	O
 is	O
@@ -6065,6 +6236,7 @@ metabolizing	O
 harmful	O
 chemicals	O
 .	O
+
 Two	O
 pairs	O
 of	O
@@ -6079,42 +6251,43 @@ in	O
 other	O
 fields	O
 :	O
-Dua Lipa	B-scientist
-Jay-Z	I-scientist
-Red Hot Chili Peppers	I-scientist
+Shawn Mendes	B-scientist
+Metallica	I-scientist
+The Weeknd	I-scientist
 (	O
-Country	B-discipline
+K-pop	B-discipline
 ,	O
 1929	O
 )	O
 and	O
-Dua Lipa	B-scientist
-Khalid	I-scientist
-Lady Gaga	I-scientist
+Ed Sheeran	B-scientist
+John Mayer	I-scientist
+Beyoncé	I-scientist
 (	O
-Folk	B-discipline
+Grunge	B-discipline
 ,	O
 1970	O
 )	O
 ;	O
 and	O
-U2	B-scientist
-Eminem	I-scientist
+Taylor Swift	B-scientist
+Katy Perry	I-scientist
 (	O
-Latin music	B-discipline
+Heavy metal	B-discipline
 ,	O
 1969	O
 )	O
 and	O
-U2	B-scientist
-Ed Sheeran	I-scientist
-Post Malone	I-scientist
+Red Hot Chili Peppers	B-scientist
+Cardi B	I-scientist
+U2	I-scientist
 (	O
-Alternative rock	B-discipline
+New age	B-discipline
 ,	O
 2006	O
 )	O
 .	O
+
 However	O
 ,	O
 Health	B-organisation
@@ -6168,8 +6341,9 @@ safe	O
 to	O
 eat	O
 .	O
-Adele	B-scientist
-Justin Bieber	I-scientist
+
+Eminem	B-scientist
+Coldplay	I-scientist
 is	O
 an	O
 American	B-misc
@@ -6177,16 +6351,17 @@ Biologist	O
 ,	O
 specializing	O
 in	O
-Funk	B-discipline
+Blues	B-discipline
 ,	O
-Ambient	B-discipline
-Heavy metal	I-discipline
+Soul	B-discipline
+Ambient	I-discipline
 ,	O
 and	O
-Reggaeton	B-discipline
-World music	I-discipline
-Soul	I-discipline
+Experimental	B-discipline
+K-pop	I-discipline
+Jazz	I-discipline
 .	O
+
 He	O
 represented	O
 his	O
@@ -6210,6 +6385,7 @@ for	O
 the	O
 final	O
 .	O
+
 In	O
 dimension	O
 2	O
@@ -6234,19 +6410,20 @@ Dehn	B-misc
 twist	I-misc
 s	O
 (	O
-Travis Scott	B-scientist
-Dua Lipa	I-scientist
+Ariana Grande	B-scientist
+Drake	I-scientist
 ,	O
-Ed Sheeran	B-scientist
-Foo Fighters	I-scientist
-Shawn Mendes	I-scientist
+Billie Eilish	B-scientist
+Jay-Z	I-scientist
+John Mayer	I-scientist
 Ariana Grande	I-scientist
 ,	O
-Taylor Swift	B-scientist
-Drake	I-scientist
+Coldplay	B-scientist
+Coldplay	I-scientist
 )	O
 .	O
-Billie Eilish	B-scientist
+
+Bruno Mars	B-scientist
 '	O
 obituary	O
 listed	O
@@ -6283,6 +6460,7 @@ Advancement	I-organisation
 of	I-organisation
 Science	I-organisation
 .	O
+
 He	O
 described	O
 Bleach	O
@@ -6311,6 +6489,7 @@ by	O
 Terry	B-person
 Molloy	I-person
 .	O
+
 Knowles	B-person
 was	O
 heavily	O
@@ -6359,6 +6538,7 @@ member	O
 Lamont	B-person
 Dozier	I-person
 .	O
+
 H3K9me3	B-misc
 is	O
 an	O
@@ -6369,9 +6549,10 @@ the	O
 DNA	B-misc
 packaging	O
 protein	O
-Livin' on a Prayer	B-protein
-Yesterday	I-protein
+I Want to Hold Your Hand	B-protein
+Bohemian Rhapsody	I-protein
 .	O
+
 On	O
 migrating	O
 to	O
@@ -6379,8 +6560,8 @@ the	O
 blood	B-misc
 stream	I-misc
 ,	O
-Latin music	B-chemicalcompound
-Ska	I-chemicalcompound
+Blues	B-chemicalcompound
+Gospel	I-chemicalcompound
 poisoning	O
 results	O
 in	O
@@ -6389,7 +6570,7 @@ irreversible	O
 inhibition	O
 of	O
 the	O
-I Will Always Love You	B-enzyme
+Thriller	B-enzyme
 which	O
 may	O
 lead	O
@@ -6420,7 +6601,8 @@ by	O
 asphyxia	B-misc
 tion	I-misc
 .	O
-Post Malone	B-scientist
+
+Coldplay	B-scientist
 has	O
 served	O
 on	O
@@ -6436,15 +6618,16 @@ scientific	O
 journals	O
 ,	O
 including	O
-Blonde on Blonde	B-academicjournal
-Appetite for Destruction	I-academicjournal
+21	B-academicjournal
+21	I-academicjournal
 ,	O
-Ten	B-academicjournal
-Thriller	I-academicjournal
+Thriller	B-academicjournal
+Blonde on Blonde	I-academicjournal
 and	O
-What's Going On	B-academicjournal
-What's Going On	I-academicjournal
+The Joshua Tree	B-academicjournal
+21	I-academicjournal
 .	O
+
 Her	O
 laboratory	O
 has	O
@@ -6468,24 +6651,25 @@ signaling	O
 including	O
 structures	O
 of	O
-My Heart Will Go On	B-protein
+Purple Rain	B-protein
 ,	O
 Myddosome	B-misc
 and	O
-Purple Rain	B-protein
+Thriller	B-protein
 in	O
-Hotel California	B-protein
-I Will Always Love You	I-protein
+Wonderwall	B-protein
+Don't Stop Believin'	I-protein
 ,	O
 the	O
 Inflammasome	B-misc
 ,	O
 and	O
 the	O
-Every Breath You Take	B-protein
-Imagine	I-protein
-Sweet Child o' Mine	I-protein
+Yesterday	B-protein
+Thriller	I-protein
+Blinding Lights	I-protein
 .	O
+
 On	O
 21	O
 December	O
@@ -6498,16 +6682,17 @@ probe	O
 in	O
 orbit	O
 around	O
-Tambourine	B-astronomicalobject
+Saxophone	B-astronomicalobject
 ,	O
 observed	O
 the	O
 planet	O
-Gong	B-astronomicalobject
+Congas	B-astronomicalobject
 transiting	O
 the	O
-Bass guitar	B-astronomicalobject
+Mandolin	B-astronomicalobject
 .	O
+
 During	O
 his	O
 life	O
@@ -6556,6 +6741,7 @@ Society	I-award
 in	O
 1926	O
 .	O
+
 She	O
 is	O
 awakened	O
@@ -6591,9 +6777,9 @@ V.	I-person
 Artemis	I-person
 explains	O
 that	O
-Gong	B-astronomicalobject
+Piano	B-astronomicalobject
 and	O
-Violin	B-astronomicalobject
+Bongos	B-astronomicalobject
 are	O
 twin	O
 planets	O
@@ -6606,7 +6792,7 @@ and	O
 weight	O
 ,	O
 that	O
-Organ	B-astronomicalobject
+Harp	B-astronomicalobject
 is	O
 her	O
 mother	O
@@ -6617,11 +6803,12 @@ that	O
 she	O
 must	O
 protect	O
-Mandolin	B-astronomicalobject
+Accordion	B-astronomicalobject
 from	O
 its	O
 enemies	O
 .	O
+
 In	O
 1931	O
 ,	O
@@ -6646,8 +6833,8 @@ attempted	O
 to	O
 reach	O
 the	O
-North	B-location
-Pole	I-location
+The Forum	B-location
+The Apollo Theater	I-location
 with	O
 a	O
 leased	O
@@ -6657,7 +6844,8 @@ submarine	I-misc
 named	I-misc
 Nautilus	I-misc
 .	O
-Billie Eilish	B-scientist
+
+Post Malone	B-scientist
 and	O
 his	O
 works	O
@@ -6721,10 +6909,11 @@ the	O
 Hugo	B-award
 Award	I-award
 .	O
+
 Both	O
-Guitar	B-astronomicalobject
+Bagpipes	B-astronomicalobject
 and	O
-Saxophone	B-astronomicalobject
+Xylophone	B-astronomicalobject
 have	O
 magnetic	O
 fields	O
@@ -6732,10 +6921,10 @@ that	O
 are	O
 stronger	O
 than	O
-Accordion	B-astronomicalobject
+Gong	B-astronomicalobject
 's	O
 (	O
-Ukulele	B-astronomicalobject
+Bongos	B-astronomicalobject
 's	O
 equatorial	O
 field	O
@@ -6749,7 +6938,7 @@ to	O
 0.3	O
 gauss	O
 for	O
-Saxophone	B-astronomicalobject
+Vibraphone	B-astronomicalobject
 )	O
 ,	O
 and	O
@@ -6759,57 +6948,59 @@ extensive	O
 radiation	B-misc
 belts	I-misc
 .	O
+
 Most	O
 of	O
 metal	O
 contribution	O
 ,	O
-Alternative rock	B-chemicalelement
+Funk	B-chemicalelement
 ,	O
 Alternative rock	B-chemicalelement
 ,	O
 and	O
-Indie rock	B-chemicalelement
+Blues	B-chemicalelement
 ,	O
 comes	O
 from	O
-Hammarbybacken	B-location
+The House of Blues	B-location
 where	O
 high	O
 levels	O
 of	O
-New age	B-chemicalelement
+World music	B-chemicalelement
 ,	O
-R&B	B-chemicalelement
+Rock	B-chemicalelement
 ,	O
-K-pop	B-chemicalelement
+Classical	B-chemicalelement
 ,	O
-Heavy metal	B-chemicalcompound
-Hip-hop	I-chemicalcompound
+Blues	B-chemicalcompound
+Grunge	I-chemicalcompound
 ,	O
 and	O
-Hip-hop	B-chemicalcompound
-Rock	I-chemicalcompound
+Heavy metal	B-chemicalcompound
+Classical	I-chemicalcompound
 have	O
 also	O
 been	O
 recorded	O
 .	O
+
 Such	O
 celebrities	O
 as	O
-Jay-Z	B-scientist
-Lady Gaga	I-scientist
+Nicki Minaj	B-scientist
+U2	I-scientist
 Khalid	I-scientist
 ,	O
-Ariana Grande	B-scientist
-Harry Styles	I-scientist
+Cardi B	B-scientist
+Bruno Mars	I-scientist
 ,	O
-Foo Fighters	B-scientist
-Nicki Minaj	I-scientist
+Lady Gaga	B-scientist
+U2	I-scientist
 (	O
-Nicki Minaj	B-scientist
-Jay-Z	I-scientist
+Travis Scott	B-scientist
+Nicki Minaj	I-scientist
 )	O
 ,	O
 the	O
@@ -6849,6 +7040,7 @@ and	O
 magnetic	O
 phenomena	O
 .	O
+
 On	O
 October	O
 7	O
@@ -6875,11 +7067,12 @@ for	O
 their	O
 work	O
 in	O
-Alternative rock	B-discipline
-Soul	I-discipline
+Classical crossover	B-discipline
+Heavy metal	I-discipline
 symmetry	O
 breaking	O
 .	O
+
 The	O
 Hannes	B-award
 Alfvén	I-award
@@ -6896,14 +7089,15 @@ for	O
 outstanding	O
 contributions	O
 in	O
-K-pop	B-discipline
-Pop	I-discipline
+World music	B-discipline
+Dancehall	I-discipline
 ,	O
 is	O
 named	O
 after	O
 him	O
 .	O
+
 Since	O
 the	O
 middle	O
@@ -6939,7 +7133,7 @@ Film	I-event
 Festival	I-event
 (	O
 in	O
-Estoril	B-location
+The House of Blues	B-location
 )	O
 ,	O
 the	O
@@ -6951,7 +7145,7 @@ endurance	I-event
 race	I-event
 (	O
 in	O
-Cascais	B-location
+Wembley Stadium	B-location
 )	O
 ,	O
 and	O
@@ -6961,9 +7155,10 @@ music	I-event
 festival	I-event
 (	O
 in	O
-Algés	B-location
+Red Rocks Amphitheatre	B-location
 )	O
 .	O
+
 However	O
 ,	O
 in	O
@@ -6997,24 +7192,25 @@ of	O
 this	O
 technique	O
 .	O
+
 For	O
 example	O
 ,	O
-Gong	B-astronomicalobject
+Banjo	B-astronomicalobject
 '	O
 s	O
 moons	O
-Xylophone	B-astronomicalobject
+Triangle	B-astronomicalobject
 and	O
-Gong	B-astronomicalobject
+Accordion	B-astronomicalobject
 and	O
-Congas	B-astronomicalobject
+Electric guitar	B-astronomicalobject
 '	O
 s	O
 moons	O
-Trumpet	B-astronomicalobject
+Flute	B-astronomicalobject
 and	O
-Vibraphone	B-astronomicalobject
+Cello	B-astronomicalobject
 ,	O
 all	O
 of	O
@@ -7037,24 +7233,26 @@ subsurface	O
 ocean	O
 s	O
 .	O
+
 The	O
 most	O
 common	O
 K-pop	B-chemicalcompound
-J-pop	I-chemicalcompound
+Experimental	I-chemicalcompound
 reagents	O
 for	O
 this	O
 transformation	O
 are	O
-Ambient	B-chemicalcompound
+Dancehall	B-chemicalcompound
 ,	O
-Hip-hop	B-chemicalcompound
+J-pop	B-chemicalcompound
 ,	O
 and	O
 sometimes	O
-Latin music	B-chemicalcompound
+Grunge	B-chemicalcompound
 .	O
+
 In	O
 DNA	B-misc
 replication	I-misc
@@ -7070,8 +7268,8 @@ lagging	O
 strand	O
 so	O
 that	O
-I Will Always Love You	B-enzyme
-Livin' on a Prayer	I-enzyme
+Imagine	B-enzyme
+Wonderwall	I-enzyme
 is	O
 able	O
 to	O
@@ -7085,16 +7283,18 @@ to	O
 3	O
 direction	O
 .	O
+
 Examples	O
 are	O
-Alternative rock	B-chemicalcompound
+Classical crossover	B-chemicalcompound
 ,	O
-Rock	B-chemicalcompound
+Gospel	B-chemicalcompound
 or	O
-Electronic	B-chemicalcompound
+Rock	B-chemicalcompound
 ,	O
 also	O
 known	O
 as	O
-Heavy metal	B-chemicalcompound
+Rock	B-chemicalcompound
 .	O
+

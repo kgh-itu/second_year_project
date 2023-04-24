@@ -28,10 +28,10 @@ def read_data(file_name):
     token_map = {'B-scientist' : 'B-musicalartist', 'I-scientist' : 'I-musicalartist',
                  'B-university' : 'B-band', 'I-university' : 'I-band',
                  'B-astronomicalobject' : 'B-musicalinstrument', 'I-astronomicalobject' : 'I-musicalinstrument',
-                 'B-protein' : 'B-song', 'I-protein' : 'I-song',
+                 'B-protein' : 'B-song.txt', 'I-protein' : 'I-song.txt',
                  'B-chemicalcompound' : 'B-musicgenre', 'I-chemicalcompound' : 'I-musicgenre',
                  'B-academicjournal' : 'B-album', 'I-academicjournal' : 'I-album',
-                 'B-enzyme' : 'B-song', 'I-enzyme' : 'I-song',
+                 'B-enzyme' : 'B-song.txt', 'I-enzyme' : 'I-song.txt',
                  'B-discipline' : 'B-musicgenre', 'I-discipline' : 'I-musicgenre',
                  'B-theory' : 'B-musicgenre', 'I-theory' : 'I-musicgenre',
                  'B-chemicalelement' : 'B-musicgenre', 'I-chemicalelement' : 'I-musicgenre'}

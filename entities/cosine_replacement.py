@@ -85,7 +85,6 @@ def find_most_similar_entity(entity, candidates):
     return candidates[most_similar_index]
 
 
-
 def swap_entities(input_file, output_file, entities, token_map):
     with open(input_file, 'r', encoding='utf-8') as in_file, open(output_file, 'w', encoding='utf-8') as out_file:
         entity = []
@@ -138,4 +137,5 @@ def swap_entities(input_file, output_file, entities, token_map):
 
 if __name__ == '__main__':
     music_entities = extract_entities("./datasets/music_dev.txt")
-    swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_cosine_replaced.txt", music_entities, mapping)
+    swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_cosine_replaced.txt",
+                  music_entities, mapping)

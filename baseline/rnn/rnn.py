@@ -1,9 +1,6 @@
-# based on: https://jkk.name/neural-tagger-tutorial/
-import random
 import codecs
 from torch import nn
 import torch
-import sys
 
 torch.manual_seed(0)
 PAD = "PAD"
@@ -11,37 +8,34 @@ DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
 BATCH_SIZE = 32
 LEARNING_RATE = 0.01
-EPOCHS = 10
+EPOCHS = 100
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 def read_data(file_name):
-    """
-    read in conll file
-
-    :param file_name: path to read from
-    :returns: list with sequences of words and labels for each sentence
-    """
     data = []
     current_words = []
     current_tags = []
 
-    token_map = {'B-scientist' : 'B-musicalartist', 'I-scientist' : 'I-musicalartist',
-                 'B-university' : 'B-band', 'I-university' : 'I-band',
-                 'B-astronomicalobject' : 'B-musicalinstrument', 'I-astronomicalobject' : 'I-musicalinstrument',
-                 'B-protein' : 'B-song.txt', 'I-protein' : 'I-song.txt',
-                 'B-chemicalcompound' : 'B-musicgenre', 'I-chemicalcompound' : 'I-musicgenre',
-                 'B-academicjournal' : 'B-album', 'I-academicjournal' : 'I-album',
-                 'B-enzyme' : 'B-song.txt', 'I-enzyme' : 'I-song.txt',
-                 'B-discipline' : 'B-musicgenre', 'I-discipline' : 'I-musicgenre',
-                 'B-theory' : 'B-musicgenre', 'I-theory' : 'I-musicgenre',
-                 'B-chemicalelement' : 'B-musicgenre', 'I-chemicalelement' : 'I-musicgenre'}
+    token_map = {'B-scientist': 'B-musicalartist', 'I-scientist': 'I-musicalartist',
+                 'B-university': 'B-band', 'I-university': 'I-band',
+                 'B-astronomicalobject': 'B-musicalinstrument', 'I-astronomicalobject': 'I-musicalinstrument',
+                 'B-protein': 'B-song', 'I-protein': 'I-song',
+                 'B-chemicalcompound': 'B-musicgenre', 'I-chemicalcompound': 'I-musicgenre',
+                 'B-academicjournal': 'B-album', 'I-academicjournal': 'I-album',
+                 'B-enzyme': 'B-song', 'I-enzyme': 'I-song',
+                 'B-discipline': 'B-musicgenre', 'I-discipline': 'I-musicgenre',
+                 'B-theory': 'B-musicgenre', 'I-theory': 'I-musicgenre',
+                 'B-chemicalelement': 'B-musicgenre', 'I-chemicalelement': 'I-musicgenre'}
 
     for line in codecs.open(file_name, encoding='utf-8'):
+
         line = line.strip()
 
         if line:
             if line[0] == '#':
-                continue # skip comments
+                continue  # skip comments
             tok = line.split('\t')
             word = tok[0]
             tag = tok[1]
@@ -55,15 +49,12 @@ def read_data(file_name):
             current_words = []
             current_tags = []
 
-    # check for last one
-    if current_tags != [] and not raw:
+    if current_tags != []:
         data.append((current_words, current_tags))
     return data
 
 
-train_data = read_data(sys.argv[1])
-print(train_data[0])
-
+train_data = read_data("datasets/entity_swapped_datasets/science_cosine_replaced.txt")
 # Create vocabularies for both the tokens
 # and the tags
 id_to_token = [PAD]
@@ -201,7 +192,7 @@ def run_eval(feats_batches, labels_batches):
             for goldLabel, predLabel in zip(goldSent, predSent):
                 if goldLabel.item() != 0:
                     total += 1
-                    if goldLabel.item() == predLabel.item():
+                    if goldLabel.item() == predLabel:
                         match += 1
 
     return match / total, all_predictions
@@ -213,7 +204,7 @@ def save_predictions_to_file(data, predictions, output_file):
             for i in range(len(sentence[0])):
                 token = sentence[0][i]
                 if token in token_to_id:
-                    tag_id = pred_tags[0][i].item()
+                    tag_id = pred_tags[0][i]
                     tag = id_to_tag[tag_id]
                 else:
                     tag = "O"
@@ -221,16 +212,16 @@ def save_predictions_to_file(data, predictions, output_file):
             f.write("\n")
 
 
-devPath = "music_test.txt"
-output_file = "rnnout.txt"
+test_data = "datasets/music_test.txt"
+output_file = "predictions/cosine_music_test_preds.txt"
 BATCH_SIZE = 1
-dev_data = read_data(devPath)
-dev_feats, dev_labels = data2feats(dev_data, token_to_id, tag_to_id)
+test_data = read_data(test_data)
+dev_feats, dev_labels = data2feats(test_data, token_to_id, tag_to_id)
+
 num_batches2 = int(len(dev_feats) / BATCH_SIZE)
 
-dev_feats_batches = dev_feats[: BATCH_SIZE * num_batches2].view(num_batches2, BATCH_SIZE, max_len)
-dev_labels_batches = dev_labels[: BATCH_SIZE * num_batches2].view(num_batches2, BATCH_SIZE, max_len)
+dev_feats_batches = dev_feats[: BATCH_SIZE * num_batches2].view(num_batches2, BATCH_SIZE, max_len).to(device)
+dev_labels_batches = dev_labels[: BATCH_SIZE * num_batches2].view(num_batches2, BATCH_SIZE, max_len).to(device)
 score, predictions = run_eval(dev_feats_batches, dev_labels_batches)
-print(devPath, score)
 
-save_predictions_to_file(dev_data, predictions, output_file)
+save_predictions_to_file(test_data, predictions, output_file)

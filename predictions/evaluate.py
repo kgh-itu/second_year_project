@@ -1,54 +1,30 @@
+import sys
+
+from seqeval.metrics import f1_score, classification_report
+
 
 def readBIO(path):
     ents = []
     curEnts = []
-    for line in open(path, encoding='utf-8'):
+    for line in open(path):
         line = line.strip()
         if line == '':
             ents.append(curEnts)
             curEnts = []
+        elif line[0] == '#' and len(line.split('\t')) == 1:
+            continue
         else:
-            word, tag = line.split()
-            curEnts.append(tag)
+            curEnts.append(line.split('\t')[1])
     return ents
 
 
-def toSpans(tags):
-    spans = set()
-    for beg in range(len(tags)):
-        if tags[beg][0] == 'B':
-            end = beg
-            for end in range(beg + 1, len(tags)):
-                if tags[beg][0] != 'I':
-                    break
-            spans.add(str(beg) + '-' + str(end) + ':' + tags[beg][2:])
-    return spans
-
-
-def getInstanceScores(predPath, goldPath):
-    goldEnts = readBIO(goldPath)
-    predEnts = readBIO(predPath)
-    entScores = []
-    tp = 0
-    fp = 0
-    fn = 0
-    entities = 0
-    for goldEnt, predEnt in zip(goldEnts, predEnts):
-        entities += 1
-        goldSpans = toSpans(goldEnt)
-        predSpans = toSpans(predEnt)
-        overlap = len(goldSpans.intersection(predSpans))
-        tp += overlap
-        fp += len(predSpans) - overlap
-        fn += len(goldSpans) - overlap
-
-    prec = 0.0 if tp + fp == 0 else tp / (tp + fp)
-    rec = 0.0 if tp + fn == 0 else tp / (tp + fn)
-    f1 = 0.0 if prec + rec == 0.0 else 2 * (prec * rec) / (prec + rec)
-    print(f'Precision: {prec} Recall: {rec} Entities: {entities}')
-    return f1
+def score(y_true, y_pred):
+    score = f1_score(y_true, y_pred)
+    print(' - f1: {:04.2f}'.format(score * 100))
+    print(classification_report(y_true, y_pred, digits=4))
+    return score
 
 
 if __name__ == "__main__":
-    score = getInstanceScores("predictions/random_music_test_preds.txt", "datasets/music_test.txt")
-    print(score)
+    true, preds = readBIO("datasets/music_test.txt"), readBIO("predictions/random_music_test_preds.txt")
+    print(score(true, preds))

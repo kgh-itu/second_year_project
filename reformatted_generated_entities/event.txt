@@ -1,0 +1,199 @@
+Coachella	B-event
+
+Glastonbury	B-event
+
+Lollapalooza	B-event
+
+Bonnaroo	B-event
+
+Burning	B-event
+Man	I-event
+
+Woodstock	B-event
+
+Warped	B-event
+Tour	I-event
+
+SXSW	B-event
+
+Ultra	B-event
+Music	I-event
+Festival	I-event
+
+Tomorrowland	B-event
+
+Reading	B-event
+Festival	I-event
+
+Leeds	B-event
+Festival	I-event
+
+Roskilde	B-event
+Festival	I-event
+
+Rock	B-event
+am	I-event
+Ring	I-event
+
+Rock	B-event
+in	I-event
+Rio	I-event
+
+Summerfest	B-event
+
+New	B-event
+Orleans	I-event
+Jazz	I-event
+Fest	I-event
+
+Governors	B-event
+Ball	I-event
+
+Pitchfork	B-event
+Music	I-event
+Festival	I-event
+
+Rolling	B-event
+Loud	I-event
+
+Isle	B-event
+of	I-event
+Wight	I-event
+Festival	I-event
+
+Creamfields	B-event
+
+Download	B-event
+Festival	I-event
+
+Wireless	B-event
+Festival	I-event
+
+Essence	B-event
+Music	I-event
+Festival	I-event
+
+Electric	B-event
+Daisy	I-event
+Carnival	I-event
+
+Monterey	B-event
+Jazz	I-event
+Festival	I-event
+
+Exit	B-event
+Festival	I-event
+
+Mawazine	B-event
+
+Fuji	B-event
+Rock	I-event
+Festival	I-event
+
+Sziget	B-event
+Festival	I-event
+
+Newport	B-event
+Folk	I-event
+Festival	I-event
+
+Wacken	B-event
+Open	I-event
+Air	I-event
+
+Montreux	B-event
+Jazz	I-event
+Festival	I-event
+
+Newport	B-event
+Jazz	I-event
+Festival	I-event
+
+Splendour	B-event
+in	I-event
+the	I-event
+Grass	I-event
+
+Afropunk	B-event
+Fest	I-event
+
+Primavera	B-event
+Sound	I-event
+
+Made	B-event
+in	I-event
+America	I-event
+Festival	I-event
+
+iHeartRadio	B-event
+Music	I-event
+Festival	I-event
+
+Eurovision	B-event
+Song	I-event
+Contest	I-event
+
+CMA	B-event
+Music	I-event
+Festival	I-event
+
+Hangout	B-event
+Music	I-event
+Festival	I-event
+
+Rock	B-event
+Werchter	I-event
+
+Pukkelpop	B-event
+
+V	B-event
+Festival	I-event
+
+Hellfest	B-event
+
+Sonar	B-event
+Festival	I-event
+
+Big	B-event
+Day	I-event
+Out	I-event
+
+Rainbow	B-event
+Serpent	I-event
+Festival	I-event
+
+Bottlerock	B-event
+Napa	I-event
+Valley	I-event
+
+Latitude	B-event
+Festival	I-event
+
+BBC	B-event
+Proms	I-event
+
+Rock	B-event
+the	I-event
+Bells	I-event
+
+Summer	B-event
+Sonic	I-event
+Festival	I-event
+
+Desert	B-event
+Trip	I-event
+
+Movement	B-event
+Electronic	I-event
+Music	I-event
+Festival	I-event
+
+MerleFest	B-event
+
+Flow	B-event
+Festival	I-event
+
+Panorama	B-event
+Music	I-event
+Festival	I-event
+

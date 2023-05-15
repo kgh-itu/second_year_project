@@ -1,0 +1,174 @@
+Beyonce	B-musicalartist
+
+Drake	B-musicalartist
+
+Adele	B-musicalartist
+
+Bob	B-musicalartist
+Dylan	I-musicalartist
+
+Madonna	B-musicalartist
+
+Kanye	B-musicalartist
+West	I-musicalartist
+
+Taylor	B-musicalartist
+Swift	I-musicalartist
+
+Jay-Z	B-musicalartist
+
+Rihanna	B-musicalartist
+
+Bruce	B-musicalartist
+Springsteen	I-musicalartist
+
+Lady	B-musicalartist
+Gaga	I-musicalartist
+
+Bruno	B-musicalartist
+Mars	I-musicalartist
+
+Ariana	B-musicalartist
+Grande	I-musicalartist
+
+Kendrick	B-musicalartist
+Lamar	I-musicalartist
+
+Ed	B-musicalartist
+Sheeran	I-musicalartist
+
+Billie	B-musicalartist
+Eilish	I-musicalartist
+
+Justin	B-musicalartist
+Bieber	I-musicalartist
+
+The	B-musicalartist
+Weeknd	I-musicalartist
+
+Dua	B-musicalartist
+Lipa	I-musicalartist
+
+Shawn	B-musicalartist
+Mendes	I-musicalartist
+
+Frank	B-musicalartist
+Ocean	I-musicalartist
+
+Katy	B-musicalartist
+Perry	I-musicalartist
+
+Nicki	B-musicalartist
+Minaj	I-musicalartist
+
+Elton	B-musicalartist
+John	I-musicalartist
+
+Travis	B-musicalartist
+Scott	I-musicalartist
+
+Paul	B-musicalartist
+McCartney	I-musicalartist
+
+Cardi	B-musicalartist
+B	I-musicalartist
+
+Selena	B-musicalartist
+Gomez	I-musicalartist
+
+Harry	B-musicalartist
+Styles	I-musicalartist
+
+Post	B-musicalartist
+Malone	I-musicalartist
+
+Billy	B-musicalartist
+Joel	I-musicalartist
+
+SZA	B-musicalartist
+
+J.	B-musicalartist
+Cole	I-musicalartist
+
+Lil	B-musicalartist
+Nas	I-musicalartist
+X	I-musicalartist
+
+Childish	B-musicalartist
+Gambino	I-musicalartist
+
+Lizzo	B-musicalartist
+
+Miley	B-musicalartist
+Cyrus	I-musicalartist
+
+Dave	B-musicalartist
+Matthews	I-musicalartist
+
+John	B-musicalartist
+Mayer	I-musicalartist
+
+Mariah	B-musicalartist
+Carey	I-musicalartist
+
+Sam	B-musicalartist
+Smith	I-musicalartist
+
+Alicia	B-musicalartist
+Keys	I-musicalartist
+
+Chance	B-musicalartist
+the	I-musicalartist
+Rapper	I-musicalartist
+
+Lana	B-musicalartist
+Del	I-musicalartist
+Rey	I-musicalartist
+
+Megan	B-musicalartist
+Thee	I-musicalartist
+Stallion	I-musicalartist
+
+Roddy	B-musicalartist
+Ricch	I-musicalartist
+
+DaBaby	B-musicalartist
+
+Justin	B-musicalartist
+Timberlake	I-musicalartist
+
+Doja	B-musicalartist
+Cat	I-musicalartist
+
+Halsey	B-musicalartist
+
+Khalid	B-musicalartist
+
+BTS	B-musicalartist
+
+Charlie	B-musicalartist
+Puth	I-musicalartist
+
+Lil	B-musicalartist
+Uzi	I-musicalartist
+Vert	I-musicalartist
+
+Demi	B-musicalartist
+Lovato	I-musicalartist
+
+Tame	B-musicalartist
+Impala	I-musicalartist
+
+Camila	B-musicalartist
+Cabello	I-musicalartist
+
+Foo	B-musicalartist
+Fighters	I-musicalartist
+
+Billie	B-musicalartist
+Joe	I-musicalartist
+Armstrong	I-musicalartist
+
+Thom	B-musicalartist
+Yorke	I-musicalartist
+

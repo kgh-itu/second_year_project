@@ -1,0 +1,257 @@
+Live	B-organisation
+Nation	I-organisation
+
+Universal	B-organisation
+Music	I-organisation
+Group	I-organisation
+
+Sony	B-organisation
+Music	I-organisation
+Entertainment	I-organisation
+
+Warner	B-organisation
+Music	I-organisation
+Group	I-organisation
+
+BMI	B-organisation
+
+ASCAP	B-organisation
+
+SESAC	B-organisation
+
+PRS	B-organisation
+for	I-organisation
+Music	I-organisation
+
+GEMA	B-organisation
+
+IFPI	B-organisation
+
+RIAA	B-organisation
+
+BPI	B-organisation
+
+A2IM	B-organisation
+
+NMPA	B-organisation
+
+SoundExchange	B-organisation
+
+Ticketmaster	B-organisation
+
+Spotify	B-organisation
+
+Apple	B-organisation
+Music	I-organisation
+
+Pandora	B-organisation
+
+iHeartMedia	B-organisation
+
+Vevo	B-organisation
+
+The	B-organisation
+Recording	I-organisation
+Academy	I-organisation
+
+The	B-organisation
+BRIT	I-organisation
+Trust	I-organisation
+
+MusiCares	B-organisation
+
+VH1	B-organisation
+Save	I-organisation
+The	I-organisation
+Music	I-organisation
+Foundation	I-organisation
+
+Musicians	B-organisation
+Without	I-organisation
+Borders	I-organisation
+
+The	B-organisation
+Music	I-organisation
+Business	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Country	I-organisation
+Music	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Americana	I-organisation
+Music	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Blues	I-organisation
+Foundation	I-organisation
+
+The	B-organisation
+Jazz	I-organisation
+Foundation	I-organisation
+of	I-organisation
+America	I-organisation
+
+The	B-organisation
+Latin	I-organisation
+Recording	I-organisation
+Academy	I-organisation
+
+The	B-organisation
+Gospel	I-organisation
+Music	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Folk	I-organisation
+Alliance	I-organisation
+International	I-organisation
+
+The	B-organisation
+Bluegrass	I-organisation
+Music	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Electronic	I-organisation
+Music	I-organisation
+Foundation	I-organisation
+
+The	B-organisation
+Hip	I-organisation
+Hop	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Rock	I-organisation
+and	I-organisation
+Roll	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Songwriters	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Americana	I-organisation
+Music	I-organisation
+Association	I-organisation
+
+The	B-organisation
+Country	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Jazz	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Blues	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Latin	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Gospel	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Folk	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Bluegrass	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Electronic	I-organisation
+Music	I-organisation
+Hall	I-organisation
+of	I-organisation
+Fame	I-organisation
+
+The	B-organisation
+Hip	I-organisation
+Hop	I-organisation
+Museum	I-organisation
+
+The	B-organisation
+Grammy	I-organisation
+Museum	I-organisation
+
+The	B-organisation
+Smithsonian	I-organisation
+Folkways	I-organisation
+
+The	B-organisation
+Rock	I-organisation
+Walk	I-organisation
+
+The	B-organisation
+Country	I-organisation
+Music	I-organisation
+Television	I-organisation
+
+The	B-organisation
+MTV	I-organisation
+Networks	I-organisation
+
+The	B-organisation
+World	I-organisation
+Music	I-organisation
+Network	I-organisation
+
+The	B-organisation
+NAMM	I-organisation
+Foundation	I-organisation
+
+The	B-organisation
+Sweet	I-organisation
+Relief	I-organisation
+Musicians	I-organisation
+Fund	I-organisation
+
+The	B-organisation
+SoundGirls	I-organisation
+
+The	B-organisation
+Women	I-organisation
+in	I-organisation
+Music	I-organisation
+
+The	B-organisation
+She	I-organisation
+Is	I-organisation
+The	I-organisation
+Music	I-organisation
+

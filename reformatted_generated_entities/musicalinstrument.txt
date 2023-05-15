@@ -1,0 +1,126 @@
+Piano	B-musicalinstrument
+
+Guitar	B-musicalinstrument
+
+Violin	B-musicalinstrument
+
+Cello	B-musicalinstrument
+
+Harp	B-musicalinstrument
+
+Flute	B-musicalinstrument
+
+Clarinet	B-musicalinstrument
+
+Saxophone	B-musicalinstrument
+
+Trumpet	B-musicalinstrument
+
+Trombone	B-musicalinstrument
+
+Bass	B-musicalinstrument
+Guitar	I-musicalinstrument
+
+Drums	B-musicalinstrument
+
+Tambourine	B-musicalinstrument
+
+Harmonica	B-musicalinstrument
+
+Accordion	B-musicalinstrument
+
+Banjo	B-musicalinstrument
+
+Mandolin	B-musicalinstrument
+
+Ukulele	B-musicalinstrument
+
+Bagpipes	B-musicalinstrument
+
+Oboe	B-musicalinstrument
+
+Bassoon	B-musicalinstrument
+
+Tuba	B-musicalinstrument
+
+French	B-musicalinstrument
+Horn	I-musicalinstrument
+
+Xylophone	B-musicalinstrument
+
+Maracas	B-musicalinstrument
+
+Bongos	B-musicalinstrument
+
+Congas	B-musicalinstrument
+
+Didgeridoo	B-musicalinstrument
+
+Djembe	B-musicalinstrument
+
+Sitar	B-musicalinstrument
+
+Erhu	B-musicalinstrument
+
+Koto	B-musicalinstrument
+
+Pipa	B-musicalinstrument
+
+Balalaika	B-musicalinstrument
+
+Bouzouki	B-musicalinstrument
+
+Dulcimer	B-musicalinstrument
+
+Keytar	B-musicalinstrument
+
+Synthesizer	B-musicalinstrument
+
+Kazoo	B-musicalinstrument
+
+Pan	B-musicalinstrument
+Flute	I-musicalinstrument
+
+Castanets	B-musicalinstrument
+
+Guzheng	B-musicalinstrument
+
+Hang	B-musicalinstrument
+Drum	I-musicalinstrument
+
+Theremin	B-musicalinstrument
+
+Steel	B-musicalinstrument
+Drums	I-musicalinstrument
+
+Glockenspiel	B-musicalinstrument
+
+Marimba	B-musicalinstrument
+
+Cuatro	B-musicalinstrument
+
+Zither	B-musicalinstrument
+
+Autoharp	B-musicalinstrument
+
+Hurdy-Gurdy	B-musicalinstrument
+
+Bandoneon	B-musicalinstrument
+
+Mbira	B-musicalinstrument
+
+Chapman	B-musicalinstrument
+Stick	I-musicalinstrument
+
+Lyre	B-musicalinstrument
+
+Bodhran	B-musicalinstrument
+
+Lute	B-musicalinstrument
+
+Tabla	B-musicalinstrument
+
+Sarod	B-musicalinstrument
+
+Shamisen	B-musicalinstrument
+

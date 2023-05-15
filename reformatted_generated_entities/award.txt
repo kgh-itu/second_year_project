@@ -1,0 +1,198 @@
+Grammy	B-award
+
+Oscar	B-award
+
+Emmy	B-award
+
+Tony	B-award
+
+Juno	B-award
+
+Mercury	B-award
+Prize	I-award
+
+Brit	B-award
+Award	I-award
+
+AMA	B-award
+
+MTV	B-award
+VMA	I-award
+
+Billboard	B-award
+Music	I-award
+Award	I-award
+
+CMA	B-award
+
+ACM	B-award
+
+Dove	B-award
+Award	I-award
+
+BET	B-award
+Award	I-award
+
+MOBO	B-award
+Award	I-award
+
+Golden	B-award
+Globe	I-award
+
+Pulitzer	B-award
+Prize	I-award
+
+BAFTA	B-award
+
+Echo	B-award
+Award	I-award
+
+Latin	B-award
+Grammy	I-award
+
+Kids'	B-award
+Choice	I-award
+Award	I-award
+
+ARIA	B-award
+
+Polaris	B-award
+Music	I-award
+Prize	I-award
+
+Edison	B-award
+Award	I-award
+
+Kerrang!	B-award
+Award	I-award
+
+BRITs	B-award
+Icon	I-award
+
+Victoires	B-award
+de	I-award
+la	I-award
+Musique	I-award
+
+Soul	B-award
+Train	I-award
+Music	I-award
+Award	I-award
+
+SAMA	B-award
+
+Q	B-award
+Award	I-award
+
+MMVA	B-award
+
+NME	B-award
+Award	I-award
+
+Ivor	B-award
+Novello	I-award
+
+DJ	B-award
+Award	I-award
+
+Razzie	B-award
+
+CFDA	B-award
+Fashion	I-award
+Award	I-award
+
+Rock	B-award
+and	I-award
+Roll	I-award
+Hall	I-award
+of	I-award
+Fame	I-award
+
+Hollywood	B-award
+Walk	I-award
+of	I-award
+Fame	I-award
+
+Eurovision	B-award
+Song	I-award
+Contest	I-award
+
+César	B-award
+
+Goya	B-award
+
+David	B-award
+di	I-award
+Donatello	I-award
+
+Golden	B-award
+Disc	I-award
+Award	I-award
+
+Mnet	B-award
+Asian	I-award
+Music	I-award
+Award	I-award
+
+Lo	B-award
+Nuestro	I-award
+Award	I-award
+
+Orville	B-award
+H.	I-award
+Gibson	I-award
+Award	I-award
+
+APRA	B-award
+Award	I-award
+
+J	B-award
+Award	I-award
+
+iHeartRadio	B-award
+Music	I-award
+Award	I-award
+
+YouTube	B-award
+Music	I-award
+Award	I-award
+
+NRJ	B-award
+Music	I-award
+Award	I-award
+
+World	B-award
+Music	I-award
+Award	I-award
+
+MuchMusic	B-award
+Video	I-award
+Award	I-award
+
+NAACP	B-award
+Image	I-award
+Award	I-award
+
+Danish	B-award
+Music	I-award
+Award	I-award
+
+Swiss	B-award
+Music	I-award
+Prize	I-award
+
+Tejano	B-award
+Music	I-award
+Award	I-award
+
+Classical	B-award
+BRIT	I-award
+Award	I-award
+
+Premio	B-award
+Lo	I-award
+Nuestro	I-award
+
+Félix	B-award
+Award	I-award
+

@@ -1,0 +1,174 @@
+Paul	B-person
+McCartney	I-person
+
+Beyonce	B-person
+Knowles	I-person
+
+Bob	B-person
+Dylan	I-person
+
+Madonna	B-person
+
+Quincy	B-person
+Jones	I-person
+
+Mick	B-person
+Jagger	I-person
+
+Bono	B-person
+
+Adele	B-person
+
+Taylor	B-person
+Swift	I-person
+
+Bruce	B-person
+Springsteen	I-person
+
+Elton	B-person
+John	I-person
+
+Aretha	B-person
+Franklin	I-person
+
+David	B-person
+Bowie	I-person
+
+Prince	B-person
+
+Stevie	B-person
+Wonder	I-person
+
+Michael	B-person
+Jackson	I-person
+
+Brian	B-person
+Wilson	I-person
+
+Lady	B-person
+Gaga	I-person
+
+Jay-Z	B-person
+
+Rihanna	B-person
+
+Freddie	B-person
+Mercury	I-person
+
+Kurt	B-person
+Cobain	I-person
+
+John	B-person
+Lennon	I-person
+
+Elvis	B-person
+Presley	I-person
+
+Billy	B-person
+Joel	I-person
+
+Robert	B-person
+Plant	I-person
+
+Frank	B-person
+Sinatra	I-person
+
+Nina	B-person
+Simone	I-person
+
+Johnny	B-person
+Cash	I-person
+
+Leonard	B-person
+Cohen	I-person
+
+Patti	B-person
+Smith	I-person
+
+Kanye	B-person
+West	I-person
+
+Kendrick	B-person
+Lamar	I-person
+
+Drake	B-person
+
+Snoop	B-person
+Dogg	I-person
+
+Eddie	B-person
+Vedder	I-person
+
+Thom	B-person
+Yorke	I-person
+
+Dave	B-person
+Grohl	I-person
+
+Joan	B-person
+Baez	I-person
+
+Billie	B-person
+Holiday	I-person
+
+Ella	B-person
+Fitzgerald	I-person
+
+Bjork	B-person
+
+Nick	B-person
+Cave	I-person
+
+Amy	B-person
+Winehouse	I-person
+
+Billie	B-person
+Eilish	I-person
+
+Ariana	B-person
+Grande	I-person
+
+Justin	B-person
+Bieber	I-person
+
+Katy	B-person
+Perry	I-person
+
+Ed	B-person
+Sheeran	I-person
+
+Dua	B-person
+Lipa	I-person
+
+Harry	B-person
+Styles	I-person
+
+Lizzo	B-person
+
+Camila	B-person
+Cabello	I-person
+
+Doja	B-person
+Cat	I-person
+
+Megan	B-person
+Thee	I-person
+Stallion	I-person
+
+Lil	B-person
+Nas	I-person
+X	I-person
+
+Billie	B-person
+Joe	I-person
+Armstrong	I-person
+
+Chris	B-person
+Martin	I-person
+
+Keith	B-person
+Richards	I-person
+
+Jimmy	B-person
+Page	I-person
+

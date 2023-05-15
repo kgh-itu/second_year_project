@@ -1,0 +1,128 @@
+USA	B-country
+
+Canada	B-country
+
+UK	B-country
+
+France	B-country
+
+Italy	B-country
+
+Spain	B-country
+
+Germany	B-country
+
+Australia	B-country
+
+Brazil	B-country
+
+Russia	B-country
+
+Japan	B-country
+
+Mexico	B-country
+
+India	B-country
+
+China	B-country
+
+South	B-country
+Korea	I-country
+
+Argentina	B-country
+
+Chile	B-country
+
+Sweden	B-country
+
+Norway	B-country
+
+Finland	B-country
+
+Denmark	B-country
+
+Ireland	B-country
+
+Netherlands	B-country
+
+Belgium	B-country
+
+Switzerland	B-country
+
+Austria	B-country
+
+Portugal	B-country
+
+Greece	B-country
+
+Turkey	B-country
+
+New	B-country
+Zealand	I-country
+
+South	B-country
+Africa	I-country
+
+Egypt	B-country
+
+Israel	B-country
+
+Saudi	B-country
+Arabia	I-country
+
+UAE	B-country
+
+Iran	B-country
+
+Poland	B-country
+
+Czech	B-country
+Republic	I-country
+
+Hungary	B-country
+
+Romania	B-country
+
+Ukraine	B-country
+
+Bulgaria	B-country
+
+Croatia	B-country
+
+Serbia	B-country
+
+Bosnia	B-country
+and	I-country
+Herzegovina	I-country
+
+Algeria	B-country
+
+Nigeria	B-country
+
+Kenya	B-country
+
+Ghana	B-country
+
+Ethiopia	B-country
+
+Uganda	B-country
+
+Tanzania	B-country
+
+Zambia	B-country
+
+Zimbabwe	B-country
+
+Angola	B-country
+
+Mozambique	B-country
+
+Morocco	B-country
+
+Tunisia	B-country
+
+Senegal	B-country
+
+Ivory	B-country
+Coast	I-country
+

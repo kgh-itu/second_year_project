@@ -1,0 +1,216 @@
+Madison	B-location
+Square	I-location
+Garden	I-location
+
+Carnegie	B-location
+Hall	I-location
+
+Royal	B-location
+Albert	I-location
+Hall	I-location
+
+Red	B-location
+Rocks	I-location
+Amphitheatre	I-location
+
+Hollywood	B-location
+Bowl	I-location
+
+Ryman	B-location
+Auditorium	I-location
+
+Sydney	B-location
+Opera	I-location
+House	I-location
+
+The	B-location
+O2	I-location
+Arena	I-location
+
+Wembley	B-location
+Stadium	I-location
+
+Glastonbury	B-location
+Tor	I-location
+
+The	B-location
+Fillmore	I-location
+
+The	B-location
+Roxy	I-location
+
+The	B-location
+Troubadour	I-location
+
+Whisky	B-location
+a	I-location
+Go	I-location
+Go	I-location
+
+CBGB	B-location
+
+Studio	B-location
+54	I-location
+
+Birdland	B-location
+
+The	B-location
+Apollo	I-location
+
+The	B-location
+Bluebird	I-location
+Cafe	I-location
+
+The	B-location
+Greek	I-location
+Theatre	I-location
+
+The	B-location
+Grand	I-location
+Ole	I-location
+Opry	I-location
+
+Radio	B-location
+City	I-location
+Music	I-location
+Hall	I-location
+
+Slane	B-location
+Castle	I-location
+
+Budokan	B-location
+Hall	I-location
+
+The	B-location
+Cavern	I-location
+Club	I-location
+
+Abbey	B-location
+Road	I-location
+Studios	I-location
+
+Sun	B-location
+Studio	I-location
+
+The	B-location
+Cotton	I-location
+Club	I-location
+
+The	B-location
+Underworld	I-location
+
+The	B-location
+Bataclan	I-location
+
+Rainbow	B-location
+Bar	I-location
+and	I-location
+Grill	I-location
+
+Roskilde	B-location
+
+Motown	B-location
+Museum	I-location
+
+Preservation	B-location
+Hall	I-location
+
+The	B-location
+Tabernacle	I-location
+
+The	B-location
+Marquee	I-location
+Club	I-location
+
+The	B-location
+Roundhouse	I-location
+
+The	B-location
+Roxy	I-location
+Theatre	I-location
+
+The	B-location
+Village	I-location
+Vanguard	I-location
+
+The	B-location
+Newport	I-location
+Casino	I-location
+
+Exit	B-location
+In	I-location
+
+The	B-location
+Leadmill	I-location
+
+The	B-location
+Koko	I-location
+Club	I-location
+
+The	B-location
+Paradiso	I-location
+Club	I-location
+
+The	B-location
+Sugar	I-location
+Club	I-location
+
+The	B-location
+Pacha	I-location
+Club	I-location
+
+The	B-location
+Amnesia	I-location
+Club	I-location
+
+The	B-location
+Ushuaia	I-location
+Club	I-location
+
+The	B-location
+Egg	I-location
+Club	I-location
+
+The	B-location
+Trouw	I-location
+Club	I-location
+
+The	B-location
+Berghain	I-location
+Club	I-location
+
+The	B-location
+Watergate	I-location
+Club	I-location
+
+The	B-location
+Rex	I-location
+Club	I-location
+
+The	B-location
+Ziggo	I-location
+Dome	I-location
+
+The	B-location
+TivoliVredenburg	I-location
+
+The	B-location
+Zenith	I-location
+Paris	I-location
+
+The	B-location
+Olympia	I-location
+Hall	I-location
+
+The	B-location
+Galaxie	I-location
+Amneville	I-location
+
+The	B-location
+Sheffield	I-location
+Arena	I-location
+
+The	B-location
+NEC	I-location
+Arena	I-location
+

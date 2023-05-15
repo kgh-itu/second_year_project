@@ -1,0 +1,156 @@
+Vinyl	B-miscellanous
+Record	I-miscellanous
+
+Concert	B-miscellanous
+Ticket	I-miscellanous
+
+Autograph	B-miscellanous
+
+Album	B-miscellanous
+Artwork	I-miscellanous
+
+Music	B-miscellanous
+Video	I-miscellanous
+
+Record	B-miscellanous
+Player	I-miscellanous
+
+Sheet	B-miscellanous
+Music	I-miscellanous
+
+Metronome	B-miscellanous
+
+Band	B-miscellanous
+Merch	I-miscellanous
+
+Tour	B-miscellanous
+Poster	I-miscellanous
+
+Backstage	B-miscellanous
+Pass	I-miscellanous
+
+Guitar	B-miscellanous
+Pick	I-miscellanous
+
+Drumsticks	B-miscellanous
+
+Concert	B-miscellanous
+Tee	I-miscellanous
+
+Mixtape	B-miscellanous
+
+Spotify	B-miscellanous
+Playlist	I-miscellanous
+
+Studio	B-miscellanous
+Session	I-miscellanous
+
+Soundcheck	B-miscellanous
+
+Encore	B-miscellanous
+
+DJ	B-miscellanous
+Set	I-miscellanous
+
+Stage	B-miscellanous
+Dive	I-miscellanous
+
+Mosh	B-miscellanous
+Pit	I-miscellanous
+
+Gig	B-miscellanous
+
+Live	B-miscellanous
+Album	I-miscellanous
+
+Music	B-miscellanous
+Festival	I-miscellanous
+
+Earplugs	B-miscellanous
+
+Turntable	B-miscellanous
+
+Sound	B-miscellanous
+System	I-miscellanous
+
+Headphones	B-miscellanous
+
+Amplifier	B-miscellanous
+
+Music	B-miscellanous
+Stand	I-miscellanous
+
+Grammy	B-miscellanous
+Award	I-miscellanous
+
+Recording	B-miscellanous
+Contract	I-miscellanous
+
+Autotune	B-miscellanous
+
+Remix	B-miscellanous
+
+EP	B-miscellanous
+
+LP	B-miscellanous
+
+Single	B-miscellanous
+
+Demo	B-miscellanous
+Tape	I-miscellanous
+
+Music	B-miscellanous
+Score	I-miscellanous
+
+Hip-Hop	B-miscellanous
+Beat	I-miscellanous
+
+Sound	B-miscellanous
+Engineer	I-miscellanous
+
+Setlist	B-miscellanous
+
+Pyrotechnics	B-miscellanous
+
+Stage	B-miscellanous
+Lighting	I-miscellanous
+
+Soundboard	B-miscellanous
+
+Roadie	B-miscellanous
+
+Groupie	B-miscellanous
+
+Rap	B-miscellanous
+Battle	I-miscellanous
+
+Music	B-miscellanous
+Producer	I-miscellanous
+
+Songwriter	B-miscellanous
+
+Backup	B-miscellanous
+Singer	I-miscellanous
+
+Session	B-miscellanous
+Musician	I-miscellanous
+
+Soundtrack	B-miscellanous
+
+MTV	B-miscellanous
+Unplugged	I-miscellanous
+
+VH1	B-miscellanous
+Storytellers	I-miscellanous
+
+Jingle	B-miscellanous
+
+Boy	B-miscellanous
+Band	I-miscellanous
+
+Girl	B-miscellanous
+Group	I-miscellanous
+
+One-Hit	B-miscellanous
+Wonder	I-miscellanous
+

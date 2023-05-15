@@ -1,0 +1,131 @@
+Pop	B-musicgenre
+
+Rock	B-musicgenre
+
+Jazz	B-musicgenre
+
+Blues	B-musicgenre
+
+Country	B-musicgenre
+
+Hip-Hop	B-musicgenre
+
+R&B	B-musicgenre
+
+Soul	B-musicgenre
+
+Reggae	B-musicgenre
+
+Ska	B-musicgenre
+
+Punk	B-musicgenre
+
+Metal	B-musicgenre
+
+Grunge	B-musicgenre
+
+Indie	B-musicgenre
+
+EDM	B-musicgenre
+
+Techno	B-musicgenre
+
+House	B-musicgenre
+
+Trance	B-musicgenre
+
+Dubstep	B-musicgenre
+
+Classical	B-musicgenre
+
+Opera	B-musicgenre
+
+Gospel	B-musicgenre
+
+Funk	B-musicgenre
+
+Disco	B-musicgenre
+
+New	B-musicgenre
+Wave	I-musicgenre
+
+Synth-pop	B-musicgenre
+
+Rap	B-musicgenre
+
+Latin	B-musicgenre
+
+Salsa	B-musicgenre
+
+Flamenco	B-musicgenre
+
+Reggaeton	B-musicgenre
+
+K-Pop	B-musicgenre
+
+J-Pop	B-musicgenre
+
+Afrobeat	B-musicgenre
+
+Highlife	B-musicgenre
+
+Samba	B-musicgenre
+
+Bossa	B-musicgenre
+Nova	I-musicgenre
+
+Folk	B-musicgenre
+
+Americana	B-musicgenre
+
+Bluegrass	B-musicgenre
+
+Celtic	B-musicgenre
+
+World	B-musicgenre
+Music	I-musicgenre
+
+Psychedelic	B-musicgenre
+
+Progressive	B-musicgenre
+Rock	I-musicgenre
+
+Heavy	B-musicgenre
+Metal	I-musicgenre
+
+Death	B-musicgenre
+Metal	I-musicgenre
+
+Black	B-musicgenre
+Metal	I-musicgenre
+
+Thrash	B-musicgenre
+Metal	I-musicgenre
+
+Grindcore	B-musicgenre
+
+Hardcore	B-musicgenre
+Punk	I-musicgenre
+
+Post-Punk	B-musicgenre
+
+Shoegaze	B-musicgenre
+
+Post-Rock	B-musicgenre
+
+Doo-Wop	B-musicgenre
+
+Motown	B-musicgenre
+
+Swing	B-musicgenre
+
+Bebop	B-musicgenre
+
+Cool	B-musicgenre
+Jazz	I-musicgenre
+
+Ambient	B-musicgenre
+
+New	B-musicgenre
+Age	I-musicgenre
+

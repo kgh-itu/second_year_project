@@ -1,0 +1,164 @@
+Queen	B-band
+
+Nirvana	B-band
+
+Muse	B-band
+
+Oasis	B-band
+
+U2	B-band
+
+Kiss	B-band
+
+Blur	B-band
+
+ABBA	B-band
+
+Rush	B-band
+
+AC/DC	B-band
+
+Kiss	B-band
+
+Tool	B-band
+
+INXS	B-band
+
+Yes	B-band
+
+R.E.M	B-band
+
+Pearl	B-band
+Jam	I-band
+
+Metallica	B-band
+
+Coldplay	B-band
+
+Aerosmith	B-band
+
+Radiohead	B-band
+
+The	B-band
+Eagles	I-band
+
+Green	B-band
+Day	I-band
+
+The	B-band
+Beatles	I-band
+
+Pink	B-band
+Floyd	I-band
+
+The	B-band
+Clash	I-band
+
+The	B-band
+Rolling	I-band
+Stones	I-band
+
+Led	B-band
+Zeppelin	I-band
+
+The	B-band
+Who	I-band
+
+Guns	B-band
+N'	I-band
+Roses	I-band
+
+Fleetwood	B-band
+Mac	I-band
+
+The	B-band
+Smiths	I-band
+
+The	B-band
+Police	I-band
+
+Iron	B-band
+Maiden	I-band
+
+The	B-band
+Beach	I-band
+Boys	I-band
+
+Red	B-band
+Hot	I-band
+Chili	I-band
+Peppers	I-band
+
+The	B-band
+Doors	I-band
+
+The	B-band
+Velvet	I-band
+Underground	I-band
+
+Lynyrd	B-band
+Skynyrd	I-band
+
+Black	B-band
+Sabbath	I-band
+
+Dire	B-band
+Straits	I-band
+
+The	B-band
+Cure	I-band
+
+Ramones	B-band
+
+Deep	B-band
+Purple	I-band
+
+Bon	B-band
+Jovi	I-band
+
+The	B-band
+Kinks	I-band
+
+Def	B-band
+Leppard	I-band
+
+Journey	B-band
+
+Queen	B-band
+
+Maroon	B-band
+5	I-band
+
+Foo	B-band
+Fighters	I-band
+
+Linkin	B-band
+Park	I-band
+
+Arctic	B-band
+Monkeys	I-band
+
+Imagine	B-band
+Dragons	I-band
+
+OneRepublic	B-band
+
+Kings	B-band
+of	I-band
+Leon	I-band
+
+The	B-band
+Strokes	I-band
+
+MGMT	B-band
+
+The	B-band
+Killers	I-band
+
+Vampire	B-band
+Weekend	I-band
+
+The	B-band
+Black	I-band
+Keys	I-band
+

@@ -1,0 +1,217 @@
+Abbey	B-album
+Road	I-album
+
+The	B-album
+White	I-album
+Album	I-album
+
+Pet	B-album
+Sounds	I-album
+
+Blonde	B-album
+on	I-album
+Blonde	I-album
+
+Born	B-album
+to	I-album
+Run	I-album
+
+Nevermind	B-album
+
+A	B-album
+Night	I-album
+at	I-album
+the	I-album
+Opera	I-album
+
+The	B-album
+Joshua	I-album
+Tree	I-album
+
+Rumours	B-album
+
+Revolver	B-album
+
+Hotel	B-album
+California	I-album
+
+Dark	B-album
+Side	I-album
+of	I-album
+the	I-album
+Moon	I-album
+
+Thriller	B-album
+
+Led	B-album
+Zeppelin	I-album
+IV	I-album
+
+Purple	B-album
+Rain	I-album
+
+Blue	B-album
+
+Exile	B-album
+on	I-album
+Main	I-album
+St.	I-album
+
+Velvet	B-album
+Underground	I-album
+&	I-album
+Nico	I-album
+
+Highway	B-album
+61	I-album
+Revisited	I-album
+
+Blood	B-album
+on	I-album
+the	I-album
+Tracks	I-album
+
+OK	B-album
+Computer	I-album
+
+The	B-album
+Wall	I-album
+
+Ziggy	B-album
+Stardust	I-album
+
+Innervisions	B-album
+
+Astral	B-album
+Weeks	I-album
+
+Kind	B-album
+of	I-album
+Blue	I-album
+
+The	B-album
+Chronic	I-album
+
+My	B-album
+Beautiful	I-album
+Dark	I-album
+Twisted	I-album
+Fantasy	I-album
+
+Back	B-album
+in	I-album
+Black	I-album
+
+Songs	B-album
+in	I-album
+the	I-album
+Key	I-album
+of	I-album
+Life	I-album
+
+Sgt.	B-album
+Pepper's	I-album
+Lonely	I-album
+Hearts	I-album
+Club	I-album
+Band	I-album
+
+Dookie	B-album
+
+Master	B-album
+of	I-album
+Puppets	I-album
+
+Appetite	B-album
+for	I-album
+Destruction	I-album
+
+Rubber	B-album
+Soul	I-album
+
+Good	B-album
+Kid,	I-album
+M.A.A.D	I-album
+City	I-album
+
+Blackstar	B-album
+
+The	B-album
+Rise	I-album
+and	I-album
+Fall	I-album
+of	I-album
+Ziggy	I-album
+Stardust	I-album
+
+Wish	B-album
+You	I-album
+Were	I-album
+Here	I-album
+
+To	B-album
+Pimp	I-album
+a	I-album
+Butterfly	I-album
+
+Kid	B-album
+A	I-album
+
+Let	B-album
+It	I-album
+Be	I-album
+
+Tommy	B-album
+
+Disintegration	B-album
+
+Born	B-album
+in	I-album
+the	I-album
+U.S.A.	I-album
+
+The	B-album
+Bends	I-album
+
+21	B-album
+
+Illmatic	B-album
+
+London	B-album
+Calling	I-album
+
+Electric	B-album
+Ladyland	I-album
+
+Are	B-album
+You	I-album
+Experienced	I-album
+
+Blonde	B-album
+
+American	B-album
+Idiot	I-album
+
+White	B-album
+Blood	I-album
+Cells	I-album
+
+Is	B-album
+This	I-album
+It	I-album
+
+Unknown	B-album
+Pleasures	I-album
+
+In	B-album
+Rainbows	I-album
+
+Achtung	B-album
+Baby	I-album
+
+Sticky	B-album
+Fingers	I-album
+
+In	B-album
+Utero	I-album
+

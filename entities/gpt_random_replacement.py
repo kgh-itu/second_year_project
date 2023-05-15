@@ -89,7 +89,6 @@ def swap_entities(input_file, output_file, entities, token_map):
                                 out_file.write(f"{replacement[i][0]}\t{t}\n")
                         else:
                             for w, t in entity:
-                                print(w, t)
                                 out_file.write(f"{w}\t{token_map[t]}\n")
                         entity = []  # Reset the entity list
                     out_file.write(line)
@@ -108,7 +107,7 @@ def swap_entities(input_file, output_file, entities, token_map):
 
 
 if __name__ == '__main__':
-    music_entities = extract_entities("./generated_tags/")
+    music_entities = extract_entities("./reformatted_generated_entities/")
     swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_gpt_randomly_replaced.txt",
                   music_entities, mapping)
     print("done")

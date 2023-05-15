@@ -8,7 +8,7 @@ DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
 BATCH_SIZE = 32
 LEARNING_RATE = 0.01
-EPOCHS = 100
+EPOCHS = 50
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -54,7 +54,12 @@ def read_data(file_name):
     return data
 
 
-train_data = read_data("datasets/entity_swapped_datasets/science_cosine_replaced.txt")
+train_data = read_data("datasets/entity_swapped_datasets/science_gpt_cosine_replaced.txt")
+test_data = read_data("datasets/music_test.txt")
+output_file = "predictions/gpt_cosine_music_test_preds.txt"
+BATCH_SIZE = 1
+
+
 # Create vocabularies for both the tokens
 # and the tags
 id_to_token = [PAD]
@@ -212,12 +217,7 @@ def save_predictions_to_file(data, predictions, output_file):
             f.write("\n")
 
 
-test_data = "datasets/music_test.txt"
-output_file = "predictions/cosine_music_test_preds.txt"
-BATCH_SIZE = 1
-test_data = read_data(test_data)
 dev_feats, dev_labels = data2feats(test_data, token_to_id, tag_to_id)
-
 num_batches2 = int(len(dev_feats) / BATCH_SIZE)
 
 dev_feats_batches = dev_feats[: BATCH_SIZE * num_batches2].view(num_batches2, BATCH_SIZE, max_len).to(device)

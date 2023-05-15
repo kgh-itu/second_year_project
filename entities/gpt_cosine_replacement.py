@@ -138,6 +138,6 @@ def swap_entities(input_file, output_file, entities, token_map):
 
 
 if __name__ == '__main__':
-    music_entities = extract_entities("./generated_tags/")
+    music_entities = extract_entities("./reformatted_generated_entities/")
     swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_gpt_cosine_replaced.txt",
                   music_entities, mapping)

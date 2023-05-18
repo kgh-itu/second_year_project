@@ -124,7 +124,3 @@ if __name__ == '__main__':
                 counter[tag] += len(music_entities[tag][key])
             else:
                 counter[tag] = len(music_entities[tag][key])
-
-
-
-music_entities['B-musicgenre'].keys()

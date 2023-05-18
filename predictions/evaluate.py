@@ -1,7 +1,7 @@
 import sys
 
 from seqeval.metrics import f1_score, classification_report
-
+import sys
 
 def readBIO(path):
     ents = []
@@ -26,5 +26,5 @@ def score(y_true, y_pred):
 
 
 if __name__ == "__main__":
-    true, preds = readBIO("datasets/music_test.txt"), readBIO("predictions/science_baseline_replaced_500_preds0.txt")
+    true, preds = readBIO(sys.argv[1]), readBIO(sys.argv[2])
     print(score(true, preds))

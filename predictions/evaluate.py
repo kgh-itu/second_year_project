@@ -26,5 +26,5 @@ def score(y_true, y_pred):
 
 
 if __name__ == "__main__":
-    true, preds = readBIO("datasets/music_test.txt"), readBIO("predictions/gpt_cosine_music_test_preds.txt")
+    true, preds = readBIO("datasets/music_test.txt"), readBIO("predictions/science_baseline_replaced_500_preds0.txt")
     print(score(true, preds))

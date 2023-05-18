@@ -16,7 +16,8 @@ mapping = {'B-scientist': 'B-musicalartist', 'I-scientist': 'I-musicalartist',
            'B-location': 'B-location', 'I-location': 'I-location',
            'B-organisation': 'B-organisation', 'I-organisation': 'I-organisation',
            'B-award': 'B-award', 'I-award': 'I-award',
-           'B-event': 'B-event', 'I-event': 'I-event'}
+           'B-event': 'B-event', 'I-event': 'I-event',
+           'B-country': 'B-country', 'I-country': 'I-country'}
 
 
 def extract_entities(file_path):
@@ -106,6 +107,24 @@ def swap_entities(input_file, output_file, entities, token_map):
 
 if __name__ == '__main__':
     music_entities = extract_entities("./datasets/music_dev.txt")
-    swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_randomly_replaced.txt",
-                  music_entities, mapping)
-    print("done")
+    music_entities['B-musicgenre'].keys()
+    # swap_entities("./datasets/science_train.txt", "./datasets/entity_swapped_datasets/science_randomly_replaced.txt",
+    #               music_entities, mapping)
+    # print("done")
+
+
+    all_tags = set(mapping.values())
+    b_tags = [i for i in all_tags if i.startswith('B')]
+    counter = {}
+    for tag in b_tags:
+        for key in music_entities[tag].keys():
+            #print(key, len(music_entities[tag][key]))
+            if tag in counter:
+                print(tag)
+                counter[tag] += len(music_entities[tag][key])
+            else:
+                counter[tag] = len(music_entities[tag][key])
+
+
+
+music_entities['B-musicgenre'].keys()
